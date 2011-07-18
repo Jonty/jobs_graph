@@ -21,7 +21,7 @@ dsingleton: Spring Digital -> Last.fm -> ?
 Tamsin: Yahoo! -> MOO
 ashb: Fotango -> NAP -> DigiResults
 dom: icom -> LBi -> DigiResults
-georgebrock: Reevoo -> Artfinder
+georgebrock: ? -> Reevoo -> Artfinder
 chrismear: freelance -> Greenvoice -> freelance
 amln: ? -> Mysociety
 abscond: peoplesmusicstore -> unboxed -> BERG
