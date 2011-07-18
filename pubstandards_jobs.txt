@@ -16,14 +16,14 @@ alicebartlett: Assanka -> BERG
 yahnyinlondon: Yahoo! -> RMA Consulting
 boozeniges: LSBU -> GCap -> LBi -> Nature -> Mozilla
 cackhanded: Yahoo! -> Linden Labs -> Artfinder
-jaylett: tangozebra -> Kudocities -> freelance -> EMI -> Artfinder
+jaylett: tangozebra -> Kudocities -> Freelance -> EMI -> Artfinder
 dsingleton: Spring Digital -> Last.fm -> ?
 Tamsin: Yahoo! -> MOO
 ashb: Fotango -> NAP -> DigiResults
 dom: icom -> LBi -> DigiResults
-georgebrock: freelance -> Reevoo -> Artfinder
-chrismear: freelance -> Greenvoice -> freelance
-abscond: citysafe -> peoplesmusicstore -> freelance -> Unboxed -> BERG
+georgebrock: Freelance -> Reevoo -> Artfinder
+chrismear: Freelance -> Greenvoice -> Freelance
+abscond: citysafe -> peoplesmusicstore -> Freelance -> Unboxed -> BERG
 mnowster: tangozebra -> Acknowledge -> Glasses Direct -> Artfinder
 Mike Stenhouse: Trampoline -> Aframe
 paulcuth: ATS -> Gamesys
@@ -42,15 +42,16 @@ actel: CRU
 dunk: Last.fm
 Ben Marvel: Wiley -> BSkyB -> HandbagsRus
 skarab: Smarkets
-Nicky: -> MOO
+Nicky: MOO
 Lebannen: Assanka
+lucas42: Assanka
 Steve Marshall: Fujitsu Siemens -> Yahoo!
 MikeD:  Yahoo! -> Lovefilm
 Alex Lee: Yahoo! -> GCap -> Kneedl -> Smarkets -> Freelance
 Simon Coltman: Red Snapper -> Squiz -> Yahoo!
 Kriss Watt: Squiz -> Tobias & Tobias
 Richard Pope: MOO -> MySociety -> Freelance -> GovUK
-
+ginader: Yahoo! -> Yahoo! US
 
 
 
@@ -59,7 +60,7 @@ Richard Pope: MOO -> MySociety -> Freelance -> GovUK
     
           
                                       
-                                        
+                                         ~~~~~
                                       
           
     
