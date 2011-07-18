@@ -15,7 +15,7 @@ kapowaz: unboxed - > photobox
 alicebartlett: Assanka -> BERG
 Boozeniges: GCap -> LBi -> Nature -> Mozilla
 cackhanded: Yahoo -> linden labs -> Artfinder
-jaylett: Infinity Realities -> tangozebra -> Kudocities -> EMI -> Artfinder
+jaylett: tangozebra -> Kudocities -> EMI -> Artfinder
 dsingleton: Spring Digital -> Last.fm
 Tamsin: Yahoo -> Moo
 ashb: Fotango -> NAP -> DigiResults
@@ -39,5 +39,5 @@ andrewgodwin: Torchbox -> ep.io
 bfirsh: Guardian -> ep.io
 Sarah Clark: icom -> Steely Eye
 actel: CRU
-
+dunk: Last.fm
 
