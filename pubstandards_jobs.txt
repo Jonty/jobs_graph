@@ -45,6 +45,7 @@ skarab: Smarkets
 Nicky: -> MOO
 Steve Marshall: Fujitsu Siemens -> Yahoo!
 MikeD:  Yahoo! -> Lovefilm
+Alex Lee: GCap->Yahoo!->Smarkets->Freelance
 
 
 
