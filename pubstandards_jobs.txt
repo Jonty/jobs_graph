@@ -4,20 +4,20 @@ Released under CC-0.
 russss: Last.fm -> Smarkets
 muz: Last.fm -> Mendeley -> BBC
 jonty: Last.fm -> ?! MAKE HIM sexy CAKE?
-benward: Yahoo -> Yahoo US -> Twitter
+benward: Yahoo! -> Yahoo! US -> Twitter
 phae: Volume -> BBC -> Nature -> Alpha.gov
 garethr: GCap -> Glasses Direct -> FreeAgent -> Alpha.gov
 creature: Sun Microsystems -> Framestore CFC -> Last.fm
 mokele: Last.fm -> Smarkets
-neilcrosby: Yahoo  -> BBC (Job obtained via a bribe of cake)
-bradwright: Yahoo -> GCap -> Smarkets
-kapowaz: Teamphone -> HomeAway -> VideoJuicer -> Unboxed - > Photobox
+neilcrosby: Yahoo!  -> BBC (Job obtained via a bribe of cake)
+bradwright: Yahoo! -> GCap -> Smarkets
+kapowaz: Teamphone -> HomeAway -> VideoJuicer -> Unboxed -> Photobox
 alicebartlett: Assanka -> BERG
 Boozeniges: LSBU -> GCap -> LBi -> Nature -> Mozilla
 cackhanded: Yahoo -> linden labs -> Artfinder
 jaylett: tangozebra -> Kudocities -> EMI -> Artfinder
 dsingleton: Spring Digital -> Last.fm
-Tamsin: Yahoo -> Moo
+Tamsin: Yahoo! -> MOO
 ashb: Fotango -> NAP -> DigiResults
 dom: icom -> LBi -> DigiResults
 georgebrock: Reevoo -> Artfinder
@@ -40,6 +40,7 @@ bfirsh: Guardian -> ep.io
 Sarah Clark: icom -> Steely Eye
 actel: CRU
 dunk: Last.fm
+ben marvel: Wiley -> BSkyB -> HandbagsRus
 
 
 
@@ -52,7 +53,7 @@ dunk: Last.fm
     
           
                                       
-                                        
+                                    
                                       
           
     
