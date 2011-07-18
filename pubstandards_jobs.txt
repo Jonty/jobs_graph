@@ -13,9 +13,9 @@ neilcrosby: Yahoo!  -> BBC
 bradwright: Yahoo! -> GCap -> Smarkets
 kapowaz: Teamphone -> HomeAway -> VideoJuicer -> Unboxed -> Photobox
 alicebartlett: Assanka -> BERG
-Yahnyinlondon: Yahoo! -> RMA Consulting
-Boozeniges: LSBU -> GCap -> LBi -> Nature -> Mozilla
-cackhanded: Yahoo -> linden labs -> Artfinder
+yahnyinlondon: Yahoo! -> RMA Consulting
+boozeniges: LSBU -> GCap -> LBi -> Nature -> Mozilla
+cackhanded: Yahoo! -> Linden Labs -> Artfinder
 jaylett: tangozebra -> Kudocities -> EMI -> Artfinder
 dsingleton: Spring Digital -> Last.fm -> ?
 Tamsin: Yahoo! -> MOO
@@ -23,28 +23,27 @@ ashb: Fotango -> NAP -> DigiResults
 dom: icom -> LBi -> DigiResults
 georgebrock: freelance -> Reevoo -> Artfinder
 chrismear: freelance -> Greenvoice -> freelance
-amln: ? -> Mysociety
 abscond: citysafe -> peoplesmusicstore -> freelance -> unboxed -> BERG
 mnowster: tangozebra -> Acknowledge -> Glasses Direct -> Artfinder
-mike stenhouse: trampoline - > Aframe
+Mike Stenhouse: Trampoline -> Aframe
 paulcuth: ATS -> Gamesys
 fatbusinessman: Taptu -> Glasses Direct
 lizard: icom -> Unboxed
-dan webb: Vivabit -> peoplesmusicstore -> Twitter
+Dan Webb: Vivabit -> peoplesmusicstore -> Twitter
 RJ: Last.fm -> IRCCloud
 JWheare: Last.fm -> IRCCloud
 Jake Archibald: BBC -> theTeam
-simonw: Yahoo -> GCap -> Guardian -> Lanyrd
+simonw: Yahoo! -> GCap -> Guardian -> Lanyrd
 natbat: Torchbox -> Clearleft -> Lanyrd
 andrewgodwin: Torchbox -> ep.io
 bfirsh: Guardian -> ep.io
 Sarah Clark: icom -> Steely Eye
 actel: CRU
 dunk: Last.fm
-ben marvel: Wiley -> BSkyB -> HandbagsRus
+Ben Marvel: Wiley -> BSkyB -> HandbagsRus
 skarab: Smarkets
 Nicky: -> MOO
-steve marshall: Fujitsu Siemens -> Yahoo!
+Steve Marshall: Fujitsu Siemens -> Yahoo!
 MikeD:  Yahoo! -> Lovefilm
 
 
