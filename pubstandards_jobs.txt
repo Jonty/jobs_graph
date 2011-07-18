@@ -55,7 +55,7 @@ ginader: Yahoo! -> Yahoo! US
 alexs: QuietRevolution
 dorward: Fish IC -> Sophos -> Yahoo! -> Playfire -> BBC
 pete goodman: tonic -> pirata -> f90
-
+matthias: recollective -> Less Rain -> Freelance -> Design Science Office -> Photobox
 
     
           
