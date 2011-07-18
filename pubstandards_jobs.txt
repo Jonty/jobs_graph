@@ -44,7 +44,7 @@ dunk: Last.fm
 ben marvel: Wiley -> BSkyB -> HandbagsRus
 skarab: Smarkets
 Nicky: -> MOO
-steve marshall: Fujitsu -> Yahoo!
+steve marshall: Fujitsu Siemens -> Yahoo!
 
 
 
