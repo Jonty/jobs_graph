@@ -5,7 +5,7 @@ russss: Last.fm -> Smarkets
 muz: Last.fm -> Mendeley -> BBC
 jonty: Last.fm -> ?! MAKE HIM sexy CAKE?
 benward: Yahoo -> Yahoo US -> Twitter
-phae: BBC -> Nature -> Alpha.gov
+phae: Volume -> BBC -> Nature -> Alpha.gov
 garethr: GCap -> Glasses Direct -> FreeAgent -> Alpha.gov
 creature: Sun Microsystems -> Framestore CFC -> Last.fm
 mokele: Last.fm -> Smarkets
@@ -21,7 +21,7 @@ Tamsin: Yahoo -> Moo
 ashb: Fotango -> NAP -> DigiResults
 dom: icom -> LBi -> DigiResults
 georgebrock: Reevoo -> Artfinder
-chrismear: ? -> unboxed
+chrismear: freelance -> Greenvoice -> freelance
 amln: ? -> Mysociety
 abscond: peoplesmusicstore -> unboxed -> BERG
 mnowster: tangozebra -> Acknowledge -> Glasses Direct -> Artfinder
