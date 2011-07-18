@@ -1,4 +1,4 @@
-Contracts over six months are allowed!
+Contracts over six months are allowed, only list jobs you've had since attending PS.
 Released under CC-0.
 
 russss: Last.fm -> Smarkets
@@ -6,7 +6,7 @@ muz: Last.fm -> Mendeley -> BBC
 jonty: Last.fm -> ?! MAKE HIM sexy CAKE?
 benward: Yahoo -> Yahoo US -> Twitter
 phae: BBC -> Nature -> Alpha.gov
-garethr: GCap -> GlassesDirect -> FreeAgent -> Alpha.gov
+garethr: GCap -> Glasses Direct -> FreeAgent -> Alpha.gov
 creature: Sun Microsystems -> Framestore CFC -> Last.fm
 mokele: Last.fm -> Smarkets
 neilcrosby: Yahoo  -> BBC (Job obtained via a bribe of cake)
@@ -24,10 +24,10 @@ georgebrock: Reevoo -> Artfinder
 chrismear: ? -> unboxed
 amln: ? -> Mysociety
 abscond: peoplesmusicstore -> unboxed -> BERG
-mnowster: tangozebra -> Acknowledge -> glasses direct -> Artfinder
+mnowster: tangozebra -> Acknowledge -> Glasses Direct -> Artfinder
 mike stenhouse: trampoline - > Aframe
-paulcuth: ? -> gamesys
-fatbusinessman: torchbox (?) -> glasses direct
+paulcuth: ATS -> Gamesys
+fatbusinessman: Taptu -> Glasses Direct
 lizard: icom -> unboxed
 dan webb: Vivabit -> peoplesmusicstore -> Twitter
 RJ: Last.fm -> IRCCloud
