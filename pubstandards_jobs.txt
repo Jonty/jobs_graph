@@ -9,7 +9,7 @@ phae: Volume -> BBC -> Nature -> Alpha.gov
 garethr: GCap -> Glasses Direct -> FreeAgent -> Alpha.gov
 creature: Sun Microsystems -> Framestore CFC -> Last.fm
 mokele: Last.fm -> Smarkets
-neilcrosby: Yahoo!  -> BBC (Job obtained via a bribe of cake)
+neilcrosby: Yahoo!  -> BBC
 bradwright: Yahoo! -> GCap -> Smarkets
 kapowaz: Teamphone -> HomeAway -> VideoJuicer -> Unboxed -> Photobox
 alicebartlett: Assanka -> BERG
@@ -21,7 +21,7 @@ dsingleton: Spring Digital -> Last.fm -> ?
 Tamsin: Yahoo! -> MOO
 ashb: Fotango -> NAP -> DigiResults
 dom: icom -> LBi -> DigiResults
-georgebrock: ? -> Reevoo -> Artfinder
+georgebrock: freelance -> Reevoo -> Artfinder
 chrismear: freelance -> Greenvoice -> freelance
 amln: ? -> Mysociety
 abscond: peoplesmusicstore -> unboxed -> BERG
