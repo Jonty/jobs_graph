@@ -4,7 +4,7 @@ Released under CC-0.
 russss: Last.fm -> Smarkets
 muz: Last.fm -> Mendeley -> BBC
 jonty: Last.fm -> ?
-benward: Yahoo! -> Yahoo! US -> Twitter
+benward: Yobject -> Yahoo! -> Yahoo! US -> Twitter
 phae: Volume -> BBC -> Nature -> Alpha.gov
 garethr: GCap -> Glasses Direct -> FreeAgent -> Alpha.gov
 creature: Sun Microsystems -> Framestore CFC -> Last.fm
