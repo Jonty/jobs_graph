@@ -43,6 +43,7 @@ dunk: Last.fm
 Ben Marvel: Wiley -> BSkyB -> HandbagsRus
 skarab: Smarkets
 Nicky: -> MOO
+Lebannen: Assanka
 Steve Marshall: Fujitsu Siemens -> Yahoo!
 MikeD:  Yahoo! -> Lovefilm
 Alex Lee: Yahoo! -> GCap -> Kneedl -> Smarkets -> Freelance
