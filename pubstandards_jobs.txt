@@ -33,4 +33,9 @@ dan webb: Vivabit -> peoplesmusicstore -> Twitter
 RJ: Last.fm -> IRCCloud
 JWheare: Last.fm -> IRCCloud
 Jake Archibald: BBC -> theTeam
+simonw: Yahoo -> GCap -> Guardian -> lanyrd
+natbat: Torchbox -> Clear Left -> lanyrd
+andrewgodwin: Torchbox -> ep.io
+bfirsh: Guardian -> ep.io
+
 
