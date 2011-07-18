@@ -57,6 +57,7 @@ dorward: Fish IC -> Sophos -> Yahoo! -> Playfire -> BBC
 pete goodman: tonic -> pirata -> f90
 matthias: recollective -> Less Rain -> Freelance -> Design Science Office -> Photobox
 @skr: Last.fm -> Twitter
+eadmundo: Yahoo! -> Squiz -> Smarkets -> Tobias & Tobias
 
     
           
