@@ -11,7 +11,7 @@ creature: Sun Microsystems -> Framestore CFC -> Last.fm
 mokele: Last.fm -> Smarkets
 neilcrosby: Yahoo  -> BBC (Job obtained via a bribe of cake)
 bradwright: Yahoo -> GCap -> Smarkets
-kapowaz: unboxed - > photobox
+kapowaz: Teamphone -> HomeAway -> VideoJuicer -> Unboxed - > Photobox
 alicebartlett: Assanka -> BERG
 Boozeniges: GCap -> LBi -> Nature -> Mozilla
 cackhanded: Yahoo -> linden labs -> Artfinder
