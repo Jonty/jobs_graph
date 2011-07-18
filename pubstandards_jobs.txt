@@ -13,7 +13,7 @@ neilcrosby: Yahoo  -> BBC (Job obtained via a bribe of cake)
 bradwright: Yahoo -> GCap -> Smarkets
 kapowaz: Teamphone -> HomeAway -> VideoJuicer -> Unboxed - > Photobox
 alicebartlett: Assanka -> BERG
-Boozeniges: GCap -> LBi -> Nature -> Mozilla
+Boozeniges: LSBU -> GCap -> LBi -> Nature -> Mozilla
 cackhanded: Yahoo -> linden labs -> Artfinder
 jaylett: tangozebra -> Kudocities -> EMI -> Artfinder
 dsingleton: Spring Digital -> Last.fm
