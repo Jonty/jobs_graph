@@ -23,7 +23,7 @@ ashb: Fotango -> NAP -> DigiResults
 dom: icom -> LBi -> DigiResults
 georgebrock: freelance -> Reevoo -> Artfinder
 chrismear: freelance -> Greenvoice -> freelance
-abscond: citysafe -> peoplesmusicstore -> freelance -> unboxed -> BERG
+abscond: citysafe -> peoplesmusicstore -> freelance -> Unboxed -> BERG
 mnowster: tangozebra -> Acknowledge -> Glasses Direct -> Artfinder
 Mike Stenhouse: Trampoline -> Aframe
 paulcuth: ATS -> Gamesys
