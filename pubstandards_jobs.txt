@@ -43,7 +43,7 @@ dunk: Last.fm
 Ben Marvel: Wiley -> BSkyB -> HandbagsRus
 skarab: Smarkets
 Nicky: MOO
-Lebannen: Assanka
+Rowan: Assanka
 lucas42: Assanka
 Steve Marshall: Fujitsu Siemens -> Yahoo!
 MikeD:  Yahoo! -> Lovefilm
@@ -54,7 +54,7 @@ Richard Pope: MOO -> MySociety -> Freelance -> GovUK
 ginader: Yahoo! -> Yahoo! US
 alexs: QuietRevolution
 dorward: Fish IC -> Sophos -> Yahoo! -> Playfire -> BBC
-
+pete goodman: tonic -> pirata -> f90
 
 
     
