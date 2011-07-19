@@ -40,7 +40,7 @@ bfirsh: Guardian -> ep.io
 Sarah Clark: icom -> Steely Eye
 actel: CRU
 dunk: Last.fm
-Ben Marvel: Wiley -> BSkyB -> HandbagsRus
+Ben Marvell: Wiley -> BSkyB -> HandbagsRus
 skarab: Smarkets
 Nicky: MOO
 Rowan: Assanka
