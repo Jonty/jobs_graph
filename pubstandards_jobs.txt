@@ -59,6 +59,7 @@ matthias: recollective -> Less Rain -> freelance -> Design Science Office -> Pho
 @skr: Last.fm -> Twitter
 eadmundo: Yahoo! -> Squiz -> Smarkets -> Tobias & Tobias
 paulduncan: marketpipe -> dianomi -> BBC
+Dan W: idiomag -> Pervasive Media Studio
 
     
           
