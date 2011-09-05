@@ -3,7 +3,7 @@ Released under CC-0.
 
 russss: Last.fm -> Smarkets
 muz: Last.fm -> Mendeley -> BBC
-jonty: Last.fm -> ?
+jonty: Last.fm -> Secret Thing
 benward: Fujitsu Siemens -> Yobject -> Yahoo! -> Yahoo! US -> Twitter
 phae: Volume -> BBC -> Nature -> GovUK
 garethr: GCap -> Glasses Direct -> FreeAgent -> GovUK
@@ -17,7 +17,7 @@ yahnyinlondon: Yahoo! -> RMA Consulting
 boozeniges: LSBU -> GCap -> LBi -> Nature -> Mozilla
 cackhanded: Yahoo! -> Linden Lab -> Artfinder
 jaylett: tangozebra -> Kudocities -> Freelance -> EMI -> Artfinder
-dsingleton: Spring Digital -> Last.fm -> ?
+dsingleton: Spring Digital -> Last.fm -> Secret Thing
 Tamsin: Yahoo! -> MOO
 ashb: Fotango -> NAP -> DigiResults
 dom: icom -> LBi -> DigiResults
@@ -60,12 +60,4 @@ matthias: recollective -> Less Rain -> freelance -> Design Science Office -> Pho
 eadmundo: Yahoo! -> Squiz -> Smarkets -> Tobias & Tobias
 paulduncan: marketpipe -> dianomi -> BBC
 Dan W: idiomag -> Pervasive Media Studio
-
-    
-          
-                                      
-                                        ~~~~~
-                                      
-          
-    
 
