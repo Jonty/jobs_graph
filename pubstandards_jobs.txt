@@ -60,5 +60,5 @@ matthias: recollective -> Less Rain -> Freelance -> Design Science Office -> Pho
 eadmundo: Yahoo! -> Squiz -> Smarkets -> Tobias & Tobias
 paulduncan: marketpipe -> dianomi -> BBC
 Dan W: idiomag -> Pervasive Media Studio
-dannyamey: Yahoo! -> Synacor -> Preloaded -> Tobias & Tobias -> Contentment    
+dannyamey: Yahoo! -> Grand Union -> Synacor -> Preloaded -> Tobias & Tobias -> Contentment    
 
