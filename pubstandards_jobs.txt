@@ -9,7 +9,7 @@ phae: Volume -> BBC -> Nature -> GovUK
 garethr: GCap -> Glasses Direct -> FreeAgent -> GovUK
 creature: Sun Microsystems -> Framestore CFC -> Last.fm
 mokele: Last.fm -> Smarkets
-neilcrosby: Yahoo!  -> BBC
+neilcrosby: Yahoo!  -> BBC -> Lovefilm
 bradwright: Yahoo! -> GCap -> Smarkets
 kapowaz: Teamphone -> HomeAway -> VideoJuicer -> Unboxed -> Photobox
 alicebartlett: Assanka -> BERG
@@ -60,6 +60,6 @@ matthias: recollective -> Less Rain -> Freelance -> Design Science Office -> Pho
 @skr: Last.fm -> Twitter
 eadmundo: Yahoo! -> Squiz -> Smarkets -> Tobias & Tobias
 paulduncan: marketpipe -> dianomi -> BBC
-Dan W: idiomag -> Pervasive Media Studio
-dannyamey: Yahoo! -> Grand Union -> Synacor -> Preloaded -> Tobias & Tobias -> Contentment    
+Dan W: idiomag -> PMS
+dannyamey: Yahoo! -> Grand Union -> Synacor -> Preloaded -> Tobias & Tobias -> Contentment
 
