@@ -7,7 +7,7 @@ jonty: Last.fm -> Secret Thing
 benward: Fujitsu Siemens -> Yobject -> Yahoo! -> Yahoo! US -> Twitter
 phae: Volume -> BBC -> Nature -> GovUK
 garethr: GCap -> Glasses Direct -> FreeAgent -> GovUK
-creature: Sun Microsystems -> Framestore CFC -> Last.fm
+creature: Sun Microsystems -> Framestore CFC -> Last.fm -> ?
 mokele: Last.fm -> Smarkets
 neilcrosby: Yahoo!  -> BBC -> Lovefilm
 bradwright: Yahoo! -> GCap -> Smarkets
@@ -27,7 +27,7 @@ abscond: citysafe -> peoplesmusicstore -> Freelance -> Unboxed -> BERG
 mnowster: tangozebra -> Acknowledge -> Glasses Direct -> Artfinder
 Mike Stenhouse: Trampoline -> Aframe
 paulcuth: ATS -> Gamesys
-fatbusinessman: Taptu -> Glasses Direct -> Mozilla (contractor)
+fatbusinessman: Taptu -> Glasses Direct -> Mozilla
 lizard: icom -> Unboxed
 Dan Webb: Vivabit -> peoplesmusicstore -> Twitter
 RJ: Last.fm -> IRCCloud
