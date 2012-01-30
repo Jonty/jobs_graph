@@ -11,7 +11,7 @@ creature: Sun Microsystems -> Framestore CFC -> Last.fm
 mokele: Last.fm -> Smarkets
 neilcrosby: Yahoo!  -> BBC -> Lovefilm
 bradwright: Yahoo! -> GCap -> Smarkets
-kapowaz: Teamphone -> HomeAway -> VideoJuicer -> Unboxed -> Photobox
+kapowaz: Teamphone -> HomeAway -> VideoJuicer -> Unboxed -> Photobox -> Freelance
 alicebartlett: Assanka -> BERG
 yahnyinlondon: Yahoo! -> RMA Consulting
 boozeniges: LSBU -> GCap -> LBi -> Nature -> Mozilla
@@ -45,7 +45,7 @@ skarab: Smarkets
 Nicky: MOO
 Rowan: Assanka
 lucas42: Assanka
-Steve Marshall: Fujitsu Siemens -> Yahoo!
+Steve Marshall: Fujitsu Siemens -> Yahoo! -> Expedia
 MikeD:  Yahoo! -> Lovefilm
 Alex Lee: Yahoo! -> GCap -> Kneedl -> Smarkets -> Freelance
 knockles: Red Snapper -> Squiz -> Yahoo!
@@ -62,4 +62,5 @@ eadmundo: Yahoo! -> Squiz -> Smarkets -> Tobias & Tobias
 paulduncan: marketpipe -> dianomi -> BBC
 Dan W: idiomag -> PMS
 dannyamey: Yahoo! -> Grand Union -> Synacor -> Preloaded -> Tobias & Tobias -> Contentment
+rboulton: Lemur Consulting -> Celestial Navigation -> Secret Thing
 
