@@ -27,7 +27,7 @@ abscond: citysafe -> peoplesmusicstore -> Freelance -> Unboxed -> BERG
 mnowster: tangozebra -> Acknowledge -> Glasses Direct -> Artfinder -> GDS
 Mike Stenhouse: Trampoline -> Aframe
 paulcuth: ATS -> Gamesys
-fatbusinessman: Taptu -> Glasses Direct -> Mozilla
+fatbusinessman: Taptu -> Glasses Direct -> Mozilla -> GDS
 lizard: icom -> Unboxed
 Dan Webb: Vivabit -> peoplesmusicstore -> Twitter
 RJ: Last.fm -> IRCCloud
