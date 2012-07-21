@@ -5,26 +5,26 @@ russss: Last.fm -> Smarkets
 muz: Last.fm -> Mendeley -> BBC
 jonty: Last.fm -> Secret Thing
 benward: Fujitsu Siemens -> Yobject -> Yahoo! -> Yahoo! US -> Twitter
-phae: Volume -> BBC -> Nature -> GovUK
-garethr: GCap -> Glasses Direct -> FreeAgent -> GovUK
+phae: Volume -> BBC -> Nature -> GDS
+garethr: GCap -> Glasses Direct -> FreeAgent -> GDS
 creature: Sun Microsystems -> Framestore CFC -> Last.fm -> ?
-mokele: Last.fm -> Smarkets
+mokele: Last.fm -> Smarkets -> ?
 neilcrosby: Yahoo!  -> BBC -> Lovefilm
-bradwright: Yahoo! -> GCap -> Smarkets
+bradwright: Yahoo! -> GCap -> Smarkets -> GDS
 kapowaz: Teamphone -> HomeAway -> VideoJuicer -> Unboxed -> Photobox -> Freelance
 alicebartlett: Assanka -> BERG
 yahnyinlondon: Yahoo! -> RMA Consulting
 boozeniges: LSBU -> GCap -> LBi -> Nature -> Mozilla
-cackhanded: Yahoo! -> Linden Lab -> Artfinder
-jaylett: tangozebra -> Kudocities -> Freelance -> EMI -> Artfinder
+cackhanded: Yahoo! -> Linden Lab -> Artfinder -> GDS
+jaylett: tangozebra -> Kudocities -> Freelance -> EMI -> Artfinder -> NSFWCorp
 dsingleton: Spring Digital -> Last.fm -> Secret Thing
 Tamsin: Yahoo! -> MOO
 ashb: Fotango -> NAP -> DigiResults
 dom: icom -> LBi -> DigiResults
-georgebrock: Freelance -> Reevoo -> Artfinder
+georgebrock: Freelance -> Reevoo -> Artfinder -> ?
 chrismear: Freelance -> Greenvoice -> Freelance
 abscond: citysafe -> peoplesmusicstore -> Freelance -> Unboxed -> BERG
-mnowster: tangozebra -> Acknowledge -> Glasses Direct -> Artfinder
+mnowster: tangozebra -> Acknowledge -> Glasses Direct -> Artfinder -> GDS
 Mike Stenhouse: Trampoline -> Aframe
 paulcuth: ATS -> Gamesys
 fatbusinessman: Taptu -> Glasses Direct -> Mozilla
@@ -35,22 +35,22 @@ JWheare: Last.fm -> IRCCloud
 Jake Archibald: BBC -> theTeam -> Lanyrd
 simonw: Yahoo! -> GCap -> Guardian -> Lanyrd
 natbat: Torchbox -> Clearleft -> Lanyrd
-andrewgodwin: Torchbox -> ep.io
-bfirsh: Guardian -> ep.io
+andrewgodwin: Torchbox -> ep.io -> Lanyrd
+bfirsh: Guardian -> ep.io -> Freelance
 Sarah Clark: icom -> Steely Eye
 actel: CRU
 dunk: Last.fm
 Ben Marvell: Wiley -> BSkyB -> HandbagsRus
 skarab: Smarkets
-Nicky: MOO
+Nicky: MOO -> Freelance
 Rowan: Assanka
 lucas42: Assanka
 Steve Marshall: Fujitsu Siemens -> Yahoo! -> Expedia
 MikeD:  Yahoo! -> Lovefilm
 Alex Lee: Yahoo! -> GCap -> Kneedl -> Smarkets -> Freelance
-knockles: Red Snapper -> Squiz -> Yahoo!
+knockles: Red Snapper -> Squiz -> Yahoo! -> Expedia
 voodoochild: Squiz -> Tobias & Tobias -> Guardian
-Richard Pope: MOO -> MySociety -> Freelance -> GovUK
+Richard Pope: MOO -> MySociety -> Freelance -> GDS
 ginader: Yahoo! -> Yahoo! US
 alexs: QuietRevolution
 Leon: The Trainline -> Trafalgar -> CRU
