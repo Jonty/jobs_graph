@@ -53,7 +53,7 @@ voodoochild: Squiz -> Tobias & Tobias -> Guardian
 Richard Pope: MOO -> MySociety -> Freelance -> GDS
 ginader: Yahoo! -> Yahoo! US
 alexs: QuietRevolution
-Leon: The Trainline -> Trafalgar -> CRU ->7Digital
+Leon: The Trainline -> Trafalgar -> CRU -> 7Digital
 dorward: Fish IC -> Sophos -> Yahoo! -> Playfire -> BBC
 pete goodman: Tonic -> Pirata -> f90
 matthias: recollective -> Less Rain -> Freelance -> Design Science Office -> Photobox
