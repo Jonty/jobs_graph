@@ -21,9 +21,9 @@ dsingleton: Spring Digital -> Last.fm -> Lumi
 Tamsin: Yahoo! -> MOO
 ashb: Fotango -> NAP -> DigiResults -> Freelance
 dom: icom -> Freelance -> DigiResults -> Freelance
-georgebrock: Freelance -> Reevoo -> Artfinder -> Tripbirds -> Freelance
+georgebrock: Freelance -> Reevoo -> Artfinder -> Tripbirds -> Freelance -> Thoughtbot
 chrismear: Freelance -> Greenvoice -> Freelance
-abscond: citysafe -> peoplesmusicstore -> Freelance -> Unboxed -> BERG -> ?
+abscond: citysafe -> peoplesmusicstore -> Freelance -> Unboxed -> BERG -> Freelance
 mnowster: tangozebra -> Acknowledge -> Glasses Direct -> Artfinder -> GDS
 Mike Stenhouse: Trampoline -> Aframe
 paulcuth: ATS -> Gamesys
@@ -54,7 +54,7 @@ Richard Pope: MOO -> MySociety -> Freelance -> GDS
 ginader: Yahoo! -> Yahoo! US
 alexs: QuietRevolution
 Leon: The Trainline -> Trafalgar -> CRU -> 7Digital
-dorward: Fish IC -> Sophos -> Yahoo! -> Playfire -> BBC
+dorward: Fish IC -> Sophos -> Yahoo! -> Playfire -> BBC -> Base79
 pete goodman: Tonic -> Pirata -> f90
 matthias: recollective -> Less Rain -> Freelance -> Design Science Office -> Photobox
 @skr: Last.fm -> Twitter
