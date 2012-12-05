@@ -21,7 +21,7 @@ dsingleton: Spring Digital -> Last.fm -> Lumi
 Tamsin: Yahoo! -> MOO
 ashb: Fotango -> NAP -> DigiResults -> Freelance
 dom: icom -> Freelance -> DigiResults -> Freelance
-georgebrock: Freelance -> Reevoo -> Artfinder -> ?
+georgebrock: Freelance -> Reevoo -> Artfinder -> Tripbirds -> Freelance
 chrismear: Freelance -> Greenvoice -> Freelance
 abscond: citysafe -> peoplesmusicstore -> Freelance -> Unboxed -> BERG -> ?
 mnowster: tangozebra -> Acknowledge -> Glasses Direct -> Artfinder -> GDS
