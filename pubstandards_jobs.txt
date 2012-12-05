@@ -31,7 +31,7 @@ fatbusinessman: Taptu -> Glasses Direct -> Mozilla -> GDS
 lizard: icom -> Unboxed
 Dan Webb: Vivabit -> peoplesmusicstore -> Twitter
 RJ: Last.fm -> IRCCloud
-JWheare: Last.fm -> IRCCloud
+jwheare: Torchbox -> Last.fm -> IRCCloud
 Jake Archibald: BBC -> theTeam -> Lanyrd -> Google
 simonw: Yahoo! -> GCap -> Guardian -> Lanyrd
 natbat: Torchbox -> Clearleft -> Lanyrd
