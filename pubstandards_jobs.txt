@@ -35,8 +35,8 @@ JWheare: Last.fm -> IRCCloud
 Jake Archibald: BBC -> theTeam -> Lanyrd -> Google
 simonw: Yahoo! -> GCap -> Guardian -> Lanyrd
 natbat: Torchbox -> Clearleft -> Lanyrd
-andrewgodwin: Torchbox -> ep.io -> Lanyrd
-bfirsh: Guardian -> ep.io -> Freelance -> Poetica
+andrewgodwin: Torchbox -> Epio -> Lanyrd
+bfirsh: GCap -> Guardian -> Epio -> Lanyrd -> This Is My Jam -> Poetica
 Sarah Clark: icom -> Steely Eye -> Isobar -> Freelance
 actel: CRU -> Freelance
 dunk: Last.fm -> Free-roaming Scot
