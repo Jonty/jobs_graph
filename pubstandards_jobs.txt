@@ -3,12 +3,12 @@ Released under CC-0.
 
 russss: Last.fm -> Smarkets
 muz: Last.fm -> Mendeley -> BBC
-jonty: Last.fm -> Secret Thing
+jonty: Last.fm -> Lumi
 benward: Fujitsu Siemens -> Yobject -> Yahoo! -> Yahoo! US -> Twitter
 phae: Volume -> BBC -> Nature -> GDS
 garethr: GCap -> Glasses Direct -> FreeAgent -> GDS
-creature: Sun Microsystems -> Framestore CFC -> Last.fm -> ?
-mokele: Last.fm -> Smarkets -> ?
+creature: Sun Microsystems -> Framestore CFC -> Last.fm -> Freelance
+mokele: Last.fm -> Smarkets -> Stroud Brewery
 neilcrosby: Yahoo!  -> BBC -> Lovefilm
 bradwright: Yahoo! -> GCap -> Smarkets -> GDS
 kapowaz: Teamphone -> HomeAway -> VideoJuicer -> Unboxed -> Photobox -> Freelance
@@ -17,13 +17,13 @@ yahnyinlondon: Yahoo! -> RMA Consulting
 boozeniges: LSBU -> GCap -> LBi -> Nature -> Mozilla
 cackhanded: Yahoo! -> Linden Lab -> Artfinder -> GDS
 jaylett: tangozebra -> Kudocities -> Freelance -> EMI -> Artfinder -> NSFWCorp
-dsingleton: Spring Digital -> Last.fm -> Secret Thing
+dsingleton: Spring Digital -> Last.fm -> Lumi
 Tamsin: Yahoo! -> MOO
-ashb: Fotango -> NAP -> DigiResults
-dom: icom -> LBi -> DigiResults
+ashb: Fotango -> NAP -> DigiResults -> Freelance
+dom: icom -> Freelance -> DigiResults -> Freelance
 georgebrock: Freelance -> Reevoo -> Artfinder -> ?
 chrismear: Freelance -> Greenvoice -> Freelance
-abscond: citysafe -> peoplesmusicstore -> Freelance -> Unboxed -> BERG
+abscond: citysafe -> peoplesmusicstore -> Freelance -> Unboxed -> BERG -> ?
 mnowster: tangozebra -> Acknowledge -> Glasses Direct -> Artfinder -> GDS
 Mike Stenhouse: Trampoline -> Aframe
 paulcuth: ATS -> Gamesys
@@ -32,17 +32,17 @@ lizard: icom -> Unboxed
 Dan Webb: Vivabit -> peoplesmusicstore -> Twitter
 RJ: Last.fm -> IRCCloud
 JWheare: Last.fm -> IRCCloud
-Jake Archibald: BBC -> theTeam -> Lanyrd
+Jake Archibald: BBC -> theTeam -> Lanyrd -> Google
 simonw: Yahoo! -> GCap -> Guardian -> Lanyrd
 natbat: Torchbox -> Clearleft -> Lanyrd
 andrewgodwin: Torchbox -> ep.io -> Lanyrd
-bfirsh: Guardian -> ep.io -> Freelance
-Sarah Clark: icom -> Steely Eye
+bfirsh: Guardian -> ep.io -> Freelance -> Poetica
+Sarah Clark: icom -> Steely Eye -> Isobar -> Freelance
 actel: CRU -> Freelance
-dunk: Last.fm
+dunk: Last.fm -> ?
 Ben Marvell: Wiley -> BSkyB -> HandbagsRus
-skarab: Smarkets
-Nicky: MOO -> Freelance
+skarab: Smarkets -> ?
+Nicky: MOO -> Freelance -> Multiply -> ?
 Rowan: Assanka
 lucas42: Assanka
 Steve Marshall: Fujitsu Siemens -> Yahoo! -> Expedia
@@ -61,8 +61,8 @@ matthias: recollective -> Less Rain -> Freelance -> Design Science Office -> Pho
 eadmundo: Yahoo! -> Squiz -> Smarkets -> Tobias & Tobias
 paulduncan: marketpipe -> dianomi -> BBC
 Dan W: idiomag -> PMS
-dannyamey: Yahoo! -> Grand Union -> Synacor -> Preloaded -> Tobias & Tobias -> Contentment
-rboulton: Lemur Consulting -> Celestial Navigation -> Secret Thing
+dannyamey: Yahoo! -> Grand Union -> Synacor -> Preloaded -> Tobias & Tobias -> Contentment -> Yammer
+rboulton: Lemur Consulting -> Celestial Navigation -> Lumi
 James Aitken: HostGator -> UK2
 kevinprince: Capita -> World Food Programme -> NBC Universal -> TheLab
 
