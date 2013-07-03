@@ -1,7 +1,7 @@
 Contracts over six months are allowed, only list jobs you've had since attending PS.
 Released under CC-0.
 
-russss: Last.fm -> Smarkets
+russss: Last.fm -> Smarkets -> Freelance
 muz: Last.fm -> Mendeley -> BBC
 jonty: Last.fm -> Lumi
 benward: Fujitsu Siemens -> Yobject -> Yahoo! -> Yahoo! US -> Twitter
@@ -16,7 +16,7 @@ alicebartlett: Assanka -> BERG
 yahnyinlondon: Yahoo! -> RMA Consulting
 boozeniges: LSBU -> GCap -> LBi -> Nature -> Mozilla
 cackhanded: Yahoo! -> Linden Lab -> Artfinder -> GDS
-jaylett: tangozebra -> Kudocities -> Freelance -> EMI -> Artfinder -> NSFWCorp
+jaylett: tangozebra -> Kudocities -> Freelance -> EMI -> Artfinder -> NSFWCORP
 dsingleton: Spring Digital -> Last.fm -> Lumi
 Tamsin: Yahoo! -> MOO
 ashb: Fotango -> NAP -> DigiResults -> Freelance
@@ -39,7 +39,7 @@ andrewgodwin: Torchbox -> Epio -> Lanyrd
 bfirsh: GCap -> Guardian -> Epio -> Lanyrd -> This Is My Jam -> Poetica
 Sarah Clark: icom -> Steely Eye -> Isobar -> Freelance
 actel: CRU -> Freelance
-dunk: Last.fm -> Free-roaming Scot
+dunk: Last.fm -> Academia
 Ben Marvell: Wiley -> BSkyB -> HandbagsRus
 skarab: Smarkets -> ?
 Nicky: MOO -> Freelance -> Multiply -> ?
