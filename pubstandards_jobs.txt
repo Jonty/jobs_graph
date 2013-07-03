@@ -36,13 +36,13 @@ Jake Archibald: BBC -> theTeam -> Lanyrd -> Google
 simonw: Yahoo! -> GCap -> Guardian -> Lanyrd
 natbat: Torchbox -> Clearleft -> Lanyrd
 andrewgodwin: Torchbox -> Epio -> Lanyrd
-bfirsh: GCap -> Guardian -> Epio -> Lanyrd -> This Is My Jam -> Poetica
+bfirsh: GCap -> Guardian -> Epio -> Lanyrd -> This Is My Jam -> Poetica -> Secret Thing
 Sarah Clark: icom -> Steely Eye -> Isobar -> Freelance
 actel: CRU -> Freelance
 dunk: Last.fm -> Academia
 Ben Marvell: Wiley -> BSkyB -> HandbagsRus
-skarab: Smarkets -> ?
-Nicky: MOO -> Freelance -> Multiply -> ?
+skarab: Smarkets -> Some Hedge Fund
+Nicky: MOO -> Freelance -> Multiply -> Freelance
 Rowan: Assanka
 lucas42: Assanka
 Steve Marshall: Fujitsu Siemens -> Yahoo! -> Expedia
