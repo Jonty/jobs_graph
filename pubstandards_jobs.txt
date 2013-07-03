@@ -42,7 +42,7 @@ actel: CRU -> Freelance
 dunk: Last.fm -> Academia
 Ben Marvell: Wiley -> BSkyB -> HandbagsRus
 skarab: Smarkets -> Some Hedge Fund
-Nicky: MOO -> Freelance -> Multiply -> Freelance
+Nicky: MOO -> Freelance -> Multiply -> FutureLearn
 Rowan: Assanka
 lucas42: Assanka
 Steve Marshall: Fujitsu Siemens -> Yahoo! -> Expedia
