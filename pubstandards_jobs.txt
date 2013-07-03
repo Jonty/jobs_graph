@@ -52,7 +52,7 @@ knockles: Red Snapper -> Squiz -> Yahoo! -> Expedia
 voodoochild: Squiz -> Tobias & Tobias -> Guardian
 Richard Pope: MOO -> MySociety -> Freelance -> GDS
 ginader: Yahoo! -> Yahoo! US
-alexs: QuietRevolution
+alexs: QuietRevolution -> Artfinder -> Green Man Gaming -> ?
 Leon: The Trainline -> Trafalgar -> CRU -> 7Digital
 dorward: Fish IC -> Sophos -> Yahoo! -> Playfire -> BBC -> Base79
 pete goodman: Tonic -> Pirata -> f90
@@ -64,6 +64,7 @@ Dan W: idiomag -> PMS
 dannyamey: Yahoo! -> Grand Union -> Synacor -> Preloaded -> Tobias & Tobias -> Contentment -> Yammer
 rboulton: Lemur Consulting -> Celestial Navigation -> Lumi
 James Aitken: HostGator -> UK2
-kevinprince: Capita -> World Food Programme -> NBC Universal -> TheLab
+kevinprince: Capita -> World Food Programme -> NBC Universal -> TheLab -> O2
 YaaL: MOO -> Beam.tv -> UK2 Group
+aanand: This Is My Jam -> Secret Thing
 
