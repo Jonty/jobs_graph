@@ -40,7 +40,7 @@ bfirsh: GCap -> Guardian -> Epio -> Lanyrd -> This Is My Jam -> Poetica -> Secre
 Sarah Clark: icom -> Steely Eye -> Isobar -> Freelance
 actel: CRU -> Freelance
 dunk: Last.fm -> Academia
-Ben Marvell: Wiley -> BSkyB -> HandbagsRus
+Ben Marvell: Wiley -> BSkyB -> LexisNexis -> Centrica
 skarab: Smarkets -> G-Research
 Nicky: MOO -> Freelance -> Multiply -> FutureLearn
 Rowan: Assanka
