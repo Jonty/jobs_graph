@@ -14,7 +14,7 @@ bradwright: Yahoo! -> GCap -> Smarkets -> GDS
 kapowaz: Teamphone -> HomeAway -> VideoJuicer -> Unboxed -> Photobox -> Freelance
 alicebartlett: Assanka -> BERG
 yahnyinlondon: Yahoo! -> RMA Consulting -> Freelance
-boozeniges: LSBU -> GCap -> LBi -> Nature -> Mozilla
+boozeniges: LSBU -> GCap -> LBi -> Nature -> Mozilla -> ?
 cackhanded: Yahoo! -> Linden Lab -> Artfinder -> GDS
 jaylett: tangozebra -> Kudocities -> Freelance -> EMI -> Artfinder -> NSFWCORP
 dsingleton: Spring Digital -> Last.fm -> Lumi
@@ -42,7 +42,7 @@ actel: CRU -> Freelance
 dunk: Last.fm -> Academia
 Ben Marvell: Wiley -> BSkyB -> LexisNexis -> Centrica
 skarab: Smarkets -> G-Research
-Nicky: MOO -> Freelance -> Multiply -> FutureLearn
+Nicky: MOO -> Freelance
 Rowan: Assanka
 lucas42: Assanka
 Steve Marshall: Fujitsu Siemens -> Yahoo! -> Expedia
@@ -68,8 +68,10 @@ kevinprince: Capita -> World Food Programme -> NBC Universal -> TheLab -> O2
 YaaL: MOO -> Beam.tv -> UK2
 Aquarion: Trutap -> Skimlinks -> Languagelab -> Zappit -> Freelance
 bruntonspall: Guardian -> GDS
-Alex Russell: Google
+slightlyoff: Google
 tomscott: Tom Scott -> Tom Scott -> Tom Scott -> Tom Scott -> Tom Scott -> Tom Scott
 cbetta: Nudge -> MinuteBox -> EmberAds -> PayPal
 mseckington: EmberAds -> Unboxed
+tommorris: Academia -> Colourfast -> LinkedGov -> Fabric
+theartisan: uSwitch Communications -> Top10.com -> PeerIndex -> BrightTalk -> Fabric
 
