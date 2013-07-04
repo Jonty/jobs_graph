@@ -13,7 +13,7 @@ neilcrosby: Yahoo!  -> BBC -> Lovefilm
 bradwright: Yahoo! -> GCap -> Smarkets -> GDS
 kapowaz: Teamphone -> HomeAway -> VideoJuicer -> Unboxed -> Photobox -> Freelance
 alicebartlett: Assanka -> BERG
-yahnyinlondon: Yahoo! -> RMA Consulting -> Full time parent
+yahnyinlondon: Yahoo! -> RMA Consulting -> Freelance
 boozeniges: LSBU -> GCap -> LBi -> Nature -> Mozilla
 cackhanded: Yahoo! -> Linden Lab -> Artfinder -> GDS
 jaylett: tangozebra -> Kudocities -> Freelance -> EMI -> Artfinder -> NSFWCORP
@@ -41,7 +41,7 @@ Sarah Clark: icom -> Steely Eye -> Isobar -> Freelance
 actel: CRU -> Freelance
 dunk: Last.fm -> Academia
 Ben Marvell: Wiley -> BSkyB -> HandbagsRus
-skarab: Smarkets -> Some Hedge Fund
+skarab: Smarkets -> G-Research
 Nicky: MOO -> Freelance -> Multiply -> FutureLearn
 Rowan: Assanka
 lucas42: Assanka
