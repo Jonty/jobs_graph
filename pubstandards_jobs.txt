@@ -70,6 +70,6 @@ Aquarion: Trutap -> Skimlinks -> Languagelab -> Zappit -> Freelance
 bruntonspall: Guardian -> GDS
 Alex Russell: Google
 tomscott: Tom Scott -> Tom Scott -> Tom Scott -> Tom Scott -> Tom Scott -> Tom Scott
-cbetta: MinuteBox -> CGB Digital -> EmberAds -> PayPal
+cbetta: Nudge -> MinuteBox -> EmberAds -> PayPal
 mseckington: EmberAds -> Unboxed
 
