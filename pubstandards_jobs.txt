@@ -75,4 +75,5 @@ mseckington: EmberAds -> Unboxed
 tommorris: Academia -> Colourfast -> LinkedGov -> Fabric
 theartisan: uSwitch Communications -> Top10.com -> PeerIndex -> BrightTalk -> Fabric
 andyhume: Multimap -> Microsoft -> Clearleft -> Guardian -> Twitter
+muffinresearch: Multimap -> Yahoo -> GCap -> Canonical
 
