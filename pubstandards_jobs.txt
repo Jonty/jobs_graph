@@ -51,7 +51,7 @@ Alex Lee: Yahoo! -> GCap -> Kneedl -> Smarkets -> Freelance
 knockles: Red Snapper -> Squiz -> Yahoo! -> Expedia
 voodoochild: Squiz -> Tobias & Tobias -> Guardian
 Richard Pope: MOO -> MySociety -> Freelance -> GDS -> ?
-ginader: Yahoo! -> Yahoo! US
+ginader: Yahoo! -> Yahoo! US -> Google
 alexs: QuietRevolution -> Artfinder -> Green Man Gaming -> ?
 Leon: The Trainline -> Trafalgar -> CRU -> 7Digital
 dorward: Fish IC -> Sophos -> Yahoo! -> Playfire -> BBC -> Base79
@@ -64,7 +64,7 @@ Dan W: idiomag -> PMS -> Makeshift
 dannyamey: Yahoo! -> Grand Union -> Synacor -> Preloaded -> Tobias & Tobias -> Contentment -> Yammer
 rboulton: Lemur Consulting -> Celestial Navigation -> Lumi -> GDS
 James Aitken: HostGator -> UK2
-kevinprince: Capita -> World Food Programme -> NBC Universal -> TheLab -> O2
+kevinprince: Capita -> World Food Programme -> NBC Universal -> O2
 YaaL: MOO -> Beam.tv -> UK2
 Aquarion: Trutap -> Skimlinks -> Languagelab -> Zappit -> Freelance
 bruntonspall: Guardian -> GDS
