@@ -36,7 +36,7 @@ Jake Archibald: BBC -> theTeam -> Lanyrd -> Google
 simonw: Yahoo! -> GCap -> Guardian -> Lanyrd -> Eventbrite
 natbat: Torchbox -> Clearleft -> Lanyrd -> Eventbrite
 andrewgodwin: Torchbox -> Epio -> Lanyrd
-bfirsh: GCap -> Guardian -> Epio -> Lanyrd -> This Is My Jam -> Poetica -> OrchardUp
+bfirsh: GCap -> Guardian -> Epio -> Lanyrd -> This Is My Jam -> Poetica -> GDS -> OrchardUp
 Sarah Clark: icom -> Steely Eye -> Isobar -> Freelance
 actel: CRU -> Freelance
 dunk: Last.fm -> Academia
@@ -69,7 +69,7 @@ YaaL: MOO -> Beam.tv -> UK2
 Aquarion: Trutap -> Skimlinks -> Languagelab -> Zappit -> Freelance
 bruntonspall: Guardian -> GDS
 slightlyoff: Google
-tomscott: tomscott -> tomscott
+tomscott: tomscott -> tomscott -> UsVsThem
 cbetta: Nudge -> MinuteBox -> EmberAds -> PayPal
 mseckington: EmberAds -> Unboxed
 tommorris: Academia -> Colourfast -> LinkedGov -> Fabric
