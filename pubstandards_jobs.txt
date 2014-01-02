@@ -28,7 +28,7 @@ mnowster: tangozebra -> Acknowledge -> Glasses Direct -> Artfinder -> GDS -> ?
 Mike Stenhouse: Trampoline -> Aframe
 paulcuth: ATS -> Gamesys
 fatbusinessman: Taptu -> Glasses Direct -> Mozilla -> GDS
-lizard: icom -> Unboxed
+lizard: icom -> Unboxed -> Sky
 Dan Webb: Vivabit -> peoplesmusicstore -> Twitter
 RJ: Last.fm -> IRCCloud
 jwheare: Torchbox -> Last.fm -> IRCCloud
