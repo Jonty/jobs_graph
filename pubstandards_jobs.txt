@@ -14,16 +14,16 @@ bradwright: Yahoo! -> GCap -> Smarkets -> GDS
 kapowaz: Teamphone -> HomeAway -> VideoJuicer -> Unboxed -> Photobox -> Freelance
 alicebartlett: Assanka -> BERG -> GDS
 yahnyinlondon: Yahoo! -> RMA Consulting -> Freelance
-boozeniges: LSBU -> GCap -> LBi -> Nature -> Mozilla -> ?
+boozeniges: LSBU -> GCap -> LBi -> Nature -> Mozilla -> Expedia
 cackhanded: Yahoo! -> Linden Lab -> Artfinder -> GDS
 jaylett: tangozebra -> Kudocities -> Freelance -> EMI -> Artfinder -> NSFWCORP -> ?
 dsingleton: Spring Digital -> Last.fm -> Lumi
 Tamsin: Yahoo! -> MOO
-ashb: Fotango -> NAP -> DigiResults -> Freelance
+ashb: Fotango -> NAP -> DigiResults -> Freelance -> MoJ
 dom: icom -> Freelance -> DigiResults -> Freelance
 georgebrock: Freelance -> Reevoo -> Artfinder -> Tripbirds -> Freelance -> thoughtbot
 chrismear: Freelance -> Greenvoice -> Freelance
-abscond: citysafe -> peoplesmusicstore -> Freelance -> Unboxed -> BERG -> Freelance
+abscond: citysafe -> peoplesmusicstore -> Freelance -> Unboxed -> BERG -> Freelance -> MoJ
 mnowster: tangozebra -> Acknowledge -> Glasses Direct -> Artfinder -> GDS
 Mike Stenhouse: Trampoline -> Aframe
 paulcuth: ATS -> Gamesys
