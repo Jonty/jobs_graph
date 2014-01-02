@@ -9,7 +9,7 @@ phae: Volume -> BBC -> Nature -> GDS
 garethr: GCap -> Glasses Direct -> FreeAgent -> GDS
 creature: Sun Microsystems -> Framestore CFC -> Last.fm -> Freelance
 mokele: Last.fm -> Smarkets -> Stroud Brewery
-neilcrosby: Yahoo!  -> BBC -> Lovefilm -> Amazon -> Tizaro
+neilcrosby: Yahoo!  -> BBC -> LOVEFiLM -> Amazon -> Tizaro
 bradwright: Yahoo! -> GCap -> Smarkets -> GDS
 kapowaz: Teamphone -> HomeAway -> VideoJuicer -> Unboxed -> Photobox -> Freelance
 alicebartlett: Assanka -> BERG -> GDS
@@ -24,7 +24,7 @@ dom: icom -> Freelance -> DigiResults -> Freelance
 georgebrock: Freelance -> Reevoo -> Artfinder -> Tripbirds -> Freelance -> thoughtbot
 chrismear: Freelance -> Greenvoice -> Freelance
 abscond: citysafe -> peoplesmusicstore -> Freelance -> Unboxed -> BERG -> Freelance -> MoJ
-mnowster: tangozebra -> Acknowledge -> Glasses Direct -> Artfinder -> GDS
+mnowster: tangozebra -> Acknowledge -> Glasses Direct -> Artfinder -> GDS -> ?
 Mike Stenhouse: Trampoline -> Aframe
 paulcuth: ATS -> Gamesys
 fatbusinessman: Taptu -> Glasses Direct -> Mozilla -> GDS
