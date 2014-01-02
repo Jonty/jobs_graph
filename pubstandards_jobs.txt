@@ -69,7 +69,7 @@ YaaL: MOO -> Beam.tv -> UK2
 Aquarion: Trutap -> Skimlinks -> Languagelab -> Zappit -> Freelance
 bruntonspall: Guardian -> GDS
 slightlyoff: Google
-tomscott: tomscott -> tomscott -> UsVsThem
+tomscott: tomscott -> tomscott -> UsVsTh3m
 cbetta: Nudge -> MinuteBox -> EmberAds -> PayPal
 mseckington: EmberAds -> Unboxed
 tommorris: Academia -> Colourfast -> LinkedGov -> Fabric
