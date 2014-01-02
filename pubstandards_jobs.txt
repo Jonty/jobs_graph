@@ -9,14 +9,14 @@ phae: Volume -> BBC -> Nature -> GDS
 garethr: GCap -> Glasses Direct -> FreeAgent -> GDS
 creature: Sun Microsystems -> Framestore CFC -> Last.fm -> Freelance
 mokele: Last.fm -> Smarkets -> Stroud Brewery
-neilcrosby: Yahoo!  -> BBC -> Lovefilm
+neilcrosby: Yahoo!  -> BBC -> Lovefilm -> Amazon -> Tizaro
 bradwright: Yahoo! -> GCap -> Smarkets -> GDS
 kapowaz: Teamphone -> HomeAway -> VideoJuicer -> Unboxed -> Photobox -> Freelance
-alicebartlett: Assanka -> BERG
+alicebartlett: Assanka -> BERG -> GDS
 yahnyinlondon: Yahoo! -> RMA Consulting -> Freelance
 boozeniges: LSBU -> GCap -> LBi -> Nature -> Mozilla -> ?
 cackhanded: Yahoo! -> Linden Lab -> Artfinder -> GDS
-jaylett: tangozebra -> Kudocities -> Freelance -> EMI -> Artfinder -> NSFWCORP
+jaylett: tangozebra -> Kudocities -> Freelance -> EMI -> Artfinder -> NSFWCORP -> ?
 dsingleton: Spring Digital -> Last.fm -> Lumi
 Tamsin: Yahoo! -> MOO
 ashb: Fotango -> NAP -> DigiResults -> Freelance
@@ -33,10 +33,10 @@ Dan Webb: Vivabit -> peoplesmusicstore -> Twitter
 RJ: Last.fm -> IRCCloud
 jwheare: Torchbox -> Last.fm -> IRCCloud
 Jake Archibald: BBC -> theTeam -> Lanyrd -> Google
-simonw: Yahoo! -> GCap -> Guardian -> Lanyrd
-natbat: Torchbox -> Clearleft -> Lanyrd
+simonw: Yahoo! -> GCap -> Guardian -> Lanyrd -> Eventbrite
+natbat: Torchbox -> Clearleft -> Lanyrd -> Eventbrite
 andrewgodwin: Torchbox -> Epio -> Lanyrd
-bfirsh: GCap -> Guardian -> Epio -> Lanyrd -> This Is My Jam -> Poetica -> Secret Thing
+bfirsh: GCap -> Guardian -> Epio -> Lanyrd -> This Is My Jam -> Poetica -> OrchardUp
 Sarah Clark: icom -> Steely Eye -> Isobar -> Freelance
 actel: CRU -> Freelance
 dunk: Last.fm -> Academia
@@ -50,7 +50,7 @@ MikeD:  Yahoo! -> Lovefilm
 Alex Lee: Yahoo! -> GCap -> Kneedl -> Smarkets -> Freelance
 knockles: Red Snapper -> Squiz -> Yahoo! -> Expedia
 voodoochild: Squiz -> Tobias & Tobias -> Guardian
-Richard Pope: MOO -> MySociety -> Freelance -> GDS
+Richard Pope: MOO -> MySociety -> Freelance -> GDS -> ?
 ginader: Yahoo! -> Yahoo! US
 alexs: QuietRevolution -> Artfinder -> Green Man Gaming -> ?
 Leon: The Trainline -> Trafalgar -> CRU -> 7Digital
@@ -59,10 +59,10 @@ pete goodman: Tonic -> Pirata -> f90
 matthias: recollective -> Less Rain -> Freelance -> Design Science Office -> Photobox
 @skr: Last.fm -> Twitter
 eadmundo: Yahoo! -> Squiz -> Smarkets -> Tobias & Tobias
-paulduncan: marketpipe -> dianomi -> BBC
-Dan W: idiomag -> PMS
+paulduncan: marketpipe -> dianomi -> BBC -> Amazon
+Dan W: idiomag -> PMS -> Makeshift
 dannyamey: Yahoo! -> Grand Union -> Synacor -> Preloaded -> Tobias & Tobias -> Contentment -> Yammer
-rboulton: Lemur Consulting -> Celestial Navigation -> Lumi
+rboulton: Lemur Consulting -> Celestial Navigation -> Lumi -> GDS
 James Aitken: HostGator -> UK2
 kevinprince: Capita -> World Food Programme -> NBC Universal -> TheLab -> O2
 YaaL: MOO -> Beam.tv -> UK2
