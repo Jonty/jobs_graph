@@ -20,7 +20,7 @@ jaylett: tangozebra -> Kudocities -> Freelance -> EMI -> Artfinder -> NSFWCORP -
 dsingleton: Spring Digital -> Last.fm -> Lumi
 Tamsin: Yahoo! -> MOO
 ashb: Fotango -> NAP -> DigiResults -> Freelance -> MoJ
-dom: icom -> Freelance LBi -> Freelance -> DigiResults -> Freelance -> Unboxed -> GDS
+dom: icom -> Freelance -> LBi -> Freelance -> DigiResults -> Freelance -> Unboxed -> GDS
 georgebrock: Freelance -> Reevoo -> Artfinder -> Tripbirds -> Freelance -> thoughtbot
 chrismear: Freelance -> Greenvoice -> Freelance
 abscond: citysafe -> peoplesmusicstore -> Freelance -> Unboxed -> BERG -> Freelance -> MoJ
