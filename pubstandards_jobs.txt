@@ -27,6 +27,7 @@ abscond: citysafe -> peoplesmusicstore -> Freelance -> Unboxed -> BERG -> Freela
 mnowster: tangozebra -> Acknowledge -> Glasses Direct -> Artfinder -> GDS -> ?
 Mike Stenhouse: Trampoline -> Aframe
 paulcuth: ATS -> Gamesys
+poppiestar: adsdotcom -> Gamesys -> TravelMatch -> Lonely Planet -> Freelance
 fatbusinessman: Taptu -> Glasses Direct -> Mozilla -> GDS
 lizard: icom -> Unboxed -> Sky
 Dan Webb: Vivabit -> peoplesmusicstore -> Twitter
