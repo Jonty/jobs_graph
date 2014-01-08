@@ -77,4 +77,5 @@ theartisan: uSwitch Communications -> Top10.com -> PeerIndex -> BrightTalk -> Fa
 andyhume: Multimap -> Microsoft -> Clearleft -> Guardian -> Twitter
 muffinresearch: Multimap -> Yahoo! -> GCap -> Canonical
 imranghory: Freelance -> Index Ventures
+retallicka -> Mediatonic -> Adjust Your Set -> Gamesys
 
