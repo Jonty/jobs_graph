@@ -39,15 +39,15 @@ natbat: Torchbox -> Clearleft -> Lanyrd -> Eventbrite
 andrewgodwin: Torchbox -> Epio -> Lanyrd -> Eventbrite
 bfirsh: GCap -> Guardian -> Epio -> Lanyrd -> This Is My Jam -> Poetica -> GDS -> Orchard
 Sarah Clark: icom -> Steely Eye -> Isobar -> Freelance
-actel: CRU -> Freelance
+actel: CRU -> Freelance-Thingswithbitcoins
 dunk: Last.fm -> Academia
-Ben Marvell: Wiley -> Sky -> LexisNexis -> Centrica
+Ben Marvell: Wiley -> Sky -> LexisNexis -> Centrica -> GDS
 skarab: Smarkets -> G-Research
 Nicky: MOO -> Freelance
 Rowan: Assanka
 lucas42: Assanka
 Steve Marshall: Fujitsu Siemens -> Yahoo! -> Expedia -> Tizaro
-MikeD:  Yahoo! -> Lovefilm -> Tizaro
+MikeD:  Yahoo! -> LOVEFiLM -> Tizaro
 Alex Lee: Yahoo! -> GCap -> Kneedl -> Smarkets -> Freelance
 knockles: Red Snapper -> Squiz -> Yahoo! -> Expedia
 voodoochild: Squiz -> Tobias & Tobias -> Guardian
@@ -79,4 +79,6 @@ andyhume: Multimap -> Microsoft -> Clearleft -> Guardian -> Twitter
 muffinresearch: Multimap -> Yahoo! -> GCap -> Canonical
 imranghory: Freelance -> Index Ventures
 retallicka: Mediatonic -> Adjust Your Set -> Gamesys
+tef: Code Club -> ?
+lindas: Code Club
 
