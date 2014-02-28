@@ -46,7 +46,7 @@ skarab: Smarkets -> G-Research
 Nicky: MOO -> Freelance
 Rowan: Assanka
 lucas42: Assanka
-Steve Marshall: Fujitsu Siemens -> Yahoo! -> Expedia
+Steve Marshall: Fujitsu Siemens -> Yahoo! -> Expedia -> Tizaro
 MikeD:  Yahoo! -> Lovefilm -> Tizaro
 Alex Lee: Yahoo! -> GCap -> Kneedl -> Smarkets -> Freelance
 knockles: Red Snapper -> Squiz -> Yahoo! -> Expedia
