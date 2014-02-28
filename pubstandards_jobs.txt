@@ -39,7 +39,7 @@ natbat: Torchbox -> Clearleft -> Lanyrd -> Eventbrite
 andrewgodwin: Torchbox -> Epio -> Lanyrd -> Eventbrite
 bfirsh: GCap -> Guardian -> Epio -> Lanyrd -> This Is My Jam -> Poetica -> GDS -> Orchard
 Sarah Clark: icom -> Steely Eye -> Isobar -> Freelance
-actel: CRU -> Freelance-Thingswithbitcoins
+actel: CRU -> Freelance -> Thingswithbitcoins
 dunk: Last.fm -> Academia
 Ben Marvell: Wiley -> Sky -> LexisNexis -> Centrica -> GDS
 skarab: Smarkets -> G-Research
