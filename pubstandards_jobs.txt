@@ -24,7 +24,7 @@ dom: icom -> Freelance -> LBi -> Freelance -> DigiResults -> Freelance -> Unboxe
 georgebrock: Freelance -> Reevoo -> Artfinder -> Tripbirds -> Freelance -> thoughtbot
 chrismear: Freelance -> Greenvoice -> Freelance
 abscond: citysafe -> peoplesmusicstore -> Freelance -> Unboxed -> BERG -> Freelance -> MoJ
-mnowster: tangozebra -> Acknowledge -> Glasses Direct -> Artfinder -> GDS -> ?
+mnowster: tangozebra -> Acknowledge -> Glasses Direct -> Artfinder -> GDS -> Freelance
 Mike Stenhouse: Trampoline -> Aframe
 paulcuth: ATS -> Gamesys
 poppiestar: adsdotcom -> Gamesys -> TravelMatch -> Lonely Planet -> Freelance
