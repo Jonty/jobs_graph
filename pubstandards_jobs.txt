@@ -46,7 +46,7 @@ garethr: GCap -> Glasses Direct -> FreeAgent -> GDS
 georgebrock: Freelance -> Reevoo -> Artfinder -> Tripbirds -> Freelance -> thoughtbot
 ginader: Yahoo! -> Yahoo! US -> Google
 imranghory: Freelance -> Index Ventures
-jaylett: tangozebra -> Kudocities -> Freelance -> EMI -> Artfinder -> NSFWCORP -> ?
+jaylett: tangozebra -> Kudocities -> Freelance -> EMI -> Artfinder -> NSFWCORP -> Freelance
 jonty: Last.fm -> Lumi
 jwheare: Torchbox -> Last.fm -> IRCCloud
 kapowaz: Teamphone -> HomeAway -> VideoJuicer -> Unboxed -> Photobox -> Freelance
