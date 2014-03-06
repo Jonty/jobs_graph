@@ -1,84 +1,84 @@
 Contracts over six months are allowed, only list jobs you've had since attending PS.
 Released under CC-0.
 
-russss: Last.fm -> Smarkets -> Freelance
-muz: Last.fm -> Mendeley -> BBC
-jonty: Last.fm -> Lumi
-benward: Fujitsu Siemens -> Yobject -> Yahoo! -> Yahoo! US -> Twitter
-phae: Volume -> BBC -> Nature -> GDS -> Code for America
-garethr: GCap -> Glasses Direct -> FreeAgent -> GDS
-creature: Sun Microsystems -> Framestore CFC -> Last.fm -> Freelance
-mokele: Last.fm -> Smarkets -> Stroud Brewery
-neilcrosby: Yahoo!  -> BBC -> LOVEFiLM -> Amazon -> Tizaro
-bradwright: Yahoo! -> GCap -> Smarkets -> GDS
-kapowaz: Teamphone -> HomeAway -> VideoJuicer -> Unboxed -> Photobox -> Freelance
-alicebartlett: Assanka -> BERG -> GDS
-yahnyinlondon: Yahoo! -> RMA Consulting -> Freelance
-boozeniges: LSBU -> GCap -> LBi -> Nature -> Mozilla -> Expedia
-cackhanded: Yahoo! -> Linden Lab -> Artfinder -> GDS
-jaylett: tangozebra -> Kudocities -> Freelance -> EMI -> Artfinder -> NSFWCORP -> ?
-dsingleton: Spring Digital -> Last.fm -> Lumi
-Tamsin: Yahoo! -> MOO
-ashb: Fotango -> NAP -> DigiResults -> Freelance -> MoJ
-dom: icom -> Freelance -> LBi -> Freelance -> DigiResults -> Freelance -> Unboxed -> GDS
-georgebrock: Freelance -> Reevoo -> Artfinder -> Tripbirds -> Freelance -> thoughtbot
-chrismear: Freelance -> Greenvoice -> Freelance
-abscond: citysafe -> peoplesmusicstore -> Freelance -> Unboxed -> BERG -> Freelance -> MoJ
-mnowster: tangozebra -> Acknowledge -> Glasses Direct -> Artfinder -> GDS -> Freelance
-Mike Stenhouse: Trampoline -> Aframe
-paulcuth: ATS -> Gamesys
-poppiestar: adsdotcom -> Gamesys -> TravelMatch -> Lonely Planet -> Freelance
-fatbusinessman: Taptu -> Glasses Direct -> Mozilla -> GDS
-lizard: icom -> Unboxed -> Sky
-Dan Webb: Vivabit -> peoplesmusicstore -> Twitter
-RJ: Last.fm -> IRCCloud
-jwheare: Torchbox -> Last.fm -> IRCCloud
-Jake Archibald: BBC -> theTeam -> Lanyrd -> Google
-simonw: Yahoo! -> GCap -> Guardian -> Lanyrd -> Eventbrite
-natbat: Torchbox -> Clearleft -> Lanyrd -> Eventbrite
-andrewgodwin: Torchbox -> Epio -> Lanyrd -> Eventbrite
-bfirsh: GCap -> Guardian -> Epio -> Lanyrd -> This Is My Jam -> Poetica -> GDS -> Orchard
-Sarah Clark: icom -> Steely Eye -> Isobar -> Freelance
-actel: CRU -> Freelance -> Thingswithbitcoins
-dunk: Last.fm -> Academia
-Ben Marvell: Wiley -> Sky -> LexisNexis -> Centrica -> GDS
-skarab: Smarkets -> G-Research
-Nicky: MOO -> Freelance
-Rowan: Assanka
-lucas42: Assanka
-Steve Marshall: Fujitsu Siemens -> Yahoo! -> Expedia -> Tizaro
-MikeD:  Yahoo! -> LOVEFiLM -> Tizaro
 Alex Lee: Yahoo! -> GCap -> Kneedl -> Smarkets -> Freelance
-knockles: Red Snapper -> Squiz -> Yahoo! -> Expedia
-voodoochild: Squiz -> Tobias & Tobias -> Guardian
-Richard Pope: MOO -> MySociety -> Freelance -> GDS
-ginader: Yahoo! -> Yahoo! US -> Google
-alexs: QuietRevolution -> Artfinder -> Green Man Gaming -> ?
-Leon: The Trainline -> Trafalgar -> CRU -> 7Digital
-dorward: Fish IC -> Sophos -> Yahoo! -> Playfire -> BBC -> Base79
-pete goodman: Tonic -> Pirata -> f90
-matthias: recollective -> Less Rain -> Freelance -> Design Science Office -> Photobox
-@skr: Last.fm -> Twitter
-eadmundo: Yahoo! -> Squiz -> Smarkets -> Tobias & Tobias -> Adaptive Lab
-paulduncan: marketpipe -> dianomi -> BBC -> Amazon
+Aquarion: Trutap -> Skimlinks -> Languagelab -> Zappit -> JeemTV -> Freelance
+Ben Marvell: Wiley -> Sky -> LexisNexis -> Centrica -> GDS
 Dan W: idiomag -> PMS -> Makeshift
-dannyamey: Yahoo! -> Grand Union -> Synacor -> Preloaded -> Tobias & Tobias -> Contentment -> Yammer
-rboulton: Lemur Consulting -> Celestial Navigation -> Lumi -> GDS
+Dan Webb: Vivabit -> peoplesmusicstore -> Twitter
+Jake Archibald: BBC -> theTeam -> Lanyrd -> Google
 James Aitken: HostGator -> UK2
-kevinprince: Capita -> World Food Programme -> NBC Universal -> O2
+Leon: The Trainline -> Trafalgar -> CRU -> 7Digital
+Mike Stenhouse: Trampoline -> Aframe
+MikeD:  Yahoo! -> LOVEFiLM -> Tizaro
+Nicky: MOO -> Freelance
+RJ: Last.fm -> IRCCloud
+Richard Pope: MOO -> MySociety -> Freelance -> GDS
+Rowan: Assanka
+Sarah Clark: icom -> Steely Eye -> Isobar -> Freelance
+Steve Marshall: Fujitsu Siemens -> Yahoo! -> Expedia -> Tizaro
+Tamsin: Yahoo! -> MOO
 YaaL: MOO -> Beam.tv -> UK2
-Aquarion: Trutap -> Skimlinks -> Languagelab -> Zappit -> Freelance
-bruntonspall: Guardian -> GDS
-slightlyoff: Google
-tomscott: tomscott -> tomscott -> UsVsTh3m
-cbetta: Nudge -> MinuteBox -> EmberAds -> PayPal
-mseckington: EmberAds -> Unboxed -> FutureLearn
-tommorris: Academia -> Colourfast -> LinkedGov -> Fabric
-theartisan: uSwitch Communications -> Top10.com -> PeerIndex -> BrightTalk -> Fabric
+abscond: citysafe -> peoplesmusicstore -> Freelance -> Unboxed -> BERG -> Freelance -> MoJ
+actel: CRU -> Freelance -> Thingswithbitcoins
+alexs: QuietRevolution -> Artfinder -> Green Man Gaming -> ?
+alicebartlett: Assanka -> BERG -> GDS
+andrewgodwin: Torchbox -> Epio -> Lanyrd -> Eventbrite
 andyhume: Multimap -> Microsoft -> Clearleft -> Guardian -> Twitter
-muffinresearch: Multimap -> Yahoo! -> GCap -> Canonical
+ashb: Fotango -> NAP -> DigiResults -> Freelance -> MoJ
+benward: Fujitsu Siemens -> Yobject -> Yahoo! -> Yahoo! US -> Twitter
+bfirsh: GCap -> Guardian -> Epio -> Lanyrd -> This Is My Jam -> Poetica -> GDS -> Orchard
+boozeniges: LSBU -> GCap -> LBi -> Nature -> Mozilla -> hotels.com
+bradwright: Yahoo! -> GCap -> Smarkets -> GDS
+bruntonspall: Guardian -> GDS
+cackhanded: Yahoo! -> Linden Lab -> Artfinder -> GDS -> myHealthPal
+cbetta: Nudge -> MinuteBox -> EmberAds -> PayPal
+chrismear: Freelance -> Greenvoice -> Freelance
+creature: Sun Microsystems -> Framestore CFC -> Last.fm -> Freelance
+dannyamey: Yahoo! -> Grand Union -> Synacor -> Preloaded -> Tobias & Tobias -> Contentment -> Yammer
+dom: icom -> Freelance -> LBi -> Freelance -> DigiResults -> Freelance -> Unboxed -> GDS
+dorward: Fish IC -> Sophos -> Yahoo! -> Playfire -> BBC -> Base79
+dsingleton: Spring Digital -> Last.fm -> Lumi
+dunk: Last.fm -> Academia
+eadmundo: Yahoo! -> Squiz -> Smarkets -> Tobias & Tobias -> Adaptive Lab
+fatbusinessman: Taptu -> Glasses Direct -> Mozilla -> GDS
+garethr: GCap -> Glasses Direct -> FreeAgent -> GDS
+georgebrock: Freelance -> Reevoo -> Artfinder -> Tripbirds -> Freelance -> thoughtbot
+ginader: Yahoo! -> Yahoo! US -> Google
 imranghory: Freelance -> Index Ventures
-retallicka: Mediatonic -> Adjust Your Set -> Gamesys
-tef: Code Club -> ?
+jaylett: tangozebra -> Kudocities -> Freelance -> EMI -> Artfinder -> NSFWCORP -> ?
+jonty: Last.fm -> Lumi
+jwheare: Torchbox -> Last.fm -> IRCCloud
+kapowaz: Teamphone -> HomeAway -> VideoJuicer -> Unboxed -> Photobox -> Freelance
+kevinprince: Capita -> World Food Programme -> NBC Universal -> O2
+knockles: Red Snapper -> Squiz -> Yahoo! -> Expedia
 lindas: Code Club
+lizard: icom -> Unboxed -> Sky
+lucas42: Assanka
+matthias: recollective -> Less Rain -> Freelance -> Design Science Office -> Photobox
+mnowster: tangozebra -> Acknowledge -> Glasses Direct -> Artfinder -> GDS -> Freelance
+mokele: Last.fm -> Smarkets -> Stroud Brewery
+mseckington: EmberAds -> Unboxed -> FutureLearn
+muffinresearch: Multimap -> Yahoo! -> GCap -> Canonical
+muz: Last.fm -> Mendeley -> BBC
+natbat: Torchbox -> Clearleft -> Lanyrd -> Eventbrite
+neilcrosby: Yahoo!  -> BBC -> LOVEFiLM -> Amazon -> Tizaro
+paulcuth: ATS -> Gamesys
+paulduncan: marketpipe -> dianomi -> BBC -> Amazon
+pete goodman: Tonic -> Pirata -> f90
+phae: Volume -> BBC -> Nature -> GDS -> Code for America
+poppiestar: adsdotcom -> Gamesys -> TravelMatch -> Lonely Planet -> Freelance
+rboulton: Lemur Consulting -> Celestial Navigation -> Lumi -> GDS
+retallicka: Mediatonic -> Adjust Your Set -> Gamesys
+russss: Last.fm -> Smarkets -> Freelance
+simonw: Yahoo! -> GCap -> Guardian -> Lanyrd -> Eventbrite
+skarab: Smarkets -> G-Research
+skr: Last.fm -> Twitter
+slightlyoff: Google
+tef: Code Club -> ?
+theartisan: uSwitch Communications -> Top10.com -> PeerIndex -> BrightTalk -> Fabric
+tommorris: Academia -> Colourfast -> LinkedGov -> Fabric
+tomscott: tomscott -> tomscott -> UsVsTh3m
+voodoochild: Squiz -> Tobias & Tobias -> Guardian
+yahnyinlondon: Yahoo! -> RMA Consulting -> Freelance
 
