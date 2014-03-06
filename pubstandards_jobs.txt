@@ -52,7 +52,7 @@ jwheare: Torchbox -> Last.fm -> IRCCloud
 kapowaz: Teamphone -> HomeAway -> VideoJuicer -> Unboxed -> Photobox -> Freelance
 kevinprince: Capita -> World Food Programme -> NBC Universal -> O2
 knockles: Red Snapper -> Squiz -> Yahoo! -> Expedia
-lindas: Code Club
+lindas: Last.fm -> Code Club
 lizard: icom -> Unboxed -> Sky
 lucas42: Assanka
 matthias: recollective -> Less Rain -> Freelance -> Design Science Office -> Photobox
@@ -70,7 +70,7 @@ phae: Volume -> BBC -> Nature -> GDS -> Code for America
 poppiestar: adsdotcom -> Gamesys -> TravelMatch -> Lonely Planet -> Freelance
 rboulton: Lemur Consulting -> Celestial Navigation -> Lumi -> GDS
 retallicka: Mediatonic -> Adjust Your Set -> Gamesys
-russss: Last.fm -> Smarkets -> Freelance
+russss: Last.fm -> Smarkets -> IRCCloud
 simonw: Yahoo! -> GCap -> Guardian -> Lanyrd -> Eventbrite
 skarab: Smarkets -> G-Research
 skr: Last.fm -> Twitter
