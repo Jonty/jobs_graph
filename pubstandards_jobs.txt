@@ -74,6 +74,7 @@ phae: Volume -> BBC -> Nature -> GDS -> Code for America
 poppiestar: adsdotcom -> Gamesys -> TravelMatch -> Lonely Planet -> Freelance
 rboulton: Lemur Consulting -> Celestial Navigation -> Lumi -> GDS
 retallicka: Mediatonic -> Adjust Your Set -> Gamesys
+rnalexander: youDevise -> TIMGroup
 russss: Last.fm -> Smarkets -> IRCCloud
 simonw: Yahoo! -> GCap -> Guardian -> Lanyrd -> Eventbrite
 skarab: Smarkets -> G-Research
@@ -86,5 +87,4 @@ tomscott: tomscott -> tomscott -> UsVsTh3m
 vetraskr: Baker Tilly -> ZenithOptimedia
 voodoochild: Squiz -> Tobias & Tobias -> Guardian
 yahnyinlondon: Yahoo! -> RMA Consulting -> Freelance
-rnalexander: youDevise -> TIMGroup
 
