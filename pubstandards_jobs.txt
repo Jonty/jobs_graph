@@ -41,7 +41,7 @@ dannyamey: Yahoo! -> Grand Union -> Synacor -> Preloaded -> Tobias & Tobias -> C
 dom: icom -> Freelance -> LBi -> Freelance -> DigiResults -> Freelance -> Unboxed -> GDS
 dominicgs: Geneity -> Fluent Image -> ITG -> Great Scott Gadgets
 dorward: Fish IC -> Sophos -> Yahoo! -> Playfire -> BBC -> Base79
-dsingleton: Spring Digital -> Last.fm -> Lumi
+dsingleton: Spring Digital -> Last.fm -> Lumi -> GDS
 dunk: Last.fm -> Academia
 eadmundo: Yahoo! -> Squiz -> Smarkets -> Tobias & Tobias -> Adaptive Lab
 fatbusinessman: Taptu -> Glasses Direct -> Mozilla -> GDS
