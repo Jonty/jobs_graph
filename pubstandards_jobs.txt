@@ -6,7 +6,7 @@ Aquarion: Trutap -> Skimlinks -> Languagelab -> Zappit -> JeemTV -> Freelance
 Ben Marvell: Wiley -> Sky -> LexisNexis -> Centrica -> GDS
 Dan W: idiomag -> PMS -> Makeshift
 Dan Webb: Vivabit -> peoplesmusicstore -> Twitter
-David R. MacIver: Aframe -> Lumi
+David R. MacIver: Aframe -> Lumi -> Google
 Felix Hawkins: DigiResults -> NAP -> Lonely Planet
 Jake Archibald: BBC -> theTeam -> Lanyrd -> Google
 James Aitken: HostGator -> UK2
@@ -50,7 +50,7 @@ georgebrock: Freelance -> Reevoo -> Artfinder -> Tripbirds -> Freelance -> thoug
 ginader: Yahoo! -> Yahoo! US -> Google
 imranghory: Freelance -> Index Ventures
 jaylett: tangozebra -> Kudocities -> Freelance -> EMI -> Artfinder -> NSFWCORP -> Kittens with Jetpacks
-jonty: Last.fm -> Lumi
+jonty: Last.fm -> Lumi -> ?
 jwheare: Torchbox -> Last.fm -> IRCCloud
 kapowaz: Teamphone -> HomeAway -> VideoJuicer -> Unboxed -> Photobox -> Freelance
 kevinprince: Capita -> World Food Programme -> NBC Universal -> O2
@@ -80,7 +80,7 @@ simonw: Yahoo! -> GCap -> Guardian -> Lanyrd -> Eventbrite
 skarab: Smarkets -> G-Research
 skr: Last.fm -> Twitter
 slightlyoff: Google
-tef: Code Club -> ?
+tef: Code Club -> Citymapper
 theartisan: uSwitch Communications -> Top10.com -> PeerIndex -> BrightTalk -> Fabric
 tommorris: Academia -> Colourfast -> LinkedGov -> Fabric
 tomscott: tomscott -> tomscott -> UsVsTh3m
