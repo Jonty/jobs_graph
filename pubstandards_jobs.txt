@@ -71,6 +71,7 @@ paulcuth: ATS -> Gamesys
 paulduncan: marketpipe -> dianomi -> BBC -> Amazon
 pete goodman: Tonic -> Pirata -> f90
 phae: Volume -> BBC -> Nature -> GDS -> Code for America
+pkqk: BERG -> myHealthPal
 poppiestar: adsdotcom -> Gamesys -> TravelMatch -> Lonely Planet -> Freelance
 rboulton: Lemur Consulting -> Celestial Navigation -> Lumi -> GDS
 retallicka: Mediatonic -> Adjust Your Set -> Gamesys
