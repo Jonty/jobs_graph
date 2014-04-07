@@ -49,6 +49,7 @@ fatbusinessman: Taptu -> Glasses Direct -> Mozilla -> GDS
 garethr: GCap -> Glasses Direct -> FreeAgent -> GDS
 georgebrock: Freelance -> Reevoo -> Artfinder -> Tripbirds -> Freelance -> thoughtbot
 ginader: Yahoo! -> Yahoo! US -> Google
+hadleybeeman: LinkedGov -> Technology Strategy Board -> Mozilla -> GDS
 imranghory: Freelance -> Index Ventures
 jaylett: tangozebra -> Kudocities -> Freelance -> EMI -> Artfinder -> NSFWCORP -> Kittens with Jetpacks
 jonty: Last.fm -> Lumi -> ?
