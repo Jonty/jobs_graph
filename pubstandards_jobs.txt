@@ -24,7 +24,7 @@ Tamsin: Yahoo! -> MOO
 YaaL: MOO -> Beam.tv -> UK2 -> Contentment
 abscond: citysafe -> peoplesmusicstore -> Freelance -> Unboxed -> BERG -> Freelance -> MoJ
 actel: CRU -> Freelance -> Thingswithbitcoins
-adamamyl: mySociety -> TooManyHats -> Guardian -> someonenotworthmentioning -> OKFN
+adamamyl: mySociety -> TooManyHats -> Guardian -> RewiredState -> OKFN
 alexs: QuietRevolution -> Artfinder -> Green Man Gaming -> Quru -> Freelance -> Lyst
 alicebartlett: Assanka -> BERG -> GDS
 andrewgodwin: Torchbox -> Epio -> Lanyrd -> Eventbrite
