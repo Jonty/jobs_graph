@@ -17,7 +17,7 @@ MikeD:  Yahoo! -> LOVEFiLM -> Tizaro
 Nicky: MOO -> Freelance
 RJ: Last.fm -> IRCCloud
 Richard Pope: MOO -> MySociety -> Freelance -> GDS
-Rowan: Assanka
+Rowan: Assanka -> FT Labs
 Sarah Clark: icom -> Steely Eye -> Isobar -> Freelance
 Steve Marshall: Fujitsu Siemens -> Yahoo! -> Expedia -> Tizaro
 Tamsin: Yahoo! -> MOO
@@ -59,7 +59,7 @@ kevinprince: Capita -> World Food Programme -> NBC Universal -> O2
 knockles: Red Snapper -> Squiz -> Yahoo! -> Expedia
 lindas: Last.fm -> Code Club
 lizard: icom -> Unboxed -> Sky
-lucas42: Assanka
+lucas42: Assanka -> FT Labs
 matthias: recollective -> Less Rain -> Freelance -> Design Science Office -> Photobox
 mnowster: tangozebra -> Acknowledge -> Glasses Direct -> Artfinder -> GDS -> Freelance
 mokele: Last.fm -> Smarkets -> Stroud Brewery
