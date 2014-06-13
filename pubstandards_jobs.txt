@@ -32,7 +32,7 @@ andyhume: Multimap -> Microsoft -> Clearleft -> Guardian -> Twitter
 ashb: Fotango -> NAP -> DigiResults -> Freelance -> MoJ
 benward: Fujitsu Siemens -> Yobject -> Yahoo! -> Yahoo! US -> Twitter
 bfirsh: GCap -> Guardian -> Epio -> Lanyrd -> This Is My Jam -> Poetica -> GDS -> Orchard
-boozeniges: LSBU -> GCap -> LBi -> Nature -> Mozilla -> hotels.com
+boozeniges: LSBU -> GCap -> LBi -> Nature -> Mozilla -> Expedia
 bradwright: Yahoo! -> GCap -> Smarkets -> GDS
 bruntonspall: Guardian -> GDS
 cackhanded: Yahoo! -> Linden Lab -> Artfinder -> GDS -> myHealthPal
@@ -89,6 +89,6 @@ theartisan: uSwitch Communications -> Top10.com -> PeerIndex -> BrightTalk -> Fa
 tommorris: Academia -> Colourfast -> LinkedGov -> Fabric
 tomscott: tomscott -> tomscott -> UsVsTh3m
 vetraskr: Baker Tilly -> ZenithOptimedia
-voodoochild: Squiz -> Tobias & Tobias -> Guardian
+voodoochild: Squiz -> Tobias & Tobias -> Guardian -> Expedia
 yahnyinlondon: Yahoo! -> RMA Consulting -> Freelance
 
