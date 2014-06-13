@@ -84,6 +84,7 @@ simonw: Yahoo! -> GCap -> Guardian -> Lanyrd -> Eventbrite
 skarab: Smarkets -> G-Research
 skr: Last.fm -> Twitter
 slightlyoff: Google
+Sully: Academia
 tef: Code Club -> Citymapper
 theartisan: uSwitch Communications -> Top10.com -> PeerIndex -> BrightTalk -> Fabric
 tommorris: Academia -> Colourfast -> LinkedGov -> Fabric
