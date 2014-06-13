@@ -4,7 +4,7 @@ Released under CC-0.
 Alex Lee: Yahoo! -> GCap -> Kneedl -> Smarkets -> Freelance
 Aquarion: Trutap -> Skimlinks -> Languagelab -> Zappit -> JeemTV -> Freelance
 Ben Marvell: Wiley -> Sky -> LexisNexis -> Centrica -> GDS
-Dan W: idiomag -> PMS -> Makeshift -> ?
+Dan W: idiomag -> PMS -> Makeshift -> Freelance
 Dan Webb: Vivabit -> peoplesmusicstore -> Twitter
 David R. MacIver: Aframe -> Lumi -> Google
 Felix Hawkins: DigiResults -> NAP -> Lonely Planet
@@ -13,13 +13,13 @@ James Aitken: HostGator -> UK2
 Leon: The Trainline -> Trafalgar -> CRU -> 7Digital
 Meri Williams: GDS -> myHealthPal
 Mike Stenhouse: Trampoline -> Aframe
-MikeD:  Yahoo! -> LOVEFiLM -> Tizaro
+MikeD:  Yahoo! -> LOVEFiLM -> Tizaro -> ?
 Nicky: MOO -> Freelance -> FutureLearn
 RJ: Last.fm -> IRCCloud
 Richard Pope: MOO -> MySociety -> Freelance -> GDS
 Rowan: Assanka -> FT Labs
 Sarah Clark: icom -> Steely Eye -> Isobar -> Freelance
-Steve Marshall: Fujitsu Siemens -> Yahoo! -> Expedia -> Tizaro
+Steve Marshall: Fujitsu Siemens -> Yahoo! -> Expedia -> Tizaro -> ?
 Tamsin: Yahoo! -> MOO
 YaaL: MOO -> Beam.tv -> UK2 -> Contentment -> EVRYTHNG
 abscond: citysafe -> peoplesmusicstore -> Freelance -> Unboxed -> BERG -> Freelance -> MoJ
@@ -69,7 +69,7 @@ mseckington: EmberAds -> Unboxed -> FutureLearn
 muffinresearch: Multimap -> Yahoo! -> GCap -> Canonical
 muz: Last.fm -> Mendeley -> BBC
 natbat: Torchbox -> Clearleft -> Lanyrd -> Eventbrite
-neilcrosby: Yahoo!  -> BBC -> LOVEFiLM -> Amazon -> Tizaro
+neilcrosby: Yahoo!  -> BBC -> LOVEFiLM -> Amazon -> Tizaro -> ?
 paulcuth: ATS -> Gamesys
 paulduncan: marketpipe -> dianomi -> BBC -> Amazon
 pete goodman: Tonic -> Pirata -> f90
