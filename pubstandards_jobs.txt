@@ -45,6 +45,7 @@ georgebrock: Freelance -> Reevoo -> Artfinder -> Tripbirds -> Freelance -> thoug
 ginader: Yahoo! -> Yahoo! US -> Google
 hadleybeeman: LinkedGov -> Technology Strategy Board -> Mozilla -> GDS
 imranghory: Freelance -> Index Ventures
+jabley: GDS
 jaylett: tangozebra -> Kudocities -> Freelance -> EMI -> Artfinder -> NSFWCORP -> Kittens with Jetpacks
 jonty: Last.fm -> Lumi -> IRCCloud
 jwheare: Torchbox -> Last.fm -> IRCCloud
