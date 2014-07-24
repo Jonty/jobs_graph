@@ -22,7 +22,7 @@ alexs: QuietRevolution -> Artfinder -> Green Man Gaming -> Quru -> Freelance -> 
 alicebartlett: Assanka -> BERG -> GDS
 andrewgodwin: Torchbox -> Epio -> Lanyrd -> Eventbrite
 andyhume: Multimap -> Microsoft -> Clearleft -> Guardian -> Twitter
-ashb: Fotango -> NAP -> DigiResults -> Freelance -> MoJ
+ashb: Fotango -> NAP -> DigiResults -> Freelance -> MOJ
 benward: Fujitsu Siemens -> Yobject -> Yahoo! -> Yahoo! US -> Twitter
 bfirsh: GCap -> Guardian -> Epio -> Lanyrd -> This Is My Jam -> Poetica -> GDS -> Orchard
 boozeniges: LSBU -> GCap -> LBi -> Nature -> Mozilla -> Expedia
@@ -30,7 +30,7 @@ bradwright: Yahoo! -> GCap -> Smarkets -> GDS
 bruntonspall: Guardian -> GDS
 cackhanded: Yahoo! -> Linden Lab -> Artfinder -> GDS -> myHealthPal -> ?
 cbetta: Nudge -> MinuteBox -> EmberAds -> PayPal
-chrismear: Freelance -> Greenvoice -> Freelance -> Forest High School
+chrismear: Freelance -> Greenvoice -> Freelance -> One Click Orgs
 creature: Sun Microsystems -> Framestore CFC -> Last.fm -> Freelance
 dannyamey: Yahoo! -> Grand Union -> Synacor -> Preloaded -> Tobias & Tobias -> Contentment -> Yammer
 dom: icom -> Freelance -> LBi -> Freelance -> DigiResults -> Freelance -> Unboxed -> GDS
