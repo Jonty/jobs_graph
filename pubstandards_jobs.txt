@@ -33,6 +33,7 @@ cbetta: Nudge -> MinuteBox -> EmberAds -> PayPal
 chrismear: Freelance -> Greenvoice -> Freelance -> One Click Orgs
 creature: Sun Microsystems -> Framestore CFC -> Last.fm -> Freelance
 dannyamey: Yahoo! -> Grand Union -> Synacor -> Preloaded -> Tobias & Tobias -> Contentment -> Yammer
+dexterperrin: iii -> marketpipe -> BBC -> LOVEFiLM -> Amazon
 dom: icom -> Freelance -> LBi -> Freelance -> DigiResults -> Freelance -> Unboxed -> GDS
 dominicgs: Geneity -> Fluent Image -> ITG -> Great Scott Gadgets
 dorward: Fish IC -> Sophos -> Yahoo! -> Playfire -> BBC -> Base79 -> Razorfish -> FairFX
@@ -65,7 +66,6 @@ muz: Last.fm -> Mendeley -> BBC
 natbat: Torchbox -> Clearleft -> Lanyrd -> Eventbrite
 neilcrosby: Yahoo!  -> BBC -> LOVEFiLM -> Amazon -> Tizaro -> A Secret Thing
 paulcuth: ATS -> Gamesys
-paulduncan: marketpipe -> dianomi -> BBC -> Amazon
 pete goodman: Tonic -> Pirata -> f90
 phae: Volume -> BBC -> Nature -> GDS -> Code for America
 pkqk: Reevoo -> Artfinder -> BERG -> myHealthPal -> ?
