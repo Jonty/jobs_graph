@@ -19,6 +19,7 @@ abscond: Freelance -> citysafe -> peoplesmusicstore -> Freelance -> Unboxed -> B
 actel: CRU -> Freelance -> Thingswithbitcoins
 adamamyl: mySociety -> TooManyHats -> Guardian -> RewiredState -> OKFN
 alexs: QuietRevolution -> Artfinder -> Green Man Gaming -> Quru -> Freelance -> Lyst
+alfeaton: Nature -> Mendeley -> PeerJ
 alicebartlett: Assanka -> BERG -> GDS
 andrewgodwin: Torchbox -> Epio -> Lanyrd -> Eventbrite
 andyhume: Multimap -> Microsoft -> Clearleft -> Guardian -> Twitter
