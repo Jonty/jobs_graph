@@ -63,7 +63,7 @@ mseckington: EmberAds -> Unboxed -> FutureLearn
 muffinresearch: Multimap -> Yahoo! -> GCap -> Canonical
 muz: Last.fm -> Mendeley -> BBC
 natbat: Torchbox -> Clearleft -> Lanyrd -> Eventbrite
-neilcrosby: Yahoo!  -> BBC -> LOVEFiLM -> Amazon -> Tizaro -> ?
+neilcrosby: Yahoo!  -> BBC -> LOVEFiLM -> Amazon -> Tizaro -> A Secret Thing
 paulcuth: ATS -> Gamesys
 paulduncan: marketpipe -> dianomi -> BBC -> Amazon
 pete goodman: Tonic -> Pirata -> f90
@@ -84,7 +84,7 @@ slightlyoff: Google
 Steve Marshall: Fujitsu Siemens -> Yahoo! -> Expedia -> Tizaro -> ?
 skr: Last.fm -> Twitter
 Sully: Academia
-tef: Code Club -> Citymapper -> ?
+tef: Code Club -> Citymapper -> Heroku
 theartisan: uSwitch Communications -> Top10.com -> PeerIndex -> BrightTalk -> Fabric
 tommorris: Academia -> Colourfast -> LinkedGov -> Fabric
 tomscott: tomscott -> tomscott -> UsVsTh3m
