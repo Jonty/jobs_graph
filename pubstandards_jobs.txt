@@ -77,11 +77,12 @@ Richard Pope: MOO -> MySociety -> Freelance -> GDS
 Rowan: Assanka -> FT Labs
 rboulton: Lemur Consulting -> Celestial Navigation -> Lumi -> GDS
 russss: Last.fm -> Smarkets -> IRCCloud
+SamLR: carhoots->plentific -> ZenithOptimedia
 Sarah Clark: icom -> Steely Eye -> Isobar -> Freelance
 skarab: Smarkets -> G-Research
 simonw: Yahoo! -> GCap -> Guardian -> Lanyrd -> Eventbrite
 slightlyoff: Google
-Steve Marshall: Fujitsu Siemens -> Yahoo! -> Expedia -> Tizaro -> ?
+Steve Marshall: Fujitsu Siemens -> Yahoo! -> Expedia -> Tizaro -> MOJ
 skr: Last.fm -> Twitter
 Sully: Academia
 tef: Code Club -> Citymapper -> Heroku
