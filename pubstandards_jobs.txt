@@ -32,6 +32,7 @@ bruntonspall: Guardian -> GDS
 cackhanded: Yahoo! -> Linden Lab -> Artfinder -> GDS -> myHealthPal -> Secret Thing #2
 cbetta: Nudge -> MinuteBox -> EmberAds -> PayPal
 chrismear: Freelance -> Greenvoice -> Freelance -> One Click Orgs
+czetter: Reevoo -> Rentify -> FutureLearn
 creature: Sun Microsystems -> Framestore CFC -> Last.fm -> Freelance
 dannyamey: Yahoo! -> Grand Union -> Synacor -> Preloaded -> Tobias & Tobias -> Contentment -> Yammer
 dexterperrin: marketpipe -> BBC -> LOVEFiLM -> Amazon
