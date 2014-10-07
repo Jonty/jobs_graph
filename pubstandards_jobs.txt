@@ -15,7 +15,7 @@ Meri Williams: GDS -> Vodafone -> myHealthPal -> ?
 Mike Stenhouse: Trampoline -> Aframe
 MikeD:  Yahoo! -> LOVEFiLM -> Tizaro -> ?
 Nicky: MOO -> Freelance -> FutureLearn
-abscond: Freelance -> citysafe -> peoplesmusicstore -> Freelance -> Unboxed -> BERG -> Freelance -> MOJ
+abscond: Freelance -> citysafe -> peoplesmusicstore -> Freelance -> Unboxed -> BERG -> Freelance -> MOJ -> ?
 actel: CRU -> Freelance -> Thingswithbitcoins
 adamamyl: mySociety -> TooManyHats -> Guardian -> RewiredState -> OKFN
 alexs: QuietRevolution -> Artfinder -> Green Man Gaming -> Quru -> Freelance -> Lyst
@@ -40,7 +40,7 @@ dsingleton: Spring Digital -> Last.fm -> Lumi -> GDS
 dunk: Last.fm -> Academia
 eadmundo: Yahoo! -> Squiz -> Smarkets -> Tobias & Tobias -> Adaptive Lab
 fatbusinessman: Taptu -> Glasses Direct -> Mozilla -> GDS
-garethr: GCap -> Glasses Direct -> FreeAgent -> GDS
+garethr: GCap -> Glasses Direct -> FreeAgent -> GDS -> Puppet Labs
 georgebrock: Freelance -> Reevoo -> Artfinder -> Tripbirds -> Freelance -> thoughtbot
 ginader: Yahoo! -> Yahoo! US -> Google
 hadleybeeman: LinkedGov -> Technology Strategy Board -> Mozilla -> GDS
