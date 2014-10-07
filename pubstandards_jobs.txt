@@ -35,7 +35,7 @@ creature: Sun Microsystems -> Framestore CFC -> Last.fm -> Freelance
 dannyamey: Yahoo! -> Grand Union -> Synacor -> Preloaded -> Tobias & Tobias -> Contentment -> Yammer
 dom: icom -> Freelance -> LBi -> Freelance -> DigiResults -> Freelance -> Unboxed -> GDS
 dominicgs: Geneity -> Fluent Image -> ITG -> Great Scott Gadgets
-dorward: Fish IC -> Sophos -> Yahoo! -> Playfire -> BBC -> Base79
+dorward: Fish IC -> Sophos -> Yahoo! -> Playfire -> BBC -> Base79 -> Razorfish -> FairFX
 dsingleton: Spring Digital -> Last.fm -> Lumi -> GDS
 dunk: Last.fm -> Academia
 eadmundo: Yahoo! -> Squiz -> Smarkets -> Tobias & Tobias -> Adaptive Lab
