@@ -11,9 +11,9 @@ Felix Hawkins: DigiResults -> NAP -> Lonely Planet
 Jake Archibald: BBC -> theTeam -> Lanyrd -> Google
 James Aitken: HostGator -> UK2
 Leon: The Trainline -> Trafalgar -> CRU -> 7Digital
-Meri Williams: GDS -> Vodafone -> myHealthPal -> A Secret Thing #2
+Meri Williams: GDS -> Vodafone -> myHealthPal -> Secret Thing #2
 Mike Stenhouse: Trampoline -> Aframe
-MikeD:  Yahoo! -> LOVEFiLM -> Tizaro -> ?
+MikeD:  Yahoo! -> LOVEFiLM -> Tizaro -> Secret Thing #1
 Nicky: MOO -> Freelance -> FutureLearn
 abscond: Freelance -> citysafe -> peoplesmusicstore -> Freelance -> Unboxed -> BERG -> Freelance -> MOJ -> Freelance
 actel: CRU -> Freelance -> Thingswithbitcoins
@@ -28,12 +28,12 @@ bfirsh: GCap -> Guardian -> Epio -> Lanyrd -> This Is My Jam -> Poetica -> GDS -
 boozeniges: LSBU -> GCap -> LBi -> Nature -> Mozilla -> Expedia
 bradwright: Yahoo! -> GCap -> Smarkets -> GDS
 bruntonspall: Guardian -> GDS
-cackhanded: Yahoo! -> Linden Lab -> Artfinder -> GDS -> myHealthPal -> A Secret Thing #2
+cackhanded: Yahoo! -> Linden Lab -> Artfinder -> GDS -> myHealthPal -> Secret Thing #2
 cbetta: Nudge -> MinuteBox -> EmberAds -> PayPal
 chrismear: Freelance -> Greenvoice -> Freelance -> One Click Orgs
 creature: Sun Microsystems -> Framestore CFC -> Last.fm -> Freelance
 dannyamey: Yahoo! -> Grand Union -> Synacor -> Preloaded -> Tobias & Tobias -> Contentment -> Yammer
-dexterperrin: iii -> marketpipe -> BBC -> LOVEFiLM -> Amazon
+dexterperrin: marketpipe -> BBC -> LOVEFiLM -> Amazon
 dom: icom -> Freelance -> LBi -> Freelance -> DigiResults -> Freelance -> Unboxed -> GDS
 dominicgs: Geneity -> Fluent Image -> ITG -> Great Scott Gadgets
 dorward: Fish IC -> Sophos -> Yahoo! -> Playfire -> BBC -> Base79 -> Razorfish -> FairFX
@@ -64,7 +64,7 @@ mseckington: EmberAds -> Unboxed -> FutureLearn
 muffinresearch: Multimap -> Yahoo! -> GCap -> Canonical
 muz: Last.fm -> Mendeley -> BBC
 natbat: Torchbox -> Clearleft -> Lanyrd -> Eventbrite
-neilcrosby: Yahoo!  -> BBC -> LOVEFiLM -> Amazon -> Tizaro -> A Secret Thing #1
+neilcrosby: Yahoo!  -> BBC -> LOVEFiLM -> Amazon -> Tizaro -> Secret Thing #1
 paulcuth: ATS -> Gamesys
 pete goodman: Tonic -> Pirata -> f90
 phae: Volume -> BBC -> Nature -> GDS -> Code for America
