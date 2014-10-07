@@ -24,7 +24,7 @@ andrewgodwin: Torchbox -> Epio -> Lanyrd -> Eventbrite
 andyhume: Multimap -> Microsoft -> Clearleft -> Guardian -> Twitter
 ashb: Fotango -> NAP -> DigiResults -> Freelance -> MOJ
 benward: Fujitsu Siemens -> Yobject -> Yahoo! -> Yahoo! US -> Twitter
-bfirsh: GCap -> Guardian -> Epio -> Lanyrd -> This Is My Jam -> Poetica -> GDS -> Orchard
+bfirsh: GCap -> Guardian -> Epio -> Lanyrd -> This Is My Jam -> Poetica -> GDS -> Orchard -> Docker
 boozeniges: LSBU -> GCap -> LBi -> Nature -> Mozilla -> Expedia
 bradwright: Yahoo! -> GCap -> Smarkets -> GDS
 bruntonspall: Guardian -> GDS
