@@ -59,6 +59,7 @@ lindas: Last.fm -> Code Club -> Freelance
 lizard: icom -> Unboxed -> Sky
 lucas42: Assanka -> FT Labs
 matthias: recollective -> Less Rain -> Freelance -> Design Science Office -> Photobox
+mikeb: siteDoc -> cloudMap -> calcResult
 mnowster: tangozebra -> Acknowledge -> Glasses Direct -> Artfinder -> GDS -> Freelance
 mokele: Last.fm -> Smarkets -> Stroud Brewery
 ms7821: Geneity
