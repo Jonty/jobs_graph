@@ -48,7 +48,7 @@ garethr: GCap -> Glasses Direct -> FreeAgent -> GDS -> Puppet Labs
 georgebrock: Freelance -> Reevoo -> Artfinder -> Tripbirds -> Freelance -> thoughtbot
 ginader: Yahoo! -> Yahoo! US -> Google
 hadleybeeman: LinkedGov -> Technology Strategy Board -> Mozilla -> GDS
-imranghory: Freelance -> Index Ventures
+imranghory: Freelance -> Index Ventures -> ?
 jabley: GDS
 jaylett: tangozebra -> Kudocities -> Freelance -> EMI -> Artfinder -> NSFWCORP -> Kittens with Jetpacks
 jonty: Last.fm -> Lumi -> IRCCloud
