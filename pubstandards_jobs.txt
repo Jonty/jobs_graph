@@ -75,7 +75,7 @@ phae: Volume -> BBC -> Nature -> GDS -> Code for America
 pkqk: Reevoo -> Artfinder -> BERG -> myHealthPal -> Freelance
 poppiestar: adsdotcom -> Gamesys -> TravelMatch -> Lonely Planet -> Freelance
 retallicka: Mediatonic -> Adjust Your Set -> Gamesys
-rnalexander: youDevise -> TIMGroup
+rnalexander: youDevise -> TIMGroup -> Money Advice Service
 RJ: Last.fm -> IRCCloud
 Richard Pope: MOO -> mySociety -> Freelance -> GDS
 Rowan: Assanka -> FT Labs
