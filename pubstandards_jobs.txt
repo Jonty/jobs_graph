@@ -77,7 +77,7 @@ poppiestar: adsdotcom -> Gamesys -> TravelMatch -> Lonely Planet -> Freelance
 retallicka: Mediatonic -> Adjust Your Set -> Gamesys
 rnalexander: youDevise -> TIMGroup
 RJ: Last.fm -> IRCCloud
-Richard Pope: MOO -> MySociety -> Freelance -> GDS
+Richard Pope: MOO -> mySociety -> Freelance -> GDS
 Rowan: Assanka -> FT Labs
 rboulton: Lemur Consulting -> Celestial Navigation -> Lumi -> GDS
 russss: Last.fm -> Smarkets -> IRCCloud
