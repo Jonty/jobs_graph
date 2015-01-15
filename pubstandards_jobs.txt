@@ -93,7 +93,7 @@ Sully: Academia
 tef: Code Club -> Citymapper -> Heroku
 theartisan: uSwitch Communications -> Top10.com -> PeerIndex -> BrightTalk -> Fabric -> Freelance -> Havas EHS
 tommorris: Academia -> Colourfast -> LinkedGov -> Fabric
-tomscott: tomscott -> tomscott -> UsVsTh3m
+tomscott: tomscott -> tomscott -> UsVsTh3m -> tomscott
 Tamsin: Yahoo! -> MOO
 vetraskr: Baker Tilly -> ZenithOptimedia
 voodoochild: Squiz -> Tobias & Tobias -> Guardian -> Expedia
