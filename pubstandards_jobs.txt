@@ -6,14 +6,14 @@ Aquarion: Trutap -> Skimlinks -> Languagelab -> Zappit -> JeemTV -> Freelance
 Ben Marvell: Wiley -> Sky -> LexisNexis -> Centrica -> GDS
 Dan W: Watershed -> Makeshift -> Freelance
 Dan Webb: Vivabit -> peoplesmusicstore -> Twitter
-David R. MacIver: Trampoline -> Aframe -> Lumi -> Google
+David R. MacIver: Trampoline -> Aframe -> Lumi -> Google -> ?
 Felix Hawkins: DigiResults -> NAP -> Lonely Planet
 Jake Archibald: BBC -> theTeam -> Lanyrd -> Google
 James Aitken: HostGator -> UK2
 Leon: The Trainline -> Trafalgar -> CRU -> 7Digital
 Meri Williams: GDS -> Vodafone -> myHealthPal -> M&S
 Mike Stenhouse: Trampoline -> Aframe
-MikeD:  Yahoo! -> LOVEFiLM -> Tizaro -> Secret Thing #1
+MikeD:  Yahoo! -> LOVEFiLM -> Tizaro -> InstaSupply
 Nicky: MOO -> Freelance -> FutureLearn
 abscond: Freelance -> citysafe -> peoplesmusicstore -> Freelance -> Unboxed -> BERG -> Freelance -> MOJ -> GDS -> MOJ
 actel: CRU -> Freelance -> Thingswithbitcoins
@@ -40,7 +40,7 @@ dom: icom -> Freelance -> LBi -> Freelance -> DigiResults -> Freelance -> Unboxe
 dominicgs: Geneity -> Fluent Image -> ITG -> Great Scott Gadgets
 dorward: Fish IC -> Sophos -> Yahoo! -> Playfire -> BBC -> Base79 -> Razorfish -> FairFX
 dsingleton: Spring Digital -> Last.fm -> Lumi -> GDS
-dunk: Last.fm -> Academia
+dunk: Last.fm -> Academia -> Genomics England
 eadmundo: Yahoo! -> Squiz -> Smarkets -> Tobias & Tobias -> Adaptive Lab
 elliz: Soundmouse -> BritMilFit -> Microsoft -> Solidsoft -> SSE
 fatbusinessman: Taptu -> Glasses Direct -> Mozilla -> GDS
@@ -69,7 +69,7 @@ mseckington: EmberAds -> Unboxed -> FutureLearn
 muffinresearch: Multimap -> Yahoo! -> GCap -> Canonical -> Mozilla
 muz: Last.fm -> Mendeley -> BBC
 natbat: Torchbox -> Clearleft -> Lanyrd -> Eventbrite
-neilcrosby: Yahoo!  -> BBC -> LOVEFiLM -> Amazon -> Tizaro -> Secret Thing #1
+neilcrosby: Yahoo!  -> BBC -> LOVEFiLM -> Amazon -> Tizaro -> InstaSupply
 paulcuth: ATS -> Gamesys
 pete goodman: Tonic -> Pirata -> f90
 phae: Volume -> BBC -> Nature -> GDS -> Code for America
