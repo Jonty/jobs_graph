@@ -92,7 +92,7 @@ skr: Last.fm -> Twitter
 Sully: Academia
 tef: Code Club -> Citymapper -> Heroku
 theartisan: uSwitch Communications -> Top10.com -> PeerIndex -> BrightTalk -> Fabric -> Freelance -> Havas EHS
-tommorris: Academia -> Colourfast -> LinkedGov -> Fabric
+tommorris: Academia -> Colourfast -> LinkedGov -> Fabric -> M&S
 tomscott: tomscott -> tomscott -> UsVsTh3m -> tomscott
 Tamsin: Yahoo! -> MOO
 vetraskr: Baker Tilly -> ZenithOptimedia
