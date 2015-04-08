@@ -91,7 +91,7 @@ Steve Marshall: Fujitsu Siemens -> Yahoo! -> Expedia -> Tizaro -> MOJ
 skr: Last.fm -> Twitter
 Sully: Academia
 tef: Code Club -> Citymapper -> Heroku
-theartisan: uSwitch Communications -> Top10.com -> PeerIndex -> BrightTalk -> Fabric -> Freelance -> Havas EHS
+theartisan: uSwitch Communications -> Top10.com -> PeerIndex -> BrightTalk -> Fabric -> Freelance -> Havas Helia
 tommorris: Academia -> Colourfast -> LinkedGov -> Fabric -> M&S
 tomscott: tomscott -> tomscott -> Trinity Mirror -> tomscott
 Tamsin: Yahoo! -> MOO
