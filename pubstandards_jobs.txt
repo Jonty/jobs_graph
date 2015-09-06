@@ -48,11 +48,11 @@ garethr: GCap -> Glasses Direct -> FreeAgent -> GDS -> Puppet Labs
 georgebrock: Freelance -> Reevoo -> Artfinder -> Tripbirds -> Freelance -> thoughtbot
 ginader: Yahoo! -> Yahoo! US -> Google
 hadleybeeman: LinkedGov -> Technology Strategy Board -> Mozilla -> GDS
-imranghory: Freelance -> Index Ventures -> ?
+imranghory: Freelance -> Index Ventures -> MarketInvoice
 jabley: GDS
 jaylett: tangozebra -> Kudocities -> Freelance -> EMI -> Artfinder -> NSFWCORP -> Kittens with Jetpacks
-jonty: Last.fm -> Lumi -> IRCCloud -> Freelance
-jordan: GDS -> Australian Digital Transformation Office
+jonty: Last.fm -> Lumi -> IRCCloud -> GDS
+jordan: GDS -> Australian DTO
 jwheare: Torchbox -> Last.fm -> IRCCloud
 kapowaz: Teamphone -> HomeAway -> VideoJuicer -> Unboxed -> Photobox -> Freelance
 kevinprince: Capita -> World Food Programme -> NBC Universal -> O2
