@@ -33,7 +33,7 @@ cackhanded: Yahoo! -> Linden Lab -> Artfinder -> GDS -> myHealthPal -> M&S -> ?
 cbetta: Nudge -> MinuteBox -> EmberAds -> PayPal
 chrismear: Freelance -> Greenvoice -> Freelance -> One Click Orgs
 czetter: Reevoo -> Rentify -> FutureLearn
-creature: Sun Microsystems -> Framestore CFC -> Last.fm -> FetLife
+creature: Sun Microsystems -> Framestore CFC -> Last.fm -> A Thing
 dannyamey: Yahoo! -> Grand Union -> Synacor -> Preloaded -> Tobias & Tobias -> Contentment -> Yammer
 dexterperrin: marketpipe -> BBC -> LOVEFiLM -> Amazon
 dom: icom -> Freelance -> LBi -> Freelance -> DigiResults -> Freelance -> Unboxed -> GDS
