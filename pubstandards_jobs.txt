@@ -54,16 +54,16 @@ jaylett: tangozebra -> Kudocities -> Freelance -> EMI -> Artfinder -> NSFWCORP -
 jonty: Last.fm -> Lumi -> IRCCloud -> GDS
 jordan: GDS -> Australian DTO
 jwheare: Torchbox -> Last.fm -> IRCCloud
-kapowaz: Teamphone -> HomeAway -> VideoJuicer -> Unboxed -> Photobox -> Freelance
-kevinprince: Capita -> World Food Programme -> NBC Universal -> O2
+kapowaz: Teamphone -> HomeAway -> VideoJuicer -> Unboxed -> Photobox -> Bloomcrush
+kevinprince: Capita -> World Food Programme -> NBC Universal -> O2 -> ?
 knockles: Red Snapper -> Squiz -> Yahoo! -> Expedia
-lindas: Last.fm -> Code Club -> Freelance
+lindas: Last.fm -> Code Club -> Knight-Mozilla fellowship
 lizard: icom -> Unboxed -> Sky
 lucas42: Assanka -> FT Labs
 matthias: recollective -> Less Rain -> Freelance -> Design Science Office -> Photobox
 mikeb: siteDoc -> cloudMap -> calcResult
-mnowster: tangozebra -> Acknowledge -> Glasses Direct -> Artfinder -> GDS -> Freelance
-mokele: Last.fm -> Smarkets -> Stroud Brewery
+mnowster: tangozebra -> Acknowledge -> Glasses Direct -> Artfinder -> GDS -> Docker
+mokele: Last.fm -> Smarkets -> Stroud Brewery -> 
 ms7821: Geneity
 mseckington: EmberAds -> Unboxed -> FutureLearn
 muffinresearch: Multimap -> Yahoo! -> GCap -> Canonical -> Mozilla
