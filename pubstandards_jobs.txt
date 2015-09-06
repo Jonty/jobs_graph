@@ -73,7 +73,7 @@ neilcrosby: Yahoo!  -> BBC -> LOVEFiLM -> Amazon -> Tizaro -> InstaSupply
 paulcuth: ATS -> Gamesys
 pete goodman: Tonic -> Pirata -> f90
 phae: Volume -> BBC -> Nature -> GDS -> Code for America
-pkqk: Reevoo -> Artfinder -> BERG -> myHealthPal -> Freelance
+pkqk: Reevoo -> Artfinder -> BERG -> myHealthPal -> ODI
 poppiestar: adsdotcom -> Gamesys -> TravelMatch -> Lonely Planet -> Freelance
 retallicka: Mediatonic -> Adjust Your Set -> Gamesys
 rnalexander: youDevise -> TIMGroup -> Money Advice Service
@@ -88,11 +88,11 @@ skarab: Smarkets -> G-Research
 simonw: Yahoo! -> GCap -> Guardian -> Lanyrd -> Eventbrite
 slightlyoff: Google
 Steve Marshall: Fujitsu Siemens -> Yahoo! -> Expedia -> Tizaro -> MOJ
-skr: Last.fm -> Twitter
+skr: Last.fm -> Twitter -> ?
 Sully: Academia
 tef: Code Club -> Citymapper -> Heroku
 theartisan: uSwitch Communications -> Top10.com -> PeerIndex -> BrightTalk -> Fabric -> Freelance -> Havas Helia
-tommorris: Academia -> Colourfast -> LinkedGov -> Fabric -> M&S
+tommorris: Academia -> Colourfast -> LinkedGov -> Fabric -> M&S -> ?
 tomscott: tomscott -> tomscott -> Trinity Mirror -> tomscott
 Tamsin: Yahoo! -> MOO
 vetraskr: Baker Tilly -> ZenithOptimedia
