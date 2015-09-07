@@ -14,7 +14,7 @@ Leon: The Trainline -> Trafalgar -> CRU -> 7Digital
 Meri Williams: GDS -> Vodafone -> myHealthPal -> M&S
 Mike Stenhouse: Trampoline -> Aframe
 MikeD:  Yahoo! -> LOVEFiLM -> Tizaro -> InstaSupply
-Nicky: MOO -> Freelance -> FutureLearn
+Nicky: MOO -> Freelance -> FutureLearn -> Freelance -> FutureLearn
 abscond: Freelance -> citysafe -> peoplesmusicstore -> Freelance -> Unboxed -> BERG -> Freelance -> MOJ -> GDS -> MOJ -> ?
 actel: CRU -> Freelance -> Thingswithbitcoins -> RBI
 adamamyl: mySociety -> TooManyHats -> Guardian -> RewiredState -> OKFN
