@@ -99,5 +99,5 @@ vetraskr: Baker Tilly -> ZenithOptimedia
 voodoochild: Squiz -> Tobias & Tobias -> Guardian -> Expedia
 YaaL: MOO -> Beam.tv -> UK2 -> Contentment -> EVRYTHNG
 yahnyinlondon: Yahoo! -> RMA Consulting -> Freelance
-lucky: Fabric -> 1000Heads -> Hedge Fund Co -> Hogarth -> Fabric
+lucky: Fabric -> 1000Heads -> Hedge Fund Co -> Hogarth -> Fabric -> Property Dev Co -> Wunderman
 
