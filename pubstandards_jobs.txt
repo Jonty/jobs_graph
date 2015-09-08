@@ -67,7 +67,7 @@ mokele: Last.fm -> Smarkets -> Stroud Brewery -> Actual Experience
 ms7821: Geneity
 mseckington: EmberAds -> Unboxed -> FutureLearn
 muffinresearch: Multimap -> Yahoo! -> GCap -> Canonical -> Mozilla
-muz: Last.fm -> Mendeley -> BBC -> idio
+muz: Last.fm -> Mendeley -> BBC -> blinkbox -> idio
 natbat: Torchbox -> Clearleft -> Lanyrd -> Eventbrite
 neilcrosby: Yahoo!  -> BBC -> LOVEFiLM -> Amazon -> Tizaro -> InstaSupply
 paulcuth: ATS -> Gamesys
