@@ -81,7 +81,7 @@ RJ: Last.fm -> IRCCloud
 Richard Pope: MOO -> mySociety -> Freelance -> GDS
 Rowan: Assanka -> FT Labs
 rboulton: Lemur Consulting -> Celestial Navigation -> Lumi -> GDS
-russss: Last.fm -> Smarkets -> IRCCloud
+russss: Last.fm -> Smarkets -> IRCCloud -> Freelance
 SamLR: carhoots->plentific -> ZenithOptimedia
 Sarah Clark: icom -> Steely Eye -> Isobar -> Freelance
 skarab: Smarkets -> G-Research
