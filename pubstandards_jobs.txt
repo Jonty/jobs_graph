@@ -92,7 +92,8 @@ skr: Last.fm -> Twitter -> Fig.co
 Sully: Academia
 tef: Code Club -> Citymapper -> Heroku
 theartisan: uSwitch Communications -> Top10.com -> PeerIndex -> BrightTalk -> Fabric -> Freelance -> Havas Helia -> GDS
-tommorris: Academia -> Colourfast -> LinkedGov -> Fabric -> M&S -> GDS
+tmower: GDS
+tommorris: Academia -> Colourfast -> LinkedGov -> Fabric -> M&S -> Freelance
 tommypalm: GDS -> Deliveroo
 tomscott: tomscott -> tomscott -> Trinity Mirror -> tomscott
 Tamsin: Yahoo! -> MOO
@@ -101,5 +102,4 @@ voodoochild: Squiz -> Tobias & Tobias -> Guardian -> Expedia
 YaaL: MOO -> Beam.tv -> UK2 -> Contentment -> EVRYTHNG
 yahnyinlondon: Yahoo! -> RMA Consulting -> Freelance
 lucky: Fabric -> 1000Heads -> Freelance -> Hogarth -> Fabric -> Freelance -> Wunderman
-tmower: GDS
 
