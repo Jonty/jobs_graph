@@ -62,7 +62,7 @@ lizard: icom -> Unboxed -> Sky
 lucas42: Assanka -> FT Labs
 matthias: recollective -> Less Rain -> Freelance -> Design Science Office -> Photobox
 mikeb: siteDoc -> cloudMap -> calcResult
-mnowster: tangozebra -> Acknowledge -> Glasses Direct -> Artfinder -> GDS -> Freelance
+mnowster: tangozebra -> Acknowledge -> Glasses Direct -> Artfinder -> GDS -> Freelance -> LiveStax
 mokele: Last.fm -> Smarkets -> Stroud Brewery -> Actual Experience
 ms7821: Geneity
 mseckington: EmberAds -> Unboxed -> FutureLearn
@@ -72,7 +72,7 @@ natbat: Torchbox -> Clearleft -> Lanyrd -> Eventbrite
 neilcrosby: Yahoo!  -> BBC -> LOVEFiLM -> Amazon -> Tizaro -> InstaSupply
 paulcuth: ATS -> Gamesys
 pete goodman: Tonic -> Pirata -> f90
-phae: Volume -> BBC -> Nature -> GDS -> Code for America -> ?
+phae: Volume -> BBC -> Nature -> GDS -> Code for America -> Freelance
 pkqk: Reevoo -> Artfinder -> BERG -> myHealthPal -> ODI -> Freelance
 poppiestar: adsdotcom -> Gamesys -> TravelMatch -> Lonely Planet -> Freelance
 retallicka: Mediatonic -> Adjust Your Set -> Gamesys -> ?
