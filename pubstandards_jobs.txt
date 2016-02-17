@@ -20,7 +20,7 @@ actel: CRU -> Freelance -> Thingswithbitcoins -> RBI
 adamamyl: mySociety -> TooManyHats -> Guardian -> RewiredState -> OKFN
 alexs: QuietRevolution -> Artfinder -> Green Man Gaming -> Quru -> Freelance -> Lyst
 alfeaton: Nature -> Mendeley -> PeerJ
-alicebartlett: Assanka -> BERG -> GDS -> FT
+alicebartlett: Assanka -> BERG -> GDS -> FT Labs
 andrewgodwin: Torchbox -> Epio -> Lanyrd -> Eventbrite
 andyhume: Multimap -> Microsoft -> Clearleft -> Guardian -> Twitter
 ashb: Fotango -> NAP -> DigiResults -> Freelance -> MOJ -> Crowdmix
