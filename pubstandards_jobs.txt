@@ -4,9 +4,9 @@ Released under CC-0.
 Alex Lee: Yahoo! -> GCap -> Kneedl -> Smarkets -> Freelance
 Aquarion: Trutap -> Skimlinks -> Languagelab -> Zappit -> JeemTV -> Skute -> Siftware -> Freelance
 Ben Marvell: Wiley -> Sky -> LexisNexis -> Centrica -> GDS -> Freelance
-Dan W: Watershed -> Makeshift -> Freelance
-Dan Webb: Vivabit -> peoplesmusicstore -> Twitter
-David R. MacIver: Trampoline -> Aframe -> Lumi -> Google -> ?
+Dan W: Watershed -> Makeshift -> Freelance -> BuckleyWilliams
+Dan Webb: Vivabit -> peoplesmusicstore -> Twitter -> Deliveroo
+David R. MacIver: Trampoline -> Aframe -> Lumi -> Google -> Freelance
 Felix Hawkins: DigiResults -> NAP -> Lonely Planet
 Jake Archibald: BBC -> theTeam -> Lanyrd -> Google
 James Aitken: HostGator -> UK2
@@ -15,21 +15,21 @@ Meri Williams: GDS -> Vodafone -> myHealthPal -> M&S
 Mike Stenhouse: Trampoline -> Aframe
 MikeD:  Yahoo! -> LOVEFiLM -> Tizaro -> InstaSupply
 Nicky: MOO -> Freelance -> FutureLearn -> Freelance -> FutureLearn
-abscond: Freelance -> citysafe -> peoplesmusicstore -> Freelance -> Unboxed -> BERG -> Freelance -> MOJ -> GDS -> MOJ -> ?
+abscond: Freelance -> citysafe -> peoplesmusicstore -> Freelance -> Unboxed -> BERG -> Freelance -> MOJ -> GDS -> MOJ -> Labour Party
 actel: CRU -> Freelance -> Thingswithbitcoins -> RBI
 adamamyl: mySociety -> TooManyHats -> Guardian -> RewiredState -> OKFN
 alexs: QuietRevolution -> Artfinder -> Green Man Gaming -> Quru -> Freelance -> Lyst
 alfeaton: Nature -> Mendeley -> PeerJ
-alicebartlett: Assanka -> BERG -> GDS
+alicebartlett: Assanka -> BERG -> GDS -> FT
 andrewgodwin: Torchbox -> Epio -> Lanyrd -> Eventbrite
 andyhume: Multimap -> Microsoft -> Clearleft -> Guardian -> Twitter
 ashb: Fotango -> NAP -> DigiResults -> Freelance -> MOJ -> Crowdmix
 benward: Fujitsu Siemens -> Yobject -> Yahoo! -> Yahoo! US -> Twitter
 bfirsh: GCap -> Guardian -> Epio -> Lanyrd -> This Is My Jam -> Poetica -> GDS -> Orchard -> Docker
-boozeniges: LSBU -> GCap -> LBi -> Nature -> Mozilla -> Expedia
-bradwright: Yahoo! -> GCap -> Smarkets -> GDS
+boozeniges: LSBU -> GCap -> LBi -> Nature -> Mozilla -> Expedia -> M&S
+bradwright: Yahoo! -> GCap -> Smarkets -> GDS -> M&S
 bruntonspall: Guardian -> GDS
-cackhanded: Yahoo! -> Linden Lab -> Artfinder -> GDS -> myHealthPal -> M&S -> ?
+cackhanded: Yahoo! -> Linden Lab -> Artfinder -> GDS -> myHealthPal -> M&S -> LiveStax
 cbetta: Nudge -> MinuteBox -> EmberAds -> PayPal
 chrismear: Freelance -> Greenvoice -> Freelance -> One Click Orgs
 czetter: Reevoo -> Rentify -> FutureLearn
@@ -43,21 +43,21 @@ dsingleton: Spring Digital -> Last.fm -> Lumi -> GDS
 dunk: Last.fm -> Academia -> Genomics England
 eadmundo: Yahoo! -> Squiz -> Smarkets -> Tobias & Tobias -> Adaptive Lab
 elliz: Soundmouse -> BritMilFit -> Microsoft -> Solidsoft -> SSE
-fatbusinessman: Taptu -> Glasses Direct -> Mozilla -> GDS ->  ?
+fatbusinessman: Taptu -> Glasses Direct -> Mozilla -> GDS -> FutureLearn
 garethr: GCap -> Glasses Direct -> FreeAgent -> GDS -> Puppet Labs
 georgebrock: Freelance -> Reevoo -> Artfinder -> Tripbirds -> Freelance -> thoughtbot
 ginader: Yahoo! -> Yahoo! US -> Google
 hadleybeeman: LinkedGov -> Technology Strategy Board -> Mozilla -> GDS
 imranghory: Freelance -> Index Ventures -> MarketInvoice
-jabley: GDS
+jabley: GDS -> M&S
 jaylett: tangozebra -> Kudocities -> Freelance -> EMI -> Artfinder -> NSFWCORP -> Kittens with Jetpacks
-jonty: Last.fm -> Lumi -> IRCCloud -> Freelance
+jonty: Last.fm -> Lumi -> IRCCloud -> GDS
 jordan: GDS -> Australian DTO
 jwheare: Torchbox -> Last.fm -> IRCCloud
 kapowaz: Teamphone -> HomeAway -> VideoJuicer -> Unboxed -> Photobox -> Bloomcrush
 kevinprince: Capita -> World Food Programme -> NBC Universal -> O2 -> ?
 knockles: Red Snapper -> Squiz -> Yahoo! -> Expedia
-lindas: Last.fm -> Code Club -> Knight-Mozilla fellowship
+lindas: Last.fm -> Code Club -> Knight-Mozilla fellowship -> Freelance
 lizard: icom -> Unboxed -> Sky
 lucas42: Assanka -> FT Labs
 matthias: recollective -> Less Rain -> Freelance -> Design Science Office -> Photobox
@@ -72,26 +72,26 @@ natbat: Torchbox -> Clearleft -> Lanyrd -> Eventbrite
 neilcrosby: Yahoo!  -> BBC -> LOVEFiLM -> Amazon -> Tizaro -> InstaSupply
 paulcuth: ATS -> Gamesys
 pete goodman: Tonic -> Pirata -> f90
-phae: Volume -> BBC -> Nature -> GDS -> Code for America
-pkqk: Reevoo -> Artfinder -> BERG -> myHealthPal -> ODI
+phae: Volume -> BBC -> Nature -> GDS -> Code for America -> ?
+pkqk: Reevoo -> Artfinder -> BERG -> myHealthPal -> ODI -> Freelance
 poppiestar: adsdotcom -> Gamesys -> TravelMatch -> Lonely Planet -> Freelance
 retallicka: Mediatonic -> Adjust Your Set -> Gamesys -> ?
 rnalexander: youDevise -> TIMGroup -> Money Advice Service
 RJ: Last.fm -> IRCCloud
-Richard Pope: MOO -> mySociety -> Freelance -> GDS
+Richard Pope: MOO -> mySociety -> Freelance -> GDS -> ?
 Rowan: Assanka -> FT Labs
 rboulton: Lemur Consulting -> Celestial Navigation -> Lumi -> GDS
 russss: Last.fm -> Smarkets -> IRCCloud -> Freelance
-SamLR: carhoots->plentific -> ZenithOptimedia
+SamLR: carhoots -> plentific -> ZenithOptimedia
 Sarah Clark: icom -> Steely Eye -> Isobar -> Freelance
 skarab: Smarkets -> G-Research
 simonw: Yahoo! -> GCap -> Guardian -> Lanyrd -> Eventbrite
 slightlyoff: Google
 Steve Marshall: Fujitsu Siemens -> Yahoo! -> Expedia -> Tizaro -> MOJ
-skr: Last.fm -> Twitter -> ?
+skr: Last.fm -> Twitter -> Fig.co
 Sully: Academia
 tef: Code Club -> Citymapper -> Heroku
-theartisan: uSwitch Communications -> Top10.com -> PeerIndex -> BrightTalk -> Fabric -> Freelance -> Havas Helia
+theartisan: uSwitch Communications -> Top10.com -> PeerIndex -> BrightTalk -> Fabric -> Freelance -> Havas Helia -> GDS
 tommorris: Academia -> Colourfast -> LinkedGov -> Fabric -> M&S -> ?
 tomscott: tomscott -> tomscott -> Trinity Mirror -> tomscott
 Tamsin: Yahoo! -> MOO
