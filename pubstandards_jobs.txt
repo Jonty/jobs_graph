@@ -55,7 +55,7 @@ jonty: Last.fm -> Lumi -> IRCCloud -> GDS
 jordan: GDS -> Australian DTO
 jwheare: Torchbox -> Last.fm -> IRCCloud
 kapowaz: Teamphone -> HomeAway -> VideoJuicer -> Unboxed -> Photobox -> Bloomcrush
-kevinprince: Capita -> World Food Programme -> NBC Universal -> O2 -> ?
+kevinprince: Capita -> World Food Programme -> NBC Universal -> O2 -> Guestfolio
 knockles: Red Snapper -> Squiz -> Yahoo! -> Expedia
 lindas: Last.fm -> Code Club -> Knight-Mozilla fellowship -> Freelance
 lizard: icom -> Unboxed -> Sky
