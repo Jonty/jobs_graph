@@ -11,7 +11,7 @@ Felix Hawkins: DigiResults -> NAP -> Lonely Planet
 Jake Archibald: BBC -> theTeam -> Lanyrd -> Google
 James Aitken: HostGator -> UK2
 Leon: The Trainline -> Trafalgar -> CRU -> 7Digital
-Meri Williams: GDS -> Vodafone -> myHealthPal -> M&S
+Meri Williams: GDS -> Vodafone -> myHealthPal -> M&S -> Moo
 Mike Stenhouse: Trampoline -> Aframe
 MikeD:  Yahoo! -> LOVEFiLM -> Tizaro -> InstaSupply
 Nicky: MOO -> Freelance -> FutureLearn -> Freelance -> FutureLearn
@@ -20,20 +20,20 @@ actel: CRU -> Freelance -> RBI
 adamamyl: mySociety -> TooManyHats -> Guardian -> RewiredState -> OKFN
 alexs: QuietRevolution -> Artfinder -> Green Man Gaming -> Quru -> Freelance -> Lyst
 alfeaton: Nature -> Mendeley -> PeerJ
-alicebartlett: Assanka -> BERG -> GDS -> FT Labs
+alicebartlett: Assanka -> BERG -> GDS -> FT
 andrewgodwin: Torchbox -> Epio -> Lanyrd -> Eventbrite
 andyhume: Multimap -> Microsoft -> Clearleft -> Guardian -> Twitter
 ashb: Fotango -> NAP -> DigiResults -> Freelance -> MOJ -> Crowdmix -> M&S
 benward: Fujitsu Siemens -> Yobject -> Yahoo! -> Yahoo! US -> Twitter
 bfirsh: GCap -> Guardian -> Epio -> Lanyrd -> This Is My Jam -> Poetica -> GDS -> Orchard -> Docker -> ?
-rossbruniges: LSBU -> GCap -> LBi -> Nature -> Mozilla -> Expedia -> M&S -> the pits of dispair
+rossbruniges: LSBU -> GCap -> LBi -> Nature -> Mozilla -> Expedia -> M&S
 bradwright: Yahoo! -> GCap -> Smarkets -> GDS -> M&S -> StreetTeam
 bruntonspall: Guardian -> GDS
 cackhanded: Yahoo! -> Linden Lab -> Artfinder -> GDS -> myHealthPal -> M&S -> LiveStax -> Money Advice Service
-cbetta: Nudge -> MinuteBox -> EmberAds -> PayPal -> 
+cbetta: Nudge -> MinuteBox -> EmberAds -> PayPal -> Freelance
 chrismear: Freelance -> Greenvoice -> Freelance -> One Click Orgs
 czetter: Reevoo -> Rentify -> FutureLearn
-creature: Sun Microsystems -> Framestore CFC -> Last.fm -> A Thing
+creature: Sun Microsystems -> Framestore CFC -> Last.fm -> 500px
 dannyamey: Yahoo! -> Grand Union -> Synacor -> Preloaded -> Tobias & Tobias -> Contentment -> Yammer
 dexterperrin: marketpipe -> BBC -> LOVEFiLM -> Amazon
 dom: icom -> Freelance -> LBi -> Freelance -> DigiResults -> Freelance -> Unboxed -> GDS -> NHS -> M&S -> ?
@@ -50,16 +50,17 @@ ginader: Yahoo! -> Yahoo! US -> Google
 hadleybeeman: LinkedGov -> Technology Strategy Board -> Mozilla -> GDS -> ?
 imranghory: Freelance -> Index Ventures -> MarketInvoice
 jabley: GDS -> M&S -> Moo
-jaylett: tangozebra -> Kudocities -> Freelance -> EMI -> Artfinder -> NSFWCORP -> Kittens with Jetpacks
+jaylett: tangozebra -> Kudocities -> Freelance -> EMI -> Artfinder -> NSFWCORP -> Freelance
 jonty: Last.fm -> Lumi -> IRCCloud -> GDS
 jordan: GDS -> Australian DTO
 jwheare: Torchbox -> Last.fm -> IRCCloud
-kapowaz: Teamphone -> HomeAway -> VideoJuicer -> Unboxed -> Photobox -> Bloomcrush
+kapowaz: Teamphone -> HomeAway -> VideoJuicer -> Unboxed -> Photobox -> Bloomcrush -> Deliveroo
 kevinprince: Capita -> World Food Programme -> NBC Universal -> O2 -> Guestfolio
 knockles: Red Snapper -> Squiz -> Yahoo! -> Expedia
 lindas: Last.fm -> Code Club -> Knight-Mozilla fellowship -> Freelance
 lizard: icom -> Unboxed -> Sky
-lucas42: Assanka -> FT Labs
+lucas42: Assanka -> FT
+lucky: Fabric -> 1000Heads -> Freelance -> Hogarth -> Fabric -> Freelance -> Wunderman -> RAPP -> Maxus
 matthias: recollective -> Less Rain -> Freelance -> Design Science Office -> Photobox
 mikeb: siteDoc -> cloudMap -> calcResult
 mnowster: tangozebra -> Acknowledge -> Glasses Direct -> Artfinder -> GDS -> Freelance -> LiveStax
@@ -73,16 +74,16 @@ neilcrosby: Yahoo!  -> BBC -> LOVEFiLM -> Amazon -> Tizaro -> InstaSupply
 paulcuth: ATS -> Gamesys -> ??
 pete goodman: Tonic -> Pirata -> f90
 phae: Volume -> BBC -> Nature -> GDS -> Code for America -> Freelance
-pkqk: Reevoo -> Artfinder -> BERG -> myHealthPal -> ODI -> Freelance
+pkqk: Reevoo -> Artfinder -> BERG -> myHealthPal -> ODI -> Freelance -> ?
 poppiestar: adsdotcom -> Gamesys -> TravelMatch -> Lonely Planet -> Freelance
 retallicka: Mediatonic -> Adjust Your Set -> Gamesys -> ?
 rnalexander: youDevise -> TIMGroup -> Money Advice Service
 RJ: Last.fm -> IRCCloud
 Richard Pope: MOO -> mySociety -> Freelance -> GDS -> ?
-Rowan: Assanka -> FT Labs
+Rowan: Assanka -> FT
 rboulton: Lemur Consulting -> Celestial Navigation -> Lumi -> GDS
 russss: Last.fm -> Smarkets -> IRCCloud -> Freelance
-SamLR: carhoots -> plentific -> ZenithOptimedia
+SamLR: carhoots -> plentific -> ZenithOptimedia -> GDS
 Sarah Clark: icom -> Steely Eye -> Isobar -> Freelance
 skarab: Smarkets -> G-Research
 simonw: Yahoo! -> GCap -> Guardian -> Lanyrd -> Eventbrite
@@ -101,5 +102,4 @@ vetraskr: Baker Tilly -> ZenithOptimedia
 voodoochild: Squiz -> Tobias & Tobias -> Guardian -> Expedia
 YaaL: MOO -> Beam.tv -> UK2 -> Contentment -> EVRYTHNG
 yahnyinlondon: Yahoo! -> RMA Consulting -> Freelance
-lucky: Fabric -> 1000Heads -> Freelance -> Hogarth -> Fabric -> Freelance -> Wunderman -> RAPP -> Maxus
 
