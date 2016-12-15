@@ -31,7 +31,7 @@ bradwright: Yahoo! -> GCap -> Smarkets -> GDS -> M&S -> StreetTeam
 bruntonspall: Guardian -> GDS
 cackhanded: Yahoo! -> Linden Lab -> Artfinder -> GDS -> myHealthPal -> M&S -> LiveStax -> Money Advice Service
 cbetta: Nudge -> MinuteBox -> EmberAds -> PayPal -> Freelance
-chrismear: Freelance -> Greenvoice -> Freelance -> One Click Orgs
+chrismear: Freelance -> Greenvoice -> Freelance -> Litmus
 czetter: Reevoo -> Rentify -> FutureLearn
 creature: Sun Microsystems -> Framestore CFC -> Last.fm -> 500px
 dannyamey: Yahoo! -> Grand Union -> Synacor -> Preloaded -> Tobias & Tobias -> Contentment -> Yammer -> Deliveroo
