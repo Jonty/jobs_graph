@@ -43,13 +43,13 @@ dsingleton: Spring Digital -> Last.fm -> Lumi -> GDS
 dunk: Last.fm -> Academia -> Genomics England
 eadmundo: Yahoo! -> Squiz -> Smarkets -> Tobias & Tobias -> Adaptive Lab
 elliz: Soundmouse -> BritMilFit -> Microsoft -> Solidsoft -> SSE
-fatbusinessman: Taptu -> Glasses Direct -> Mozilla -> GDS -> FutureLearn
+fatbusinessman: Taptu -> Glasses Direct -> Mozilla -> GDS -> FutureLearn -> Hypothes.is
 garethr: GCap -> Glasses Direct -> FreeAgent -> GDS -> Puppet Labs
 georgebrock: Freelance -> Reevoo -> Artfinder -> Tripbirds -> Freelance -> thoughtbot
 ginader: Yahoo! -> Yahoo! US -> Google
-hadleybeeman: LinkedGov -> Technology Strategy Board -> Mozilla -> GDS
+hadleybeeman: LinkedGov -> Technology Strategy Board -> Mozilla -> GDS -> ?
 imranghory: Freelance -> Index Ventures -> MarketInvoice
-jabley: GDS -> M&S
+jabley: GDS -> M&S -> ?
 jaylett: tangozebra -> Kudocities -> Freelance -> EMI -> Artfinder -> NSFWCORP -> Kittens with Jetpacks
 jonty: Last.fm -> Lumi -> IRCCloud -> GDS
 jordan: GDS -> Australian DTO
