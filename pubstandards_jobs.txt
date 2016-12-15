@@ -15,7 +15,7 @@ Meri Williams: GDS -> Vodafone -> myHealthPal -> M&S -> Moo
 Mike Stenhouse: Trampoline -> Aframe
 MikeD:  Yahoo! -> LOVEFiLM -> Tizaro -> InstaSupply
 Nicky: MOO -> Freelance -> FutureLearn -> Freelance -> FutureLearn
-abscond: Freelance -> citysafe -> peoplesmusicstore -> Freelance -> Unboxed -> BERG -> Freelance -> MOJ -> GDS -> MOJ -> Labour Party
+abscond: Freelance -> citysafe -> peoplesmusicstore -> Freelance -> Unboxed -> BERG -> Freelance -> MOJ -> GDS -> MOJ -> Labour Party -> ?
 actel: CRU -> Freelance -> RBI
 adamamyl: mySociety -> TooManyHats -> Guardian -> RewiredState -> OKFN
 alexs: QuietRevolution -> Artfinder -> Green Man Gaming -> Quru -> Freelance -> Lyst
@@ -34,7 +34,7 @@ cbetta: Nudge -> MinuteBox -> EmberAds -> PayPal -> Freelance
 chrismear: Freelance -> Greenvoice -> Freelance -> One Click Orgs
 czetter: Reevoo -> Rentify -> FutureLearn
 creature: Sun Microsystems -> Framestore CFC -> Last.fm -> 500px
-dannyamey: Yahoo! -> Grand Union -> Synacor -> Preloaded -> Tobias & Tobias -> Contentment -> Yammer
+dannyamey: Yahoo! -> Grand Union -> Synacor -> Preloaded -> Tobias & Tobias -> Contentment -> Yammer -> Deliveroo
 dexterperrin: marketpipe -> BBC -> LOVEFiLM -> Amazon
 dom: icom -> Freelance -> LBi -> Freelance -> DigiResults -> Freelance -> Unboxed -> GDS -> NHS -> M&S -> ?
 dominicgs: Geneity -> Fluent Image -> ITG -> Great Scott Gadgets
