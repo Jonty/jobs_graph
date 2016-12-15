@@ -75,7 +75,7 @@ paulcuth: ATS -> Gamesys -> Synthace
 pete goodman: Tonic -> Pirata -> f90
 phae: Volume -> BBC -> Nature -> GDS -> Code for America -> Freelance
 pkqk: Reevoo -> Artfinder -> BERG -> myHealthPal -> ODI -> Freelance -> Farmdrop
-poppiestar: adsdotcom -> Gamesys -> TravelMatch -> Lonely Planet -> Freelance
+poppiestar: adsdotcom -> Gamesys -> TravelMatch -> Lonely Planet -> Freelance -> Tesco
 retallicka: Mediatonic -> Adjust Your Set -> Gamesys -> ?
 rnalexander: youDevise -> TIMGroup -> Money Advice Service
 RJ: Last.fm -> IRCCloud
