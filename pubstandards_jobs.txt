@@ -88,6 +88,7 @@ Sarah Clark: icom -> Steely Eye -> Isobar -> Freelance
 skarab: Smarkets -> G-Research
 simonw: Yahoo! -> GCap -> Guardian -> Lanyrd -> Eventbrite
 slightlyoff: Google
+solidgoldpig:Freelance -> Symbian Foundation -> Maersk -> Freelance -> MOJ
 Steve Marshall: Fujitsu Siemens -> Yahoo! -> Expedia -> Tizaro -> MOJ
 skr: Last.fm -> Twitter -> Fig.co
 Sully: Academia
