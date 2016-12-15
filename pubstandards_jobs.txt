@@ -69,9 +69,9 @@ ms7821: Geneity
 mseckington: EmberAds -> Unboxed -> FutureLearn
 muffinresearch: Multimap -> Yahoo! -> GCap -> Canonical -> Mozilla
 muz: Last.fm -> Mendeley -> BBC -> blinkbox -> idio
-natbat: Torchbox -> Clearleft -> Lanyrd -> Eventbrite
+natbat: Torchbox -> Clearleft -> Lanyrd -> Eventbrite -> ?
 neilcrosby: Yahoo!  -> BBC -> LOVEFiLM -> Amazon -> Tizaro -> InstaSupply
-paulcuth: ATS -> Gamesys -> ??
+paulcuth: ATS -> Gamesys -> Synthace
 pete goodman: Tonic -> Pirata -> f90
 phae: Volume -> BBC -> Nature -> GDS -> Code for America -> Freelance
 pkqk: Reevoo -> Artfinder -> BERG -> myHealthPal -> ODI -> Freelance -> ?
