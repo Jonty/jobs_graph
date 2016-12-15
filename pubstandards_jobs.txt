@@ -30,7 +30,7 @@ rossbruniges: LSBU -> GCap -> LBi -> Nature -> Mozilla -> Expedia -> M&S -> the 
 bradwright: Yahoo! -> GCap -> Smarkets -> GDS -> M&S -> StreetTeam
 bruntonspall: Guardian -> GDS
 cackhanded: Yahoo! -> Linden Lab -> Artfinder -> GDS -> myHealthPal -> M&S -> LiveStax -> Money Advice Service
-cbetta: Nudge -> MinuteBox -> EmberAds -> PayPal
+cbetta: Nudge -> MinuteBox -> EmberAds -> PayPal -> 
 chrismear: Freelance -> Greenvoice -> Freelance -> One Click Orgs
 czetter: Reevoo -> Rentify -> FutureLearn
 creature: Sun Microsystems -> Framestore CFC -> Last.fm -> A Thing
