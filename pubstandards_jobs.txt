@@ -63,7 +63,7 @@ lucas42: Assanka -> FT
 lucky: Fabric -> 1000Heads -> Freelance -> Hogarth -> Fabric -> Freelance -> Wunderman -> RAPP -> Maxus
 matthias: recollective -> Less Rain -> Freelance -> Design Science Office -> Photobox
 mikeb: siteDoc -> cloudMap -> calcResult
-mnowster: tangozebra -> Acknowledge -> Glasses Direct -> Artfinder -> GDS -> Freelance -> LiveStax
+mnowster: tangozebra -> Acknowledge -> Glasses Direct -> Artfinder -> GDS -> Freelance
 mokele: Last.fm -> Smarkets -> Stroud Brewery -> Actual Experience
 ms7821: Geneity
 mseckington: EmberAds -> Unboxed -> FutureLearn
