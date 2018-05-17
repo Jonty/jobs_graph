@@ -100,6 +100,7 @@ tmower: GDS -> Yelp
 tommorris: Academia -> Colourfast -> LinkedGov -> Fabric -> M&S -> Freelance -> Nexmo -> Freelance
 tommypalm: GDS -> Deliveroo
 tomscott: tomscott -> tomscott -> Trinity Mirror -> tomscott
+torgo: Vodafone -> O2 -> ODI -> GDS -> Samsung
 vetraskr: Baker Tilly -> ZenithOptimedia
 voodoochild: Squiz -> Tobias & Tobias -> Guardian -> Expedia -> ArenaNet
 YaaL: Moo -> Beam.tv -> UK2 -> Contentment -> EVRYTHNG
