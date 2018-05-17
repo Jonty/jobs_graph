@@ -55,6 +55,7 @@ lindas: Last.fm -> Code Club -> Knight-Mozilla fellowship -> Nordic Approach
 lizard: icom -> Unboxed -> Sky
 lucas42: Assanka -> FT
 lucky: Fabric -> 1000Heads -> Freelance -> Hogarth -> Fabric -> Freelance -> Wunderman -> RAPP -> Maxus
+mattbee: Gyro -> 9web -> Freelance -> FutureLearn
 matthias: recollective -> Less Rain -> Freelance -> Design Science Office -> Photobox
 Meri Williams: GDS -> Vodafone -> myHealthPal -> M&S -> Moo
 Mike Stenhouse: Trampoline -> Aframe 
