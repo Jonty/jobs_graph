@@ -54,7 +54,7 @@ Leon: The Trainline -> Trafalgar -> CRU -> 7Digital -> Red Badger -> OpenTable -
 lindas: Last.fm -> Code Club -> Knight-Mozilla fellowship -> Nordic Approach
 lizard: icom -> Unboxed -> Sky
 lucas42: Assanka -> FT
-lucky: Fabric -> 1000Heads -> Freelance -> Hogarth -> Fabric -> Freelance -> Wunderman -> RAPP -> Maxus
+lucky: Fabric -> 1000Heads -> Freelance -> Hogarth -> Fabric -> Freelance -> Wunderman -> RAPP -> Maxus -> Amazon
 mattbee: Gyro -> 9web -> Freelance -> FutureLearn
 matthias: recollective -> Less Rain -> Freelance -> Design Science Office -> Photobox
 Meri Williams: GDS -> Vodafone -> myHealthPal -> M&S -> Moo
@@ -95,9 +95,9 @@ Steve Marshall: Fujitsu Siemens -> Yahoo! -> Expedia -> Tizaro -> MOJ
 Sully: Academia
 Tamsin: Yahoo! -> Moo
 tef: Code Club -> Citymapper -> Heroku -> Lyst
-theartisan: uSwitch -> Top10.com -> PeerIndex -> BrightTalk -> Fabric -> Freelance -> Havas Helia -> GDS -> Maxus -> Made.com
+theartisan: uSwitch -> Top10.com -> PeerIndex -> BrightTalk -> Fabric -> Freelance -> Havas Helia -> GDS -> Maxus -> Made.com -> Beamly
 tmower: GDS -> Yelp
-tommorris: Academia -> Colourfast -> LinkedGov -> Fabric -> M&S -> Freelance
+tommorris: Academia -> Colourfast -> LinkedGov -> Fabric -> M&S -> Freelance -> Nexmo -> Freelance
 tommypalm: GDS -> Deliveroo
 tomscott: tomscott -> tomscott -> Trinity Mirror -> tomscott
 vetraskr: Baker Tilly -> ZenithOptimedia
