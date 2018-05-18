@@ -21,6 +21,7 @@ bruntonspall: Guardian -> GDS -> Freelance
 cackhanded: Yahoo! -> Linden Lab -> Artfinder -> GDS -> myHealthPal -> M&S -> LiveStax -> Money Advice Service -> Omnicom
 cbetta: Nudge -> MinuteBox -> EmberAds -> PayPal -> Freelance
 chrismear: Freelance -> Greenvoice -> Freelance -> Litmus
+codepo8: Yahoo! -> Mozilla -> Microsoft
 creature: Sun Microsystems -> Framestore CFC -> Last.fm -> 500px -> ?
 czetter: Reevoo -> Rentify -> FutureLearn
 Dan W: Watershed -> Makeshift -> Freelance -> BuckleyWilliams -> Freelance
