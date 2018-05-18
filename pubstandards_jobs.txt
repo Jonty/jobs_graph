@@ -1,4 +1,5 @@
 Contracts over six months are allowed, only list jobs you've had since attending PS.
+Released under CC-0.
 
 abscond: Freelance -> citysafe -> peoplesmusicstore -> Freelance -> Unboxed -> BERG -> Freelance -> MOJ -> GDS -> MOJ -> Labour Party -> Local Welcome
 actel: CRU -> Freelance -> RBI
@@ -76,7 +77,6 @@ phae: Volume -> BBC -> Nature -> GDS -> Code for America -> Freelance -> Netlify
 pkqk: Reevoo -> Artfinder -> BERG -> myHealthPal -> ODI -> Freelance -> Farmdrop -> Movio
 poppiestar: adsdotcom -> Gamesys -> TravelMatch -> Lonely Planet -> Freelance -> Tesco -> yu life
 rboulton: Lemur Consulting -> Celestial Navigation -> Lumi -> GDS -> Cloudflare
-Released under CC-0.
 retallicka: Mediatonic -> Adjust Your Set -> Gamesys -> Zedge
 Richard Pope: Moo -> mySociety -> Freelance -> GDS -> If
 RJ: Last.fm -> IRCCloud
