@@ -37,6 +37,7 @@ dsingleton: Spring Digital -> Last.fm -> Lumi -> GDS -> Deliveroo
 dunk: Last.fm -> Academia -> Genomics England -> Freelance
 eadmundo: Yahoo! -> Squiz -> Smarkets -> Tobias & Tobias -> Adaptive Lab
 elliz: Soundmouse -> BritMilFit -> Microsoft -> Solidsoft -> SSE
+epayet: M&S -> Lyst
 fatbusinessman: Taptu -> Glasses Direct -> Mozilla -> GDS -> FutureLearn -> Hypothes.is -> ?
 Felix Hawkins: DigiResults -> NAP -> Lonely Planet -> The App Business -> Entier -> Tractable
 foreverautumn: Last.fm
