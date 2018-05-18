@@ -1,8 +1,10 @@
 Contracts over six months are allowed, only list jobs you've had since attending PS.
+Released under CC-0.
 
 abscond: Freelance -> citysafe -> peoplesmusicstore -> Freelance -> Unboxed -> BERG -> Freelance -> MOJ -> GDS -> MOJ -> Labour Party -> Local Welcome
 actel: CRU -> Freelance -> RBI
 adamamyl: mySociety -> TooManyHats -> Guardian -> RewiredState -> OKFN -> Rails Bank
+ajlanghorn: GDS -> ThoughtWorks -> Amazon
 Alex Lee: Yahoo! -> GCap -> Kneedl -> Smarkets -> Freelance -> Mullenlowe Profero
 alexs: ADVFN -> QuietRevolution -> Artfinder -> Green Man Gaming -> Quru -> Freelance -> Lyst -> TransferWise -> Lyst
 alfeaton: Nature -> Mendeley -> PeerJ
@@ -11,7 +13,7 @@ andrewgodwin: Torchbox -> Epio -> Lanyrd -> Eventbrite
 andyhume: Multimap -> Microsoft -> Clearleft -> Guardian -> Twitter -> Brandwatch
 Aquarion: Trutap -> Skimlinks -> Languagelab -> Zappit -> JeemTV -> Skute -> Siftware -> Elsevier -> Chivas Brothers
 ashb: Fotango -> NAP -> DigiResults -> Freelance -> MOJ -> Crowdmix -> M&S -> Annalect
-Ben Marvell: Wiley -> Sky -> LexisNexis -> Centrica -> GDS -> UK Home Office -> HM Passport Office
+Ben Marvell: Wiley -> Sky -> LexisNexis -> EA -> Centrica -> GDS -> UK Home Office -> HM Passport Office
 benward: Fujitsu Siemens -> Yobject -> Yahoo! -> Yahoo! US -> Twitter -> ?
 bfirsh: GCap -> Guardian -> Epio -> Lanyrd -> This Is My Jam -> Poetica -> GDS -> Orchard -> Docker -> ?
 bradwright: Yahoo! -> GCap -> Smarkets -> GDS -> M&S -> StreetTeam
@@ -19,6 +21,7 @@ bruntonspall: Guardian -> GDS -> Freelance
 cackhanded: Yahoo! -> Linden Lab -> Artfinder -> GDS -> myHealthPal -> M&S -> LiveStax -> Money Advice Service -> Annalect
 cbetta: Nudge -> MinuteBox -> EmberAds -> PayPal -> Freelance
 chrismear: Freelance -> Greenvoice -> Freelance -> Litmus
+codepo8: Yahoo! -> Mozilla -> Microsoft
 creature: Sun Microsystems -> Framestore CFC -> Last.fm -> 500px -> ?
 czetter: Reevoo -> Rentify -> FutureLearn
 Dan W: Watershed -> Makeshift -> Freelance -> BuckleyWilliams -> Freelance
@@ -26,15 +29,19 @@ Dan Webb: Vivabit -> peoplesmusicstore -> Twitter -> Deliveroo -> VR things
 dannyamey: Yahoo! -> Grand Union -> Synacor -> Preloaded -> Tobias & Tobias -> Contentment -> Yammer -> Deliveroo
 David R. MacIver: Trampoline -> Aframe -> Lumi -> Google -> Freelance -> Academia
 dexterperrin: marketpipe -> BBC -> LOVEFiLM -> Amazon
+dgheath21: Wordtracker -> GDS
 dom: icom -> Freelance -> LBi -> Freelance -> DigiResults -> Freelance -> Unboxed -> GDS -> NHS -> M&S -> Freelance -> dxw
 dominicgs: Geneity -> Fluent Image -> ITG -> Great Scott Gadgets
 dorward: Fish IC -> Sophos -> Yahoo! -> Playfire -> BBC -> Base79 -> Razorfish -> FairFX
 dsingleton: Spring Digital -> Last.fm -> Lumi -> GDS -> Deliveroo
 dunk: Last.fm -> Academia -> Genomics England -> Freelance
 eadmundo: Yahoo! -> Squiz -> Smarkets -> Tobias & Tobias -> Adaptive Lab
+edent: -> O2 -> GDS
 elliz: Soundmouse -> BritMilFit -> Microsoft -> Solidsoft -> SSE
+epayet: M&S -> Lyst
 fatbusinessman: Taptu -> Glasses Direct -> Mozilla -> GDS -> FutureLearn -> Hypothes.is -> ?
 Felix Hawkins: DigiResults -> NAP -> Lonely Planet -> The App Business -> Entier -> Tractable
+foreverautumn: Last.fm
 garethr: GCap -> Glasses Direct -> FreeAgent -> GDS -> Puppet Labs -> Docker
 georgebrock: Freelance -> Reevoo -> Artfinder -> Tripbirds -> Freelance -> thoughtbot
 ginader: Yahoo! -> Yahoo! US -> Google
@@ -76,7 +83,6 @@ phae: Volume -> BBC -> Nature -> GDS -> Code for America -> Freelance -> Netlify
 pkqk: Reevoo -> Artfinder -> BERG -> myHealthPal -> ODI -> Freelance -> Farmdrop -> Movio
 poppiestar: adsdotcom -> Gamesys -> TravelMatch -> Lonely Planet -> Freelance -> Tesco -> yu life
 rboulton: Lemur Consulting -> Celestial Navigation -> Lumi -> GDS -> Cloudflare
-Released under CC-0.
 retallicka: Mediatonic -> Adjust Your Set -> Gamesys -> Zedge
 Richard Pope: Moo -> mySociety -> Freelance -> GDS -> If
 RJ: Last.fm -> IRCCloud
@@ -100,6 +106,7 @@ tmower: GDS -> Yelp
 tommorris: Academia -> Colourfast -> LinkedGov -> Fabric -> M&S -> Freelance -> Nexmo -> Freelance
 tommypalm: GDS -> Deliveroo
 tomscott: tomscott -> tomscott -> Trinity Mirror -> tomscott
+torgo: Vodafone -> O2 -> ODI -> GDS -> Samsung
 vetraskr: Baker Tilly -> ZenithOptimedia
 voodoochild: Squiz -> Tobias & Tobias -> Guardian -> Expedia -> ArenaNet
 YaaL: Moo -> Beam.tv -> UK2 -> Contentment -> EVRYTHNG
