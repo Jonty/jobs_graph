@@ -12,13 +12,13 @@ alicebartlett: Assanka -> BERG -> GDS -> FT
 andrewgodwin: Torchbox -> Epio -> Lanyrd -> Eventbrite
 andyhume: Multimap -> Microsoft -> Clearleft -> Guardian -> Twitter -> Brandwatch
 Aquarion: Trutap -> Skimlinks -> Languagelab -> Zappit -> JeemTV -> Skute -> Siftware -> Elsevier -> Chivas Brothers
-ashb: Fotango -> NAP -> DigiResults -> Freelance -> MOJ -> Crowdmix -> M&S -> Omnicom
+ashb: Fotango -> NAP -> DigiResults -> Freelance -> MOJ -> Crowdmix -> M&S -> Annalect
 Ben Marvell: Wiley -> Sky -> LexisNexis -> EA -> Centrica -> GDS -> UK Home Office -> HM Passport Office
 benward: Fujitsu Siemens -> Yobject -> Yahoo! -> Yahoo! US -> Twitter -> ?
 bfirsh: GCap -> Guardian -> Epio -> Lanyrd -> This Is My Jam -> Poetica -> GDS -> Orchard -> Docker -> ?
 bradwright: Yahoo! -> GCap -> Smarkets -> GDS -> M&S -> StreetTeam
 bruntonspall: Guardian -> GDS -> Freelance
-cackhanded: Yahoo! -> Linden Lab -> Artfinder -> GDS -> myHealthPal -> M&S -> LiveStax -> Money Advice Service -> Omnicom
+cackhanded: Yahoo! -> Linden Lab -> Artfinder -> GDS -> myHealthPal -> M&S -> LiveStax -> Money Advice Service -> Annalect
 cbetta: Nudge -> MinuteBox -> EmberAds -> PayPal -> Freelance
 chrismear: Freelance -> Greenvoice -> Freelance -> Litmus
 codepo8: Yahoo! -> Mozilla -> Microsoft
@@ -50,7 +50,7 @@ imranghory: Freelance -> Index Ventures -> MarketInvoice -> Blossom Capital
 jabley: GDS -> M&S -> Moo
 Jake Archibald: BBC -> theTeam -> Lanyrd -> Google
 James Aitken: HostGator -> UK2
-jaylett: tangozebra -> Kudocities -> Freelance -> EMI -> Artfinder -> NSFWCORP -> Freelance -> Omnicom
+jaylett: tangozebra -> Kudocities -> Freelance -> EMI -> Artfinder -> NSFWCORP -> Freelance -> Annalect
 jonty: Last.fm -> Lumi -> IRCCloud -> GDS -> Lucid
 jordan: GDS -> Australian DTO -> Hyperreal
 jwheare: Torchbox -> Last.fm -> IRCCloud
