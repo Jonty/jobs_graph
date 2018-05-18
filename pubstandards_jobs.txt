@@ -4,6 +4,7 @@ Released under CC-0.
 abscond: Freelance -> citysafe -> peoplesmusicstore -> Freelance -> Unboxed -> BERG -> Freelance -> MOJ -> GDS -> MOJ -> Labour Party -> Local Welcome
 actel: CRU -> Freelance -> RBI
 adamamyl: mySociety -> TooManyHats -> Guardian -> RewiredState -> OKFN -> Rails Bank
+ajlanghorn: GDS -> ThoughtWorks -> Amazon
 Alex Lee: Yahoo! -> GCap -> Kneedl -> Smarkets -> Freelance -> Mullenlowe Profero
 alexs: ADVFN -> QuietRevolution -> Artfinder -> Green Man Gaming -> Quru -> Freelance -> Lyst -> TransferWise -> Lyst
 alfeaton: Nature -> Mendeley -> PeerJ
