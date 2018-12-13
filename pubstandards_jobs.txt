@@ -71,7 +71,7 @@ mikeb: siteDoc -> cloudMap -> calcResult
 MikeD:  Yahoo! -> LOVEFiLM -> Tizaro -> InstaSupply
 mnowster: tangozebra -> Acknowledge -> Glasses Direct -> Artfinder -> GDS -> Freelance -> Unmade
 mokele: Last.fm -> Smarkets -> Stroud Brewery -> Actual Experience -> Ecotricity
-ms7821: Geneity
+ms7821: Geneity -> dxw
 mseckington: EmberAds -> Unboxed -> FutureLearn
 muffinresearch: Multimap -> Yahoo! -> GCap -> Canonical -> Mozilla
 muz: Last.fm -> Mendeley -> BBC -> blinkbox -> idio
