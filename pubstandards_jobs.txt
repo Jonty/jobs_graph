@@ -57,6 +57,7 @@ jwheare: Torchbox -> Last.fm -> IRCCloud
 kapowaz: Teamphone -> HomeAway -> VideoJuicer -> Unboxed -> Photobox -> Bloomcrush -> Deliveroo
 kevinprince: Capita -> World Food Programme -> NBC Universal -> O2 -> Guestfolio
 knockles: Red Snapper -> Squiz -> Yahoo! -> Expedia
+kushalp: GDS -> GoCardless -> Freelance -> Curl
 Leon: The Trainline -> Trafalgar -> CRU -> 7Digital -> Red Badger -> OpenTable -> MarketInvoice
 lindas: Last.fm -> Code Club -> Knight-Mozilla fellowship -> Nordic Approach
 lizard: icom -> Unboxed -> Sky
