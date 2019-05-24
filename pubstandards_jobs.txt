@@ -36,7 +36,7 @@ dorward: Fish IC -> Sophos -> Yahoo! -> Playfire -> BBC -> Base79 -> Razorfish -
 dsingleton: Spring Digital -> Last.fm -> Lumi -> GDS -> Deliveroo
 dunk: Last.fm -> Academia -> Genomics England -> Freelance
 eadmundo: Yahoo! -> Squiz -> Smarkets -> Tobias & Tobias -> Adaptive Lab
-edent: O2 -> GDS
+edent: O2 -> GDS -> NHSX
 elliz: Soundmouse -> BritMilFit -> Microsoft -> Solidsoft -> SSE
 epayet: M&S -> Lyst
 fatbusinessman: Taptu -> Glasses Direct -> Mozilla -> GDS -> FutureLearn -> Hypothes.is -> Monzo
@@ -77,7 +77,7 @@ mseckington: EmberAds -> Unboxed -> FutureLearn
 muffinresearch: Multimap -> Yahoo! -> GCap -> Canonical -> Mozilla
 muz: Last.fm -> Mendeley -> BBC -> blinkbox -> idio
 natbat: Torchbox -> Clearleft -> Lanyrd -> Eventbrite -> ?
-neilcrosby: Yahoo!  -> BBC -> LOVEFiLM -> Amazon -> Tizaro -> InstaSupply -> ?
+neilcrosby: Yahoo!  -> BBC -> LOVEFiLM -> Amazon -> Tizaro -> InstaSupply -> Tails.com
 Nicky: Moo -> Freelance -> FutureLearn -> Freelance -> FutureLearn
 paulcuth: ATS -> Gamesys -> IG -> Import.io -> Synthace
 pete goodman: Tonic -> Pirata -> f90
@@ -92,7 +92,7 @@ rnalexander: youDevise -> TIMGroup -> Money Advice Service
 rossbruniges: LSBU -> GCap -> LBi -> Nature -> Mozilla -> Expedia -> M&S -> Kalo
 Rowan: Assanka -> FT
 russss: Last.fm -> Smarkets -> IRCCloud -> Freelance
-SamLR: carhoots -> plentific -> ZenithOptimedia -> GDS -> uSwitch
+SamLR: carhoots -> plentific -> ZenithOptimedia -> GDS -> uSwitch -> Lucid
 Sarah Clark: icom -> Steely Eye -> Isobar -> Freelance
 simonw: Yahoo! -> GCap -> Guardian -> Lanyrd -> Eventbrite
 skarab: Smarkets -> G-Research -> Deepmind
@@ -109,6 +109,7 @@ tommorris: Academia -> Colourfast -> LinkedGov -> Fabric -> M&S -> Freelance -> 
 tommypalm: GDS -> Deliveroo
 tomscott: tomscott -> tomscott -> Trinity Mirror -> tomscott
 torgo: Vodafone -> O2 -> ODI -> GDS -> Samsung
+tomwyatt: bulletproof
 vetraskr: Baker Tilly -> ZenithOptimedia
 voodoochild: Squiz -> Tobias & Tobias -> Guardian -> Expedia -> ArenaNet
 YaaL: Moo -> Beam.tv -> UK2 -> Contentment -> EVRYTHNG
