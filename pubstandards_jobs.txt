@@ -31,7 +31,7 @@ David R. MacIver: Trampoline -> Aframe -> Lumi -> Google -> Freelance -> Academi
 dexterperrin: marketpipe -> BBC -> LOVEFiLM -> Amazon
 dgheath21: Wordtracker -> GDS
 dom: icom -> Freelance -> LBi -> Freelance -> DigiResults -> Freelance -> Unboxed -> GDS -> NHS -> M&S -> Freelance -> dxw
-dominicgs: Geneity -> Fluent Image -> ITG -> Great Scott Gadgets
+dominicgs: Geneity -> Fluent Image -> ITG -> Great Scott Gadgets -> 🍎
 dorward: Fish IC -> Sophos -> Yahoo! -> Playfire -> BBC -> Base79 -> Razorfish -> FairFX
 dsingleton: Spring Digital -> Last.fm -> Lumi -> GDS -> Deliveroo
 dunk: Last.fm -> Academia -> Genomics England -> Freelance
@@ -45,7 +45,7 @@ foreverautumn: Last.fm
 garethr: GCap -> Glasses Direct -> FreeAgent -> GDS -> Puppet Labs -> Docker
 georgebrock: Freelance -> Reevoo -> Artfinder -> Tripbirds -> Freelance -> thoughtbot
 ginader: Yahoo! -> Yahoo! US -> Google
-hadleybeeman: LinkedGov -> Technology Strategy Board -> Mozilla -> GDS -> Department of Health and Social Care
+hadleybeeman: LinkedGov -> Technology Strategy Board -> Mozilla -> GDS -> Department of Health and Social Care -> NHSX
 imranghory: Freelance -> Index Ventures -> MarketInvoice -> Blossom Capital
 jabley: GDS -> M&S -> Moo -> MOJ
 Jake Archibald: BBC -> theTeam -> Lanyrd -> Google
@@ -86,7 +86,7 @@ pkqk: Reevoo -> Artfinder -> BERG -> myHealthPal -> ODI -> Freelance -> Farmdrop
 poppiestar: adsdotcom -> Gamesys -> TravelMatch -> Lonely Planet -> Freelance -> Tesco -> yu life
 rboulton: Lemur Consulting -> Celestial Navigation -> Lumi -> GDS -> Cloudflare
 retallicka: Mediatonic -> Adjust Your Set -> Gamesys -> Zedge
-Richard Pope: Moo -> mySociety -> Freelance -> GDS -> If -> Harvard Kennedy School
+Richard Pope: Moo -> mySociety -> Freelance -> GDS -> If -> Harvard Kennedy School -> Freelance
 RJ: Last.fm -> IRCCloud
 rnalexander: youDevise -> TIMGroup -> Money Advice Service
 rossbruniges: LSBU -> GCap -> LBi -> Nature -> Mozilla -> Expedia -> M&S -> Kalo
