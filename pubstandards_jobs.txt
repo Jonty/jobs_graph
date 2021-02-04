@@ -47,7 +47,7 @@ georgebrock: Freelance -> Reevoo -> Artfinder -> Tripbirds -> Freelance -> thoug
 ginader: Yahoo! -> Yahoo! US -> Google
 hadleybeeman: LinkedGov -> Technology Strategy Board -> Mozilla -> GDS -> Department of Health and Social Care -> NHSX
 imranghory: Freelance -> Index Ventures -> MarketInvoice -> Blossom Capital
-jabley: GDS -> M&S -> Moo -> MOJ
+jabley: GDS -> M&S -> Moo -> MOJ -> Moo
 Jake Archibald: BBC -> theTeam -> Lanyrd -> Google
 James Aitken: HostGator -> UK2
 jaylett: tangozebra -> Kudocities -> Freelance -> EMI -> Artfinder -> NSFWCORP -> Freelance -> Annalect
