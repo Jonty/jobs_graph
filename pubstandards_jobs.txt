@@ -52,11 +52,11 @@ Jake Archibald: BBC -> theTeam -> Lanyrd -> Google
 James Aitken: HostGator -> UK2
 jaylett: tangozebra -> Kudocities -> Freelance -> EMI -> Artfinder -> NSFWCORP -> Freelance -> Annalect
 jonty: Last.fm -> Lumi -> IRCCloud -> GDS -> Lucid
-jordan: GDS -> Australian DTO -> Hyperreal
+jordan: GDS -> Australian DTO -> Hyperreal -> Austrade -> New South Wales Government
 jwheare: Torchbox -> Last.fm -> IRCCloud
 kapowaz: Teamphone -> HomeAway -> VideoJuicer -> Unboxed -> Photobox -> Bloomcrush -> Deliveroo -> OakNorth
 kevinprince: Capita -> World Food Programme -> NBC Universal -> O2 -> Guestfolio
-knockles: Red Snapper -> Squiz -> Yahoo! -> Expedia
+knockles: Red Snapper -> Squiz -> Yahoo! -> Expedia -> Full Fact
 kushalp: GDS -> GoCardless -> Freelance -> Curl
 Leon: The Trainline -> Trafalgar -> CRU -> 7Digital -> Red Badger -> OpenTable -> MarketInvoice
 lindas: Last.fm -> Code Club -> Knight-Mozilla fellowship -> Nordic Approach
@@ -75,7 +75,7 @@ mokele: Last.fm -> Smarkets -> Stroud Brewery -> Actual Experience -> Ecotricity
 ms7821: Geneity -> Tradecraft
 mseckington: EmberAds -> Unboxed -> FutureLearn
 muffinresearch: Multimap -> Yahoo! -> GCap -> Canonical -> Mozilla
-muz: Last.fm -> Mendeley -> BBC -> blinkbox -> idio
+muz: Last.fm -> Mendeley -> BBC -> blinkbox -> idio -> Episerver
 natbat: Torchbox -> Clearleft -> Lanyrd -> Eventbrite -> ?
 neilcrosby: Yahoo!  -> BBC -> LOVEFiLM -> Amazon -> Tizaro -> InstaSupply -> Tails.com
 Nicky: Moo -> Freelance -> FutureLearn -> Freelance -> FutureLearn
@@ -94,7 +94,7 @@ Rowan: Assanka -> FT
 russss: Last.fm -> Smarkets -> IRCCloud -> Freelance
 SamLR: carhoots -> plentific -> ZenithOptimedia -> GDS -> uSwitch -> Lucid
 Sarah Clark: icom -> Steely Eye -> Isobar -> Freelance
-simonw: Yahoo! -> GCap -> Guardian -> Lanyrd -> Eventbrite
+simonw: Yahoo! -> GCap -> Guardian -> Lanyrd -> Eventbrite -> Stanford JSK Fellowship -> ?
 skarab: Smarkets -> G-Research -> Deepmind
 skr: Last.fm -> Twitter -> Fig.co -> Slack
 slightlyoff: Google
