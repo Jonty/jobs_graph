@@ -40,7 +40,7 @@ dorward: Fish IC -> Sophos -> Yahoo! -> Playfire -> BBC -> Base79 -> Razorfish -
 dsingleton: Spring Digital -> Last.fm -> Lumi -> GDS -> Deliveroo
 dunk: Last.fm -> Academia -> Genomics England -> Liquidnet
 eadmundo: Yahoo! -> Squiz -> Smarkets -> Tobias & Tobias -> Adaptive Lab
-edent: O2 -> GDS -> NHSX
+edent: O2 -> GDS -> NHSX -> GDS
 elliz: Soundmouse -> BritMilFit -> Microsoft -> Solidsoft -> SSE
 epayet: M&S -> Lyst
 fatbusinessman: Taptu -> Glasses Direct -> Mozilla -> GDS -> FutureLearn -> Hypothes.is -> Monzo -> ?
@@ -72,7 +72,7 @@ lizard: icom -> Unboxed -> Sky
 lordcope: Wordtracker -> Capita -> Sony -> Opscode -> Mendeley -> Chef -> Ticketmaster
 lucas42: Assanka -> FT
 lucky: Fabric -> 1000Heads -> Freelance -> Hogarth -> Fabric -> Freelance -> Wunderman -> RAPP -> Maxus -> Amazon
-mattbee: Gyro -> 9web -> Fabric -> National Theatre -> FutureLearn -> Made Tech
+mattbee: Gyro -> 9web -> Fabric -> National Theatre -> FutureLearn -> Made Tech -> ImpactEd
 matthias: recollective -> Less Rain -> Freelance -> Design Science Office -> Photobox
 Meri Williams: GDS -> Vodafone -> myHealthPal -> M&S -> Moo -> Monzo -> Healx
 Mike Stenhouse: Trampoline -> Aframe 
@@ -101,7 +101,7 @@ retallicka: Mediatonic -> Adjust Your Set -> Gamesys -> Zedge
 Richard Pope: Moo -> mySociety -> Freelance -> GDS -> If -> Harvard Kennedy School -> Freelance
 RJ: Last.fm -> IRCCloud
 rnalexander: youDevise -> TIMGroup -> Money Advice Service -> Deutsche Bank
-rossbruniges: LSBU -> GCap -> LBi -> Nature -> Mozilla -> Expedia -> M&S -> Kalo
+rossbruniges: LSBU -> GCap -> LBi -> Nature -> Mozilla -> Expedia -> M&S -> Kalo -> Atlassian
 Rowan: Assanka -> FT
 russss: Last.fm -> Smarkets -> IRCCloud -> Freelance
 SamLR: carhoots -> plentific -> ZenithOptimedia -> GDS -> uSwitch -> Lucid
