@@ -10,7 +10,7 @@ Alex Lee: Yahoo! -> GCap -> Kneedl -> Smarkets -> Freelance -> Mullenlowe Profer
 alexs: ADVFN -> QuietRevolution -> Artfinder -> Green Man Gaming -> Quru -> Freelance -> Lyst -> TransferWise -> Lyst
 alfeaton: Nature -> Mendeley -> PeerJ
 alicebartlett: Assanka -> BERG -> GDS -> FT
-andrewgodwin: Torchbox -> Epio -> Lanyrd -> Eventbrite -> Robinhood
+andrewgodwin: Torchbox -> Epio -> Lanyrd -> Eventbrite -> Robinhood -> Astronomer.io
 andybudd: Clearleft -> ?
 andyhume: Multimap -> Microsoft -> Clearleft -> Guardian -> Twitter -> Brandwatch
 Aquarion: Trutap -> Skimlinks -> Languagelab -> Zappit -> JeemTV -> Skute -> Siftware -> Elsevier -> Chivas Brothers
@@ -18,7 +18,7 @@ ashb: Fotango -> NAP -> DigiResults -> Freelance -> MOJ -> Crowdmix -> M&S -> An
 Azlan: Lend Link -> Beyond -> Kalo -> JustGiving
 Ben Marvell: Wiley -> Sky -> LexisNexis -> EA -> Centrica -> GDS -> UK Home Office -> HM Passport Office -> Marvell Consulting
 benward: Fujitsu Siemens -> Yobject -> Yahoo! -> Yahoo! US -> Twitter -> Fitbit
-bfirsh: GCap -> Guardian -> Epio -> Lanyrd -> This Is My Jam -> Poetica -> GDS -> Orchard -> Docker -> ?
+bfirsh: GCap -> Guardian -> Epio -> Lanyrd -> This Is My Jam -> Poetica -> GDS -> Orchard -> Docker -> replicate.ai
 bradwright: Yahoo! -> GCap -> Smarkets -> GDS -> M&S -> StreetTeam
 bruntonspall: Guardian -> GDS -> Freelance
 cackhanded: Yahoo! -> Linden Lab -> Artfinder -> GDS -> myHealthPal -> M&S -> LiveStax -> Money Advice Service -> Annalect -> ?
@@ -81,7 +81,7 @@ MikeD:  Yahoo! -> LOVEFiLM -> Tizaro -> InstaSupply
 mnowster: tangozebra -> Acknowledge -> Glasses Direct -> Artfinder -> GDS -> Freelance -> Unmade -> Lyst -> Weaveworks
 mokele: Last.fm -> Smarkets -> Stroud Brewery -> Actual Experience -> Ecotricity -> Liquidnet
 ms7821: Geneity -> Tradecraft
-mseckington: EmberAds -> Unboxed -> FutureLearn
+mseckington: EmberAds -> Unboxed -> FutureLearn -> Wikimedia
 Murray Steele: Unboxed -> Cleo
 muffinresearch: Multimap -> Yahoo! -> GCap -> Canonical -> Mozilla
 muz: Last.fm -> Mendeley -> BBC -> blinkbox -> idio -> Episerver -> Shopify
@@ -109,8 +109,8 @@ Sarah Clark: icom -> Steely Eye -> Isobar -> Freelance
 simonw: Yahoo! -> GCap -> Guardian -> Lanyrd -> Eventbrite -> Stanford JSK Fellowship -> ?
 skarab: Smarkets -> G-Research -> Deepmind
 skr: Last.fm -> Twitter -> Fig.co -> Slack
-slightlyoff: Google
-solidgoldpig:Freelance -> Symbian Foundation -> Maersk -> Freelance -> MOJ
+slightlyoff: Google -> Microsoft
+solidgoldpig: Freelance -> Symbian Foundation -> Maersk -> Freelance -> MOJ
 squirmelia: Experian -> BT
 Steve Marshall: Fujitsu Siemens -> Yahoo! -> Expedia -> Tizaro -> MOJ
 Sully: Academia
@@ -123,7 +123,7 @@ tommypalm: GDS -> Deliveroo
 tomscott: tomscott -> tomscott -> Trinity Mirror -> tomscott
 torgo: Vodafone -> O2 -> ODI -> GDS -> Samsung
 tomwyatt: bulletproof
-vetraskr: Baker Tilly -> ZenithOptimedia
+vetraskr: Baker Tilly -> ZenithOptimedia -> Stifel
 voodoochild: Squiz -> Tobias & Tobias -> Guardian -> Expedia -> ArenaNet
 YaaL: Moo -> Beam.tv -> UK2 -> Contentment -> EVRYTHNG
 yahnyinlondon: Yahoo! -> RMA Consulting -> Freelance
