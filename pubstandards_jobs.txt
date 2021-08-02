@@ -84,7 +84,7 @@ ms7821: Geneity -> Tradecraft
 mseckington: EmberAds -> Unboxed -> FutureLearn
 Murray Steele: Unboxed -> Cleo
 muffinresearch: Multimap -> Yahoo! -> GCap -> Canonical -> Mozilla
-muz: Last.fm -> Mendeley -> BBC -> blinkbox -> idio -> Episerver
+muz: Last.fm -> Mendeley -> BBC -> blinkbox -> idio -> Episerver -> Shopify
 natbat: Torchbox -> Clearleft -> Lanyrd -> Eventbrite -> ?
 Nat Buckley: If -> Bulb
 neilcrosby: Yahoo!  -> BBC -> LOVEFiLM -> Amazon -> Tizaro -> InstaSupply -> Tails.com
