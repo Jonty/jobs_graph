@@ -13,6 +13,7 @@ alicebartlett: Assanka -> BERG -> GDS -> FT
 andrewgodwin: Torchbox -> Epio -> Lanyrd -> Eventbrite -> Robinhood -> Astronomer.io
 andybudd: Clearleft -> Freelance
 andyhume: Multimap -> Microsoft -> Clearleft -> Guardian -> Twitter -> Brandwatch -> Snyk
+Anna Shipman: GDS -> FT
 Aquarion: Trutap -> Skimlinks -> Languagelab -> Zappit -> JeemTV -> Skute -> Siftware -> Elsevier -> Chivas Brothers
 ashb: Fotango -> NAP -> DigiResults -> Freelance -> MOJ -> Crowdmix -> M&S -> Annalect -> Astronomer.io
 Azlan: Lend Link -> Beyond -> Kalo -> JustGiving
