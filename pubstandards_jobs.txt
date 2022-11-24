@@ -107,7 +107,7 @@ Rowan: Assanka -> FT
 russss: Last.fm -> Smarkets -> IRCCloud -> Freelance
 SamLR: carhoots -> plentific -> ZenithOptimedia -> GDS -> uSwitch -> Lucid -> weaveworks -> Form3
 Sarah Clark: icom -> Steely Eye -> Isobar -> Freelance
-simonw: Yahoo! -> GCap -> Guardian -> Lanyrd -> Eventbrite -> Stanford JSK Fellowship -> ?
+simonw: Yahoo! -> GCap -> Guardian -> Lanyrd -> Eventbrite -> Stanford JSK Fellowship -> Datasette
 skarab: Smarkets -> G-Research -> Deepmind
 skr: Last.fm -> Twitter -> Fig.co -> Slack
 slightlyoff: Google -> Microsoft
