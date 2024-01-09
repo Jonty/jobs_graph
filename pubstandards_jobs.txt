@@ -7,20 +7,20 @@ adactio: Clearleft
 adamamyl: mySociety -> TooManyHats -> Guardian -> RewiredState -> OKFN -> Rails Bank
 ajlanghorn: GDS -> ThoughtWorks -> Amazon
 Alex Lee: Yahoo! -> GCap -> Kneedl -> Smarkets -> Freelance -> Mullenlowe Profero -> Foolproof -> Cohaesus -> Wunderman Thompson
-alexs: ADVFN -> QuietRevolution -> Artfinder -> Green Man Gaming -> Quru -> Freelance -> Lyst -> TransferWise -> Lyst -> Skyscanner -> Circuit Mind
+alexs: ADVFN -> QuietRevolution -> Artfinder -> Green Man Gaming -> Quru -> Freelance -> Lyst -> Wise -> Lyst -> Skyscanner -> Circuit Mind
 alfeaton: Nature -> Mendeley -> PeerJ
 alicebartlett: Assanka -> BERG -> GDS -> FT
 andrewgodwin: Torchbox -> Epio -> Lanyrd -> Eventbrite -> Robinhood -> Astronomer.io
 andybudd: Clearleft -> Freelance
 andyhume: Multimap -> Microsoft -> Clearleft -> Guardian -> Twitter -> Brandwatch -> Snyk
-Anna Shipman: GDS -> FT
+Anna Shipman: GDS -> FT -> Kooth
 Aquarion: Trutap -> Skimlinks -> Languagelab -> Zappit -> JeemTV -> Skute -> Siftware -> Elsevier -> Chivas Brothers
 ashb: Fotango -> NAP -> DigiResults -> Freelance -> MOJ -> Crowdmix -> M&S -> Annalect -> Astronomer.io
 Azlan: Lend Link -> Beyond -> Kalo -> JustGiving
 Ben Marvell: Wiley -> Sky -> LexisNexis -> EA -> Centrica -> GDS -> UK Home Office -> HM Passport Office -> Marvell Consulting
-benward: Fujitsu Siemens -> Yobject -> Yahoo! -> Yahoo! US -> Twitter -> Fitbit -> ?
+benward: Fujitsu Siemens -> Yobject -> Yahoo! -> Yahoo! US -> Twitter -> Fitbit -> Google -> Freelance -> Caire
 bfirsh: GCap -> Guardian -> Epio -> Lanyrd -> This Is My Jam -> Poetica -> GDS -> Orchard -> Docker -> replicate.ai
-bradwright: Yahoo! -> GCap -> Smarkets -> GDS -> M&S -> Pollen
+bradwright: Yahoo! -> GCap -> Smarkets -> GDS -> M&S -> Pollen -> Shopify
 bruntonspall: Guardian -> GDS -> Freelance -> Cabinet Office
 cackhanded: Yahoo! -> Linden Lab -> Artfinder -> GDS -> myHealthPal -> M&S -> LiveStax -> Money Advice Service -> Annalect -> Panoramic Data -> Astronomer.io
 cbetta: Nudge -> MinuteBox -> EmberAds -> PayPal -> Box -> Gr4vy
@@ -46,7 +46,7 @@ elliz: Soundmouse -> BritMilFit -> Microsoft -> Solidsoft -> SSE
 epayet: M&S -> Lyst
 fatbusinessman: Taptu -> Glasses Direct -> Mozilla -> GDS -> FutureLearn -> Hypothes.is -> Monzo -> weaveworks
 Felix Hawkins: DigiResults -> NAP -> Lonely Planet -> The App Business -> Entier -> Tractable -> Depop
-foreverautumn: Last.fm -> Compare the Market
+foreverautumn: Last.fm -> Compare the Market -> Wise
 garethr: GCap -> Glasses Direct -> FreeAgent -> GDS -> Puppet Labs -> Docker -> Snyk
 georgebrock: Freelance -> Reevoo -> Artfinder -> Tripbirds -> Freelance -> thoughtbot -> Github
 ginader: Yahoo! -> Yahoo! US -> Google
@@ -55,7 +55,7 @@ ianozsvald: ModelInsight -> Mor Consulting
 invisiblea: Last.fm -> Freelance -> Alex + Alex -> Built With Understanding -> Digital Camden
 imranghory: Freelance -> Index Ventures -> MarketInvoice -> Blossom Capital
 jabley: GDS -> M&S -> Moo -> MOJ -> Moo
-Jake Archibald: BBC -> theTeam -> Lanyrd -> Google
+Jake Archibald: BBC -> theTeam -> Lanyrd -> Google -> Shopify
 James Aitken: HostGator -> UK2
 jaylett: tangozebra -> Kudocities -> Freelance -> EMI -> Artfinder -> NSFWCORP -> Freelance -> Annalect
 jonty: Last.fm -> Lumi -> IRCCloud -> GDS -> Lucid
@@ -79,13 +79,13 @@ Meri Williams: GDS -> Vodafone -> myHealthPal -> M&S -> Moo -> Monzo -> Healx
 Mike Stenhouse: Trampoline -> Aframe 
 mikeb: siteDoc -> cloudMap -> calcResult
 MikeD:  Yahoo! -> LOVEFiLM -> Tizaro -> InstaSupply -> Mogul News -> ZOE
-mnowster: tangozebra -> Acknowledge -> Glasses Direct -> Artfinder -> GDS -> Freelance -> Unmade -> Lyst -> Weaveworks
+mnowster: tangozebra -> Acknowledge -> Glasses Direct -> Artfinder -> GDS -> Freelance -> Unmade -> Lyst -> Weaveworks -> Automata
 mokele: Last.fm -> Smarkets -> Stroud Brewery -> Actual Experience -> Ecotricity -> Liquidnet
 ms7821: Geneity -> Tradecraft
 mseckington: EmberAds -> Unboxed -> FutureLearn -> Wikimedia
 Murray Steele: Unboxed -> Cleo
 muffinresearch: Multimap -> Yahoo! -> GCap -> Canonical -> Mozilla -> ProtonMail
-muz: Last.fm -> Mendeley -> BBC -> blinkbox -> idio -> Episerver -> Shopify
+muz: Last.fm -> Mendeley -> BBC -> blinkbox -> idio -> Optimizely -> Shopify
 natbat: Torchbox -> Clearleft -> Lanyrd -> Eventbrite -> ?
 Nat Buckley: If -> Bulb -> Attest
 neilcrosby: Yahoo!  -> BBC -> LOVEFiLM -> Amazon -> Tizaro -> InstaSupply -> Tails.com
@@ -94,12 +94,12 @@ palfrey: Spotlight -> LShift -> Babylon Health
 paulcuth: ATS -> Gamesys -> IG -> Import.io -> Synthace -> Monzo
 pete goodman: Tonic -> Pirata -> f90
 phae: Volume -> BBC -> Nature -> GDS -> Code for America -> Freelance -> Netlify -> Freelance
-Philip Potter: GDS
+Philip Potter: GDS -> replicate.io
 pkqk: Reevoo -> Artfinder -> BERG -> myHealthPal -> ODI -> Freelance -> Farmdrop -> Movio
 poppiestar: adsdotcom -> Gamesys -> TravelMatch -> Lonely Planet -> Freelance -> Tesco -> yu life -> MelodyVR -> Chirp Birding -> Songkick
 rboulton: Lemur Consulting -> Celestial Navigation -> Lumi -> GDS -> Cloudflare
 retallicka: Mediatonic -> Adjust Your Set -> Gamesys -> Zedge -> Increo -> Indusenz
-Richard Pope: Moo -> mySociety -> Freelance -> GDS -> If -> Harvard Kennedy School -> Freelance -> ?
+Richard Pope: Moo -> mySociety -> Freelance -> GDS -> If -> Harvard Kennedy School -> Freelance
 RJ: Last.fm -> IRCCloud
 rnalexander: youDevise -> TIMGroup -> Money Advice Service -> Deutsche Bank
 rossbruniges: LSBU -> GCap -> LBi -> Nature -> Mozilla -> Expedia -> M&S -> Kalo -> Atlassian
