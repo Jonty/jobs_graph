@@ -54,7 +54,7 @@ hadleybeeman: LinkedGov -> Technology Strategy Board -> Mozilla -> GDS -> Depart
 ianozsvald: ModelInsight -> Mor Consulting
 invisiblea: Last.fm -> Freelance -> Alex + Alex -> Built With Understanding -> Digital Camden
 imranghory: Freelance -> Index Ventures -> MarketInvoice -> Blossom Capital
-jabley: GDS -> M&S -> Moo -> MOJ -> Moo
+jabley: GDS -> M&S -> Moo -> MOJ -> Moo -> Freelance
 Jake Archibald: BBC -> theTeam -> Lanyrd -> Google -> Shopify
 James Aitken: HostGator -> UK2
 jaylett: tangozebra -> Kudocities -> Freelance -> EMI -> Artfinder -> NSFWCORP -> Freelance -> Annalect
