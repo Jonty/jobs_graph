@@ -10,7 +10,7 @@ Alex Lee: Yahoo! -> GCap -> Kneedl -> Smarkets -> Freelance -> Mullenlowe Profer
 alexs: ADVFN -> QuietRevolution -> Artfinder -> Green Man Gaming -> Quru -> Freelance -> Lyst -> Wise -> Lyst -> Skyscanner -> Circuit Mind
 alfeaton: Nature -> Mendeley -> PeerJ
 alicebartlett: Assanka -> BERG -> GDS -> FT
-andrewgodwin: Torchbox -> Epio -> Lanyrd -> Eventbrite -> Robinhood -> Astronomer.io
+andrewgodwin: Torchbox -> Epio -> Lanyrd -> Eventbrite -> Robinhood -> Astronomer.io -> Lambda Labs
 andybudd: Clearleft -> Freelance
 andyhume: Multimap -> Microsoft -> Clearleft -> Guardian -> Twitter -> Brandwatch -> Snyk
 Anna Shipman: GDS -> FT -> Kooth
