@@ -90,7 +90,7 @@ muz: Last.fm -> Mendeley -> BBC -> blinkbox -> idio -> Optimizely -> Shopify
 natbat: Torchbox -> Clearleft -> Lanyrd -> Eventbrite -> ?
 Nat Buckley: If -> Bulb -> Attest
 neilcrosby: Yahoo!  -> BBC -> LOVEFiLM -> Amazon -> Tizaro -> InstaSupply -> Tails.com
-Nicky: Moo -> Freelance -> FutureLearn -> Freelance -> FutureLearn
+Nicky: Moo -> Freelance -> FutureLearn -> Freelance -> FutureLearn -> dxw
 palfrey: Spotlight -> LShift -> Babylon Health
 paulcuth: ATS -> Gamesys -> IG -> Import.io -> Synthace -> Monzo
 pete goodman: Tonic -> Pirata -> f90
