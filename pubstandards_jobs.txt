@@ -26,6 +26,7 @@ cackhanded: Yahoo! -> Linden Lab -> Artfinder -> GDS -> myHealthPal -> M&S -> Li
 cbetta: Nudge -> MinuteBox -> EmberAds -> PayPal -> Box -> Gr4vy
 chrismear: Freelance -> Greenvoice -> Freelance -> Litmus
 codepo8: Yahoo! -> Mozilla -> Microsoft
+coldclimate: Accidenture -> bGroup -> Wishli.st -> weddingtal.es -> Solarwinds -> Synthesia
 creature: Sun Microsystems -> Framestore CFC -> Last.fm -> 500px -> Pixlee
 czetter: Reevoo -> Rentify -> FutureLearn -> Farewill -> Koru Kids
 Dan W: Watershed -> Makeshift -> Freelance -> BuckleyWilliams -> Freelance -> FutureLearn
