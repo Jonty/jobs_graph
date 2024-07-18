@@ -105,7 +105,7 @@ rnalexander: youDevise -> TIMGroup -> Money Advice Service -> Deutsche Bank
 rossbruniges: LSBU -> GCap -> LBi -> Nature -> Mozilla -> Expedia -> M&S -> Kalo -> Atlassian
 Rowan: Assanka -> FT
 russss: Last.fm -> Smarkets -> IRCCloud -> Freelance
-SamLR: carhoots -> plentific -> ZenithOptimedia -> GDS -> uSwitch -> Lucid -> weaveworks -> Form3
+SamLR: carhoots -> plentific -> ZenithOptimedia -> GDS -> uSwitch -> Lucid -> weaveworks -> Form3 -> Cint 
 Sarah Clark: icom -> Steely Eye -> Isobar -> Freelance
 simonw: Yahoo! -> GCap -> Guardian -> Lanyrd -> Eventbrite -> Stanford JSK Fellowship -> Datasette
 skarab: Smarkets -> G-Research -> Deepmind
