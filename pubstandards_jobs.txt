@@ -35,6 +35,7 @@ Dan Webb: Vivabit -> peoplesmusicstore -> Twitter -> Deliveroo -> Facebook -> Li
 dannyamey: Yahoo! -> Grand Union -> Synacor -> Preloaded -> Tobias & Tobias -> Contentment -> Yammer -> Deliveroo
 David Emery: Freelance -> Beggars Group -> Kobalt Label Services -> Apple
 David R. MacIver: Trampoline -> Aframe -> Lumi -> Google -> Freelance -> Academia
+David Thompson: Taptu -> Glasses Direct -> Mozilla -> GDS -> FutureLearn -> Hypothes.is -> Monzo -> Weaveworks -> Microsoft -> ?
 dexterperrin: marketpipe -> BBC -> LOVEFiLM -> Amazon
 dgheath21: Wordtracker -> GDS
 dom: icom -> Freelance -> LBi -> Freelance -> DigiResults -> Freelance -> Unboxed -> GDS -> NHS -> M&S -> Freelance -> dxw -> replicate.ai
@@ -46,7 +47,6 @@ eadmundo: Yahoo! -> Squiz -> Smarkets -> Tobias & Tobias -> Adaptive Lab -> Free
 edent: O2 -> GDS -> NHSX -> GDS -> Cabinet Office
 elliz: Soundmouse -> BritMilFit -> Microsoft -> Solidsoft -> SSE
 epayet: M&S -> Lyst
-fatbusinessman: Taptu -> Glasses Direct -> Mozilla -> GDS -> FutureLearn -> Hypothes.is -> Monzo -> weaveworks
 Felix Hawkins: DigiResults -> NAP -> Lonely Planet -> The App Business -> Entier -> Tractable -> Depop
 foreverautumn: Last.fm -> Compare the Market -> Wise
 garethr: GCap -> Glasses Direct -> FreeAgent -> GDS -> Puppet Labs -> Docker -> Snyk
