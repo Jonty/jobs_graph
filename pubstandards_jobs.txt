@@ -63,6 +63,7 @@ jaylett: tangozebra -> Kudocities -> Freelance -> EMI -> Artfinder -> NSFWCORP -
 jonty: Last.fm -> Lumi -> IRCCloud -> GDS -> Lucid -> Cint
 jordan: GDS -> Australian DTO -> Hyperreal -> Austrade -> New South Wales Government
 Johanna Kollmann: Sidekick -> Snyk -> Freelance
+jribbens: Sitemorse
 jwheare: Torchbox -> Last.fm -> IRCCloud
 kapowaz: Teamphone -> HomeAway -> VideoJuicer -> Unboxed -> Photobox -> Bloomcrush -> Deliveroo -> OakNorth -> JPMorgan Chase & Co
 kevinprince: Capita -> World Food Programme -> NBC Universal -> O2 -> Guestfolio -> Mogo -> Slalom Build
