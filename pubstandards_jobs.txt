@@ -22,7 +22,7 @@ benward: Fujitsu Siemens -> Yobject -> Yahoo! -> Yahoo! US -> Twitter -> Fitbit 
 bfirsh: GCap -> Guardian -> Epio -> Lanyrd -> This Is My Jam -> Poetica -> GDS -> Orchard -> Docker -> replicate.ai
 bradwright: Yahoo! -> GCap -> Smarkets -> GDS -> M&S -> Pollen -> Shopify
 bruntonspall: Guardian -> GDS -> Freelance -> Cabinet Office
-cackhanded: Yahoo! -> Linden Lab -> Artfinder -> GDS -> myHealthPal -> M&S -> LiveStax -> Money Advice Service -> Annalect -> Panoramic Data -> Astronomer.io
+cackhanded: Yahoo! -> Linden Lab -> Artfinder -> GDS -> myHealthPal -> M&S -> LiveStax -> Money Advice Service -> Annalect -> Panoramic Data -> Astronomer.io -> ?
 cazmockett: BBC -> Siemens -> Freelance -> BBC -> Bricks McGee -> Anglia Ruskin University
 cbetta: Nudge -> MinuteBox -> EmberAds -> PayPal -> Box -> Gr4vy
 chrismear: Freelance -> Greenvoice -> Freelance -> Litmus
@@ -34,7 +34,7 @@ Dan W: Watershed -> Makeshift -> Freelance -> BuckleyWilliams -> Freelance -> Fu
 Dan Webb: Vivabit -> peoplesmusicstore -> Twitter -> Deliveroo -> Facebook -> Light Garden Studio
 dannyamey: Yahoo! -> Grand Union -> Synacor -> Preloaded -> Tobias & Tobias -> Contentment -> Yammer -> Deliveroo
 David Emery: Freelance -> Beggars Group -> Kobalt Label Services -> Apple
-David R. MacIver: Trampoline -> Aframe -> Lumi -> Google -> Freelance -> Academia
+David R. MacIver: Trampoline -> Aframe -> Lumi -> Google -> Freelance -> Academia -> Freelance
 David Thompson: Taptu -> Glasses Direct -> Mozilla -> GDS -> FutureLearn -> Hypothes.is -> Monzo -> Weaveworks -> Microsoft -> ?
 dexterperrin: marketpipe -> BBC -> LOVEFiLM -> Amazon
 dgheath21: Wordtracker -> GDS
@@ -90,7 +90,7 @@ Murray Steele: Unboxed -> Cleo
 muffinresearch: Multimap -> Yahoo! -> GCap -> Canonical -> Mozilla -> ProtonMail
 muz: Last.fm -> Mendeley -> BBC -> blinkbox -> idio -> Optimizely -> Shopify
 natbat: Torchbox -> Clearleft -> Lanyrd -> Eventbrite -> ?
-Nat Buckley: If -> Bulb -> Attest
+Nat Buckley: If -> Bulb -> Attest -> Freelance
 neilcrosby: Yahoo!  -> BBC -> LOVEFiLM -> Amazon -> Tizaro -> InstaSupply -> Tails.com
 Nicky: Moo -> Freelance -> FutureLearn -> Freelance -> FutureLearn -> dxw
 palfrey: Spotlight -> LShift -> Babylon Health
