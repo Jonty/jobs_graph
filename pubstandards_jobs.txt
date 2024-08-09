@@ -78,6 +78,7 @@ lucas42: Assanka -> FT
 lucky: Fabric -> 1000Heads -> Freelance -> Hogarth -> Fabric -> Freelance -> Wunderman -> RAPP -> Maxus -> Amazon
 mattbee: Gyro -> 9web -> Fabric -> National Theatre -> FutureLearn -> Made Tech -> ImpactEd
 matthias: recollective -> Less Rain -> Freelance -> Design Science Office -> Photobox
+mattg: Global -> mattg -> Freelance -> mattg -> CBS News -> mattg -> Bauer -> mattg -> mattg
 Meri Williams: GDS -> Vodafone -> myHealthPal -> M&S -> Moo -> Monzo -> Healx
 Mike Stenhouse: Trampoline -> Aframe -> Excession -> General System -> Freelance
 mikeb: siteDoc -> cloudMap -> calcResult
