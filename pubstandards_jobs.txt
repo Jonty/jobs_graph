@@ -42,7 +42,7 @@ dom: icom -> Freelance -> LBi -> Freelance -> DigiResults -> Freelance -> Unboxe
 dominicgs: Geneity -> Fluent Image -> ITG -> Great Scott Gadgets -> Apple
 dorward: Fish IC -> Sophos -> Yahoo! -> Playfire -> BBC -> Base79 -> Razorfish -> FairFX -> Lab49 -> Global Relay
 David Singleton: Spring Digital -> Last.fm -> Lumi -> GDS -> Deliveroo -> Intercom -> Flawless AI
-dunk: Last.fm -> Academia -> Genomics England -> Borrow a Boat -> Liquidnet -> Kinship -> JPMorgan Chase & Co
+dunk: Last.fm -> Academia -> Genomics England -> Borrow a Boat -> Liquidnet -> Kinship -> JPMorgan Chase & Co -> Loadsure
 eadmundo: Yahoo! -> Squiz -> Smarkets -> Tobias & Tobias -> Adaptive Lab -> Freelance
 edent: O2 -> GDS -> NHSX -> GDS -> Cabinet Office
 elliz: Soundmouse -> BritMilFit -> Microsoft -> Solidsoft -> SSE
