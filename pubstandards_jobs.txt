@@ -69,7 +69,7 @@ kapowaz: Teamphone -> HomeAway -> VideoJuicer -> Unboxed -> Photobox -> Bloomcru
 kevinprince: Capita -> World Food Programme -> NBC Universal -> O2 -> Guestfolio -> Mogo -> Slalom Build
 Kenneth Kufluk: Digitas -> Freelance -> Twitter -> Frec
 knockles: Red Snapper -> Squiz -> Yahoo! -> Expedia -> Full Fact
-kushalp: GDS -> GoCardless -> Freelance -> Curl -> Apple
+kushalp: GDS -> GoCardless -> Freelance -> Klarna -> Curl -> Bloomberg -> Apple
 Leon: The Trainline -> Trafalgar -> CRU -> 7Digital -> Red Badger -> OpenTable -> MarketInvoice
 lindas: Last.fm -> Code Club -> Knight-Mozilla fellowship -> Nordic Approach -> Freelance -> EnergiWatch Norge
 lizard: icom -> Unboxed -> Sky
