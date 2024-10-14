@@ -88,7 +88,7 @@ mokele: Last.fm -> Smarkets -> Stroud Brewery -> Actual Experience -> Ecotricity
 ms7821: Geneity -> Tradecraft
 mseckington: EmberAds -> Unboxed -> FutureLearn -> Wikimedia
 Murray Steele: Unboxed -> Cleo
-muffinresearch: Multimap -> Yahoo! -> GCap -> Canonical -> Mozilla -> ProtonMail
+muffinresearch: Multimap -> Yahoo! -> GCap -> Canonical -> Mozilla -> ProtonMail -> Mozilla
 muz: Last.fm -> Mendeley -> BBC -> blinkbox -> idio -> Optimizely -> Shopify
 natbat: Torchbox -> Clearleft -> Lanyrd -> Eventbrite -> ?
 Nat Buckley: If -> Bulb -> Attest -> Freelance
@@ -117,7 +117,7 @@ skr: Last.fm -> Twitter -> Fig.co -> Slack
 slightlyoff: Google -> Microsoft
 solidgoldpig: Freelance -> Symbian Foundation -> Maersk -> Freelance -> MOJ -> UK Home Office -> MOJ -> DfT -> Universal Credit
 squirmelia: Experian -> BT
-Steve Marshall: Fujitsu Siemens -> Yahoo! -> Expedia -> Tizaro -> MOJ
+Steve Marshall: Fujitsu Siemens -> Yahoo! -> Expedia -> Tizaro -> MOJ -> Mozilla
 Sully: Academia
 Tamsin: Yahoo! -> Moo -> ?
 tef: Code Club -> Citymapper -> Heroku -> Lyst -> Meter -> ?
