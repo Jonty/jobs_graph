@@ -44,7 +44,7 @@ dorward: Fish IC -> Sophos -> Yahoo! -> Playfire -> BBC -> Base79 -> Razorfish -
 David Singleton: Spring Digital -> Last.fm -> Lumi -> GDS -> Deliveroo -> Intercom -> Flawless AI
 dunk: Last.fm -> Academia -> Genomics England -> Borrow a Boat -> Liquidnet -> Kinship -> JPMorgan Chase & Co -> Loadsure
 eadmundo: Yahoo! -> Squiz -> Smarkets -> Tobias & Tobias -> Adaptive Lab -> Freelance
-edent: O2 -> GDS -> NHSX -> GDS -> Cabinet Office
+edent: O2 -> GDS -> NHSX -> GDS -> Cabinet Office -> Our Future Health -> Open Ideas
 elliz: Soundmouse -> BritMilFit -> Microsoft -> Solidsoft -> SSE
 epayet: M&S -> Lyst
 Felix Hawkins: DigiResults -> NAP -> Lonely Planet -> The App Business -> Entier -> Tractable -> Depop
