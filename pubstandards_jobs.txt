@@ -75,7 +75,7 @@ lindas: Last.fm -> Code Club -> Knight-Mozilla fellowship -> Nordic Approach -> 
 lizard: icom -> Unboxed -> Sky
 lordcope: Wordtracker -> Capita -> Sony -> Opscode -> Mendeley -> Chef -> Ticketmaster
 lucas42: Assanka -> FT
-lucky: Fabric -> 1000Heads -> Freelance -> Hogarth -> Fabric -> Freelance -> Wunderman -> RAPP -> Maxus -> Amazon -> DevExConnect
+lucky: Fabric -> 1000Heads -> Freelance -> Hogarth -> Fabric -> Freelance -> Wunderman -> RAPP -> Maxus -> Amazon -> DevEx Connect -> Salt Security
 mattbee: Gyro -> 9web -> Fabric -> National Theatre -> FutureLearn -> Made Tech -> ImpactEd
 matthias: recollective -> Less Rain -> Freelance -> Design Science Office -> Photobox
 mattg: Global -> mattg -> Freelance -> mattg -> CBS News -> mattg -> Bauer -> mattg -> mattg
