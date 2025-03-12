@@ -30,7 +30,7 @@ codepo8: Yahoo! -> Mozilla -> Microsoft
 coldclimate: Accidenture -> bGroup -> Wishli.st -> weddingtal.es -> Solarwinds -> Synthesia
 creature: Sun Microsystems -> Framestore CFC -> Last.fm -> 500px -> Pixlee
 czetter: Reevoo -> Rentify -> FutureLearn -> Farewill -> Koru Kids
-Dan W: Watershed -> Makeshift -> Freelance -> BuckleyWilliams -> Freelance -> FutureLearn
+Dan W: Watershed -> Makeshift -> Freelance -> BuckleyWilliams -> Freelance -> FutureLearn -> ?
 Dan Webb: Vivabit -> peoplesmusicstore -> Twitter -> Deliveroo -> Facebook -> Light Garden Studio
 dannyamey: Yahoo! -> Grand Union -> Synacor -> Preloaded -> Tobias & Tobias -> Contentment -> Yammer -> Deliveroo
 David Emery: Freelance -> Beggars Group -> Kobalt Label Services -> Apple
@@ -38,7 +38,7 @@ David R. MacIver: Trampoline -> Aframe -> Lumi -> Google -> Freelance -> Academi
 David Thompson: Taptu -> Glasses Direct -> Mozilla -> GDS -> FutureLearn -> Hypothes.is -> Monzo -> Weaveworks -> Microsoft -> ?
 dexterperrin: marketpipe -> BBC -> LOVEFiLM -> Amazon
 dgheath21: Wordtracker -> GDS
-dom: icom -> Freelance -> LBi -> Freelance -> DigiResults -> Freelance -> Unboxed -> GDS -> NHS -> M&S -> Freelance -> dxw -> replicate.ai
+dom: icom -> Freelance -> LBi -> Freelance -> DigiResults -> Freelance -> Unboxed -> GDS -> NHS -> M&S -> Freelance -> dxw -> replicate.ai -> ?
 dominicgs: Geneity -> Fluent Image -> ITG -> Great Scott Gadgets -> Apple
 dorward: Fish IC -> Sophos -> Yahoo! -> Playfire -> BBC -> Base79 -> Razorfish -> FairFX -> Lab49 -> Global Relay
 David Singleton: Spring Digital -> Last.fm -> Lumi -> GDS -> Deliveroo -> Intercom -> Flawless AI
@@ -73,7 +73,7 @@ knockles: Red Snapper -> Squiz -> Yahoo! -> Expedia -> Full Fact
 kushalp: GDS -> GoCardless -> Freelance -> Klarna -> Curl -> Bloomberg -> Apple
 Leon: The Trainline -> Trafalgar -> CRU -> 7Digital -> Red Badger -> OpenTable -> MarketInvoice
 lindas: Last.fm -> Code Club -> Knight-Mozilla fellowship -> Nordic Approach -> Freelance -> EnergiWatch Norge
-lizard: icom -> Unboxed -> Sky
+lizard: icom -> Unboxed -> Sky -> Depop
 lordcope: Wordtracker -> Capita -> Sony -> Opscode -> Mendeley -> Chef -> Ticketmaster
 lucas42: Assanka -> FT
 lucky: Fabric -> 1000Heads -> Freelance -> Hogarth -> Fabric -> Freelance -> Wunderman -> RAPP -> Maxus -> Amazon -> DevEx Connect -> Salt Security
@@ -121,7 +121,7 @@ squirmelia: Experian -> BT
 Steve Marshall: Fujitsu Siemens -> Yahoo! -> Expedia -> Tizaro -> MOJ -> Mozilla
 Sully: Academia
 Tamsin: Yahoo! -> Moo -> ?
-tef: Code Club -> Citymapper -> Heroku -> Lyst -> Meter -> ?
+tef: Code Club -> Citymapper -> Heroku -> Lyst -> Meter -> Loadsure
 theartisan: uSwitch -> Top10.com -> PeerIndex -> BrightTalk -> Fabric -> Freelance -> Havas Helia -> GDS -> Maxus -> Made.com -> Beamly -> Arachnys -> Essence -> Freelance -> Gr4vy -> Outra
 tmower: GDS -> Yelp
 tommorris: Academia -> Colourfast -> LinkedGov -> Fabric -> M&S -> Freelance -> Nexmo -> Freelance -> FutureLearn
