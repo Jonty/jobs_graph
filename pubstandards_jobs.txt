@@ -60,6 +60,7 @@ jabley: GDS -> M&S -> Moo -> MOJ -> Moo -> Freelance
 Jake Archibald: BBC -> theTeam -> Lanyrd -> Google -> Shopify
 James Aitken: HostGator -> UK2
 jaylett: tangozebra -> Kudocities -> Freelance -> EMI -> Artfinder -> NSFWCORP -> Freelance -> Annalect
+jcoglan: Songkick -> FutureLearn -> dxw -> Neighbourhoodie
 jonty: Last.fm -> Lumi -> IRCCloud -> GDS -> Lucid -> Cint -> ?
 jordan: GDS -> Australian DTO -> Hyperreal -> Austrade -> New South Wales Government
 Johanna Kollmann: Sidekick -> Snyk -> Freelance
