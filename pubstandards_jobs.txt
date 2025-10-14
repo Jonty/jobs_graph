@@ -122,7 +122,7 @@ Steve Marshall: Fujitsu Siemens -> Yahoo! -> Expedia -> Tizaro -> MOJ -> Mozilla
 Sully: Academia
 Tamsin: Yahoo! -> Moo -> ?
 tef: Code Club -> Citymapper -> Heroku -> Lyst -> Meter -> Loadsure
-theartisan: uSwitch -> Top10.com -> PeerIndex -> BrightTalk -> Fabric -> Freelance -> Havas Helia -> GDS -> Maxus -> Made.com -> Beamly -> Arachnys -> Essence -> Freelance -> Gr4vy -> Outra
+theartisan: uSwitch -> Top10.com -> PeerIndex -> BrightTalk -> Fabric -> Freelance -> Havas Helia -> GDS -> Maxus -> Made.com -> Beamly -> Arachnys -> Essence -> Freelance -> Gr4vy -> Outra -> Marvellous Insights
 tmower: GDS -> Yelp
 tommorris: Academia -> Colourfast -> LinkedGov -> Fabric -> M&S -> Freelance -> Nexmo -> Freelance -> FutureLearn
 tommypalm: GDS -> Deliveroo -> Good Club -> Sona
