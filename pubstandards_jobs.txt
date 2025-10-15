@@ -57,7 +57,7 @@ ianozsvald: ModelInsight -> Mor Consulting
 invisiblea: Last.fm -> Freelance -> Alex + Alex -> Built With Understanding -> Digital Camden
 imranghory: Freelance -> Index Ventures -> MarketInvoice -> Blossom Capital
 jabley: GDS -> M&S -> Moo -> MOJ -> Moo -> Freelance
-Jake Archibald: BBC -> theTeam -> Lanyrd -> Google -> Shopify
+Jake Archibald: BBC -> theTeam -> Lanyrd -> Google -> Shopify -> Mozilla
 James Aitken: HostGator -> UK2
 jaylett: tangozebra -> Kudocities -> Freelance -> EMI -> Artfinder -> NSFWCORP -> Freelance -> Annalect
 jcoglan: Songkick -> FutureLearn -> dxw -> Neighbourhoodie
