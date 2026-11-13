@@ -19,7 +19,7 @@ ashb: Fotango -> NAP -> DigiResults -> Freelance -> MOJ -> Crowdmix -> M&S -> An
 Azlan: Lend Link -> Beyond -> Kalo -> JustGiving
 Ben Marvell: Wiley -> Sky -> LexisNexis -> EA -> Centrica -> GDS -> UK Home Office -> HM Passport Office -> Marvell Consulting
 benward: Fujitsu Siemens -> Yobject -> Yahoo! -> Yahoo! US -> Twitter -> Fitbit -> Google -> Freelance -> Caire
-bfirsh: GCap -> Guardian -> Epio -> Lanyrd -> This Is My Jam -> Poetica -> GDS -> Orchard -> Docker -> replicate.ai
+bfirsh: GCap -> Guardian -> Epio -> Lanyrd -> This Is My Jam -> Poetica -> GDS -> Orchard -> Docker -> replicate.ai -> Cloudflare
 bradwright: Yahoo! -> GCap -> Smarkets -> GDS -> M&S -> Pollen -> Shopify
 bruntonspall: Guardian -> GDS -> Freelance -> Cabinet Office
 cackhanded: Yahoo! -> Linden Lab -> Artfinder -> GDS -> myHealthPal -> M&S -> LiveStax -> Money Advice Service -> Annalect -> Panoramic Data -> Astronomer.io -> ?
@@ -28,7 +28,7 @@ cbetta: Nudge -> MinuteBox -> EmberAds -> PayPal -> Box -> Gr4vy
 chrismear: Freelance -> Greenvoice -> Freelance -> Litmus
 codepo8: Yahoo! -> Mozilla -> Microsoft
 coldclimate: Accidenture -> bGroup -> Wishli.st -> weddingtal.es -> Solarwinds -> Synthesia
-creature: Sun Microsystems -> Framestore CFC -> Last.fm -> 500px -> Pixlee
+creature: Sun Microsystems -> Framestore CFC -> Last.fm -> 500px -> Pixlee -> Jobber
 czetter: Reevoo -> Rentify -> FutureLearn -> Farewill -> Koru Kids
 Dan W: Watershed -> Makeshift -> Freelance -> BuckleyWilliams -> Freelance -> FutureLearn -> ?
 Dan Webb: Vivabit -> peoplesmusicstore -> Twitter -> Deliveroo -> Facebook -> Light Garden Studio
@@ -41,10 +41,10 @@ dgheath21: Wordtracker -> GDS
 dom: icom -> Freelance -> LBi -> Freelance -> DigiResults -> Freelance -> Unboxed -> GDS -> NHS -> M&S -> Freelance -> dxw -> replicate.ai -> ?
 dominicgs: Geneity -> Fluent Image -> ITG -> Great Scott Gadgets -> Apple
 dorward: Fish IC -> Sophos -> Yahoo! -> Playfire -> BBC -> Base79 -> Razorfish -> FairFX -> Lab49 -> Global Relay
-David Singleton: Spring Digital -> Last.fm -> Lumi -> GDS -> Deliveroo -> Intercom -> Flawless AI
+David Singleton: Spring Digital -> Last.fm -> Lumi -> GDS -> Deliveroo -> Intercom -> Flawless AI -> Microsoft
 dunk: Last.fm -> Academia -> Genomics England -> Borrow a Boat -> Liquidnet -> Kinship -> JPMorgan Chase & Co -> Loadsure
 eadmundo: Yahoo! -> Squiz -> Smarkets -> Tobias & Tobias -> Adaptive Lab -> Freelance
-edent: O2 -> GDS -> NHSX -> GDS -> Cabinet Office -> Our Future Health -> Open Ideas
+edent: O2 -> GDS -> NHSX -> GDS -> Cabinet Office -> Our Future Health -> Open Ideas -> ?
 elliz: Soundmouse -> BritMilFit -> Microsoft -> Solidsoft -> SSE
 epayet: M&S -> Lyst
 Felix Hawkins: DigiResults -> NAP -> Lonely Planet -> The App Business -> Entier -> Tractable -> Depop
@@ -59,9 +59,9 @@ imranghory: Freelance -> Index Ventures -> MarketInvoice -> Blossom Capital
 jabley: GDS -> M&S -> Moo -> MOJ -> Moo -> Freelance
 Jake Archibald: BBC -> theTeam -> Lanyrd -> Google -> Shopify -> Mozilla
 James Aitken: HostGator -> UK2
-jaylett: tangozebra -> Kudocities -> Freelance -> EMI -> Artfinder -> NSFWCORP -> Freelance -> Annalect
+jaylett: tangozebra -> Kudocities -> Freelance -> EMI -> Artfinder -> NSFWCORP -> Freelance -> Annalect -> ?
 jcoglan: Songkick -> FutureLearn -> dxw -> Neighbourhoodie
-jonty: Last.fm -> Lumi -> IRCCloud -> GDS -> Lucid -> Cint -> Cint
+jonty: Last.fm -> Lumi -> IRCCloud -> GDS -> Lucid -> Cint -> Flickr Foundation -> Cint
 jordan: GDS -> Australian DTO -> Hyperreal -> Austrade -> New South Wales Government
 Johanna Kollmann: Sidekick -> Snyk -> Freelance
 jribbens: Sitemorse
@@ -84,7 +84,7 @@ Meri Williams: GDS -> Vodafone -> myHealthPal -> M&S -> Moo -> Monzo -> Healx ->
 Mike Stenhouse: Trampoline -> Aframe -> Excession -> General System -> Freelance
 mikeb: siteDoc -> cloudMap -> calcResult
 MikeD:  Yahoo! -> LOVEFiLM -> Tizaro -> InstaSupply -> Mogul News -> ZOE
-mnowster: tangozebra -> Acknowledge -> Glasses Direct -> Artfinder -> GDS -> Freelance -> Unmade -> Lyst -> Weaveworks -> Automata
+mnowster: tangozebra -> Acknowledge -> Glasses Direct -> Artfinder -> GDS -> Freelance -> Unmade -> Lyst -> Weaveworks -> Automata -> Overstory
 mokele: Last.fm -> Smarkets -> Stroud Brewery -> Actual Experience -> Ecotricity -> Liquidnet
 ms7821: Geneity -> Tradecraft
 mseckington: EmberAds -> Unboxed -> FutureLearn -> Wikimedia -> Container Solutions -> Freelance
@@ -99,7 +99,7 @@ palfrey: Spotlight -> LShift -> Babylon Health -> doxy.me -> Omnipresent
 paulcuth: ATS -> Gamesys -> IG -> Import.io -> Synthace -> Monzo
 pete goodman: Tonic -> Pirata -> f90
 phae: Volume -> BBC -> Nature -> GDS -> Code for America -> Freelance -> Netlify -> Freelance
-Philip Potter: GDS -> replicate.io
+Philip Potter: GDS -> replicate.io -> Nvidia
 pkqk: Reevoo -> Artfinder -> BERG -> myHealthPal -> ODI -> Freelance -> Farmdrop -> Movio
 poppiestar: adsdotcom -> Gamesys -> TravelMatch -> Lonely Planet -> Freelance -> Tesco -> yu life -> MelodyVR -> Chirp Birding -> Songkick
 rboulton: Lemur Consulting -> Celestial Navigation -> Lumi -> GDS -> Cloudflare
@@ -114,14 +114,14 @@ SamLR: carhoots -> plentific -> ZenithOptimedia -> GDS -> uSwitch -> Lucid -> we
 Sarah Clark: icom -> Steely Eye -> Isobar -> Freelance
 simonw: Yahoo! -> GCap -> Guardian -> Lanyrd -> Eventbrite -> Stanford JSK Fellowship -> Datasette
 skarab: Smarkets -> G-Research -> Deepmind -> Auguration -> Citadel Securities
-skr: Last.fm -> Twitter -> Fig.co -> Slack
+skr: Last.fm -> Twitter -> Fig.co -> Slack -> ?
 slightlyoff: Google -> Microsoft
 solidgoldpig: Freelance -> Symbian Foundation -> Maersk -> Freelance -> MOJ -> UK Home Office -> MOJ -> DfT -> Universal Credit
 squirmelia: Experian -> BT
 Steve Marshall: Fujitsu Siemens -> Yahoo! -> Expedia -> Tizaro -> MOJ -> Mozilla
 Sully: Academia
 Tamsin: Yahoo! -> Moo -> ?
-tef: Code Club -> Citymapper -> Heroku -> Lyst -> Meter -> Loadsure
+tef: Code Club -> Citymapper -> Heroku -> Lyst -> Meter -> Loadsure -> ?
 theartisan: uSwitch -> Top10.com -> PeerIndex -> BrightTalk -> Fabric -> Freelance -> Havas Helia -> GDS -> Maxus -> Made.com -> Beamly -> Arachnys -> Essence -> Freelance -> Gr4vy -> Outra -> Marvellous Insights
 tmower: GDS -> Yelp
 tommorris: Academia -> Colourfast -> LinkedGov -> Fabric -> M&S -> Freelance -> Nexmo -> Freelance -> FutureLearn
